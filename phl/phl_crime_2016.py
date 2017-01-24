@@ -1,7 +1,6 @@
 
 # coding: utf-8
 
-# In[9]:
 
 # h/t to wwymak for the nyc code that this is based heavily on.
 import numpy as np
