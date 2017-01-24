@@ -11,7 +11,7 @@ import urllib
  
 #setup variables for paging
 #find total number of records to iterate through
-countquery = ('https://data.phila.gov/resource/sspu-uyfa.json?&$select=count(*)')
+countquery = ('https://data.phila.gov/resource/sspu-uyfa.json?$select=count(*)')
 numrecords = pd.read_json(countquery)
 #get total number of records as an integer
 numr = numrecords.iloc[0,0]
