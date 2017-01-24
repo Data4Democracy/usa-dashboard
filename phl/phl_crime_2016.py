@@ -21,7 +21,7 @@ offsetval = limit
 mindate = "2015-12-31"
 maxdate = "2017-01-01"
 #Apply to Query string
-qonestr = "https://data.phila.gov/resource/sspu-uyfa.json?$where=dispatch_date>'"+ mindate +"'%20AND%20dispatch_date<'"+ maxdate + "'&$$app_token=QUiKJ4ZSXVHerTpOYAIqt7uf3&$limit=" + str(limit)
+qonestr = "https://data.phila.gov/resource/sspu-uyfa.json?$where=dispatch_date>'"+ mindate +"'%20AND%20dispatch_date<'"+ maxdate + "'&$limit=" + str(limit)
 crime_dataframe = pd.read_json(qonestr)	
 #Page through data, appemd to the dataframe
 while (offsetval < (numr - limit)):
