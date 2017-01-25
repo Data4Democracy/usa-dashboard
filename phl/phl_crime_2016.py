@@ -1,7 +1,5 @@
 
 # coding: utf-8
-
-
 # h/t to wwymak for the nyc code that this is based heavily on.
 import numpy as np
 import pandas as pd
@@ -10,21 +8,22 @@ import datetime
 import urllib
  
 #setup variables for paging
-#find total number of records to iterate through
-countquery = ('https://data.phila.gov/resource/sspu-uyfa.json?$select=count(*)')
-numrecords = pd.read_json(countquery)
-#get total number of records as an integer
-numr = numrecords.iloc[0,0]
-limit = 50000
-offsetval = limit
 #Date Range
 mindate = "2015-12-31"
 maxdate = "2017-01-01"
+limit = 50000
+offsetval = limit
+#find total number of records to iterate through
+countquery = ("https://data.phila.gov/resource/sspu-uyfa.json?$where=dispatch_date>'"+ mindate +"'%20AND%20dispatch_date<'"+ maxdate + "'&$select=count(*)")
+numrecords = pd.read_json(countquery)
+#get total number of records as an integer
+numr = numrecords.iloc[0,0]
+
 #Apply to Query string
 qonestr = "https://data.phila.gov/resource/sspu-uyfa.json?$where=dispatch_date>'"+ mindate +"'%20AND%20dispatch_date<'"+ maxdate + "'&$limit=" + str(limit)
 crime_dataframe = pd.read_json(qonestr)	
 #Page through data, appemd to the dataframe
-while (offsetval < (numr - limit)):
+while (offsetval < numr):
     qtwostr = qonestr + "&$offset=" + str(offsetval)
     crime_dataframe = crime_dataframe.append(pd.read_json(qtwostr), ignore_index=True)
     offsetval = offsetval + limit
