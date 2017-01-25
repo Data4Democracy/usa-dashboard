@@ -2865,10 +2865,10 @@ year,month,day,text_general_code,count
 2016,4,30,Weapon Violations,7
 2016,5,1,Aggravated Assault Firearm,4
 2016,5,1,Aggravated Assault No Firearm,17
-2016,5,1,All Other Offenses,109
+2016,5,1,All Other Offenses,103
 2016,5,1,Burglary Non-Residential,4
 2016,5,1,Burglary Residential,12
-2016,5,1,DRIVING UNDER THE INFLUENCE,17
+2016,5,1,DRIVING UNDER THE INFLUENCE,16
 2016,5,1,Disorderly Conduct,6
 2016,5,1,Forgery and Counterfeiting,3
 2016,5,1,Fraud,17
@@ -2888,7 +2888,7 @@ year,month,day,text_general_code,count
 2016,5,1,Weapon Violations,3
 2016,5,2,Aggravated Assault Firearm,4
 2016,5,2,Aggravated Assault No Firearm,18
-2016,5,2,All Other Offenses,82
+2016,5,2,All Other Offenses,81
 2016,5,2,Burglary Non-Residential,11
 2016,5,2,Burglary Residential,21
 2016,5,2,DRIVING UNDER THE INFLUENCE,6
@@ -2906,7 +2906,7 @@ year,month,day,text_general_code,count
 2016,5,2,Robbery Firearm,5
 2016,5,2,Robbery No Firearm,9
 2016,5,2,Theft from Vehicle,22
-2016,5,2,Thefts,68
+2016,5,2,Thefts,67
 2016,5,2,Vandalism/Criminal Mischief,40
 2016,5,2,Weapon Violations,6
 2016,5,3,Aggravated Assault Firearm,6
@@ -3426,9 +3426,9 @@ year,month,day,text_general_code,count
 2016,5,23,Thefts,65
 2016,5,23,Vandalism/Criminal Mischief,56
 2016,5,23,Weapon Violations,4
-2016,5,24,Aggravated Assault Firearm,3
+2016,5,24,Aggravated Assault Firearm,2
 2016,5,24,Aggravated Assault No Firearm,15
-2016,5,24,All Other Offenses,121
+2016,5,24,All Other Offenses,116
 2016,5,24,Burglary Non-Residential,2
 2016,5,24,Burglary Residential,17
 2016,5,24,DRIVING UNDER THE INFLUENCE,8
@@ -3436,8 +3436,8 @@ year,month,day,text_general_code,count
 2016,5,24,Forgery and Counterfeiting,1
 2016,5,24,Fraud,42
 2016,5,24,Motor Vehicle Theft,7
-2016,5,24,Narcotic / Drug Law Violations,34
-2016,5,24,Other Assaults,73
+2016,5,24,Narcotic / Drug Law Violations,32
+2016,5,24,Other Assaults,72
 2016,5,24,Other Sex Offenses (Not Commercialized),2
 2016,5,24,Prostitution and Commercialized Vice,9
 2016,5,24,Public Drunkenness,1
@@ -3445,11 +3445,11 @@ year,month,day,text_general_code,count
 2016,5,24,Recovered Stolen Motor Vehicle,31
 2016,5,24,Robbery Firearm,4
 2016,5,24,Robbery No Firearm,7
-2016,5,24,Theft from Vehicle,42
-2016,5,24,Thefts,66
+2016,5,24,Theft from Vehicle,41
+2016,5,24,Thefts,64
 2016,5,24,Vandalism/Criminal Mischief,36
 2016,5,24,Weapon Violations,9
-2016,5,25,Aggravated Assault Firearm,12
+2016,5,25,Aggravated Assault Firearm,11
 2016,5,25,Aggravated Assault No Firearm,21
 2016,5,25,All Other Offenses,89
 2016,5,25,Arson,1
@@ -3471,7 +3471,7 @@ year,month,day,text_general_code,count
 2016,5,25,Robbery Firearm,7
 2016,5,25,Robbery No Firearm,7
 2016,5,25,Theft from Vehicle,39
-2016,5,25,Thefts,80
+2016,5,25,Thefts,79
 2016,5,25,Vandalism/Criminal Mischief,51
 2016,5,25,Weapon Violations,8
 2016,5,26,Aggravated Assault Firearm,6
@@ -3864,17 +3864,17 @@ year,month,day,text_general_code,count
 2016,6,10,Vandalism/Criminal Mischief,40
 2016,6,11,Aggravated Assault Firearm,7
 2016,6,11,Aggravated Assault No Firearm,17
-2016,6,11,All Other Offenses,94
+2016,6,11,All Other Offenses,86
 2016,6,11,Burglary Non-Residential,3
 2016,6,11,Burglary Residential,18
 2016,6,11,DRIVING UNDER THE INFLUENCE,16
 2016,6,11,Disorderly Conduct,6
-2016,6,11,Fraud,35
+2016,6,11,Fraud,34
 2016,6,11,Homicide - Criminal,3
 2016,6,11,Motor Vehicle Theft,7
 2016,6,11,Narcotic / Drug Law Violations,18
 2016,6,11,Offenses Against Family and Children,1
-2016,6,11,Other Assaults,61
+2016,6,11,Other Assaults,60
 2016,6,11,Other Sex Offenses (Not Commercialized),2
 2016,6,11,Prostitution and Commercialized Vice,3
 2016,6,11,Public Drunkenness,1
@@ -3883,13 +3883,13 @@ year,month,day,text_general_code,count
 2016,6,11,Recovered Stolen Motor Vehicle,24
 2016,6,11,Robbery Firearm,6
 2016,6,11,Robbery No Firearm,15
-2016,6,11,Theft from Vehicle,28
+2016,6,11,Theft from Vehicle,27
 2016,6,11,Thefts,47
-2016,6,11,Vandalism/Criminal Mischief,50
+2016,6,11,Vandalism/Criminal Mischief,46
 2016,6,11,Weapon Violations,1
 2016,6,12,Aggravated Assault Firearm,5
 2016,6,12,Aggravated Assault No Firearm,14
-2016,6,12,All Other Offenses,79
+2016,6,12,All Other Offenses,72
 2016,6,12,Burglary Non-Residential,2
 2016,6,12,Burglary Residential,15
 2016,6,12,DRIVING UNDER THE INFLUENCE,16
@@ -3899,7 +3899,7 @@ year,month,day,text_general_code,count
 2016,6,12,Motor Vehicle Theft,5
 2016,6,12,Narcotic / Drug Law Violations,8
 2016,6,12,Offenses Against Family and Children,2
-2016,6,12,Other Assaults,55
+2016,6,12,Other Assaults,54
 2016,6,12,Other Sex Offenses (Not Commercialized),3
 2016,6,12,Rape,4
 2016,6,12,Recovered Stolen Motor Vehicle,19
@@ -4314,7 +4314,7 @@ year,month,day,text_general_code,count
 2016,6,29,Weapon Violations,5
 2016,6,30,Aggravated Assault Firearm,5
 2016,6,30,Aggravated Assault No Firearm,14
-2016,6,30,All Other Offenses,145
+2016,6,30,All Other Offenses,143
 2016,6,30,Burglary Non-Residential,6
 2016,6,30,Burglary Residential,11
 2016,6,30,DRIVING UNDER THE INFLUENCE,6
@@ -4325,7 +4325,7 @@ year,month,day,text_general_code,count
 2016,6,30,Homicide - Criminal,1
 2016,6,30,Motor Vehicle Theft,5
 2016,6,30,Narcotic / Drug Law Violations,32
-2016,6,30,Other Assaults,67
+2016,6,30,Other Assaults,65
 2016,6,30,Other Sex Offenses (Not Commercialized),2
 2016,6,30,Prostitution and Commercialized Vice,1
 2016,6,30,Rape,3
@@ -4458,7 +4458,7 @@ year,month,day,text_general_code,count
 2016,7,5,Weapon Violations,4
 2016,7,6,Aggravated Assault Firearm,11
 2016,7,6,Aggravated Assault No Firearm,12
-2016,7,6,All Other Offenses,116
+2016,7,6,All Other Offenses,115
 2016,7,6,Arson,1
 2016,7,6,Burglary Non-Residential,9
 2016,7,6,Burglary Residential,17
@@ -4483,7 +4483,7 @@ year,month,day,text_general_code,count
 2016,7,7,Aggravated Assault No Firearm,15
 2016,7,7,All Other Offenses,96
 2016,7,7,Burglary Non-Residential,2
-2016,7,7,Burglary Residential,13
+2016,7,7,Burglary Residential,14
 2016,7,7,DRIVING UNDER THE INFLUENCE,6
 2016,7,7,Fraud,33
 2016,7,7,Motor Vehicle Theft,5
@@ -4501,7 +4501,7 @@ year,month,day,text_general_code,count
 2016,7,7,Vandalism/Criminal Mischief,51
 2016,7,7,Weapon Violations,5
 2016,7,8,Aggravated Assault Firearm,3
-2016,7,8,Aggravated Assault No Firearm,11
+2016,7,8,Aggravated Assault No Firearm,12
 2016,7,8,All Other Offenses,110
 2016,7,8,Burglary Non-Residential,3
 2016,7,8,Burglary Residential,13
@@ -4518,7 +4518,7 @@ year,month,day,text_general_code,count
 2016,7,8,Recovered Stolen Motor Vehicle,10
 2016,7,8,Robbery Firearm,10
 2016,7,8,Robbery No Firearm,9
-2016,7,8,Theft from Vehicle,32
+2016,7,8,Theft from Vehicle,33
 2016,7,8,Thefts,51
 2016,7,8,Vandalism/Criminal Mischief,28
 2016,7,8,Weapon Violations,1
@@ -4654,7 +4654,7 @@ year,month,day,text_general_code,count
 2016,7,14,Other Sex Offenses (Not Commercialized),3
 2016,7,14,Prostitution and Commercialized Vice,2
 2016,7,14,Public Drunkenness,1
-2016,7,14,Rape,6
+2016,7,14,Rape,4
 2016,7,14,Recovered Stolen Motor Vehicle,15
 2016,7,14,Robbery Firearm,4
 2016,7,14,Robbery No Firearm,9
@@ -4678,7 +4678,7 @@ year,month,day,text_general_code,count
 2016,7,15,Other Assaults,59
 2016,7,15,Other Sex Offenses (Not Commercialized),1
 2016,7,15,Public Drunkenness,2
-2016,7,15,Rape,5
+2016,7,15,Rape,4
 2016,7,15,Recovered Stolen Motor Vehicle,26
 2016,7,15,Robbery Firearm,2
 2016,7,15,Robbery No Firearm,6
@@ -4700,7 +4700,7 @@ year,month,day,text_general_code,count
 2016,7,16,Other Assaults,45
 2016,7,16,Prostitution and Commercialized Vice,1
 2016,7,16,Public Drunkenness,1
-2016,7,16,Rape,1
+2016,7,16,Rape,2
 2016,7,16,Recovered Stolen Motor Vehicle,19
 2016,7,16,Robbery Firearm,15
 2016,7,16,Robbery No Firearm,8
@@ -4880,7 +4880,7 @@ year,month,day,text_general_code,count
 2016,7,24,Fraud,18
 2016,7,24,Homicide - Criminal,2
 2016,7,24,Motor Vehicle Theft,2
-2016,7,24,Narcotic / Drug Law Violations,8
+2016,7,24,Narcotic / Drug Law Violations,10
 2016,7,24,Other Assaults,65
 2016,7,24,Other Sex Offenses (Not Commercialized),2
 2016,7,24,Rape,4
@@ -4960,7 +4960,7 @@ year,month,day,text_general_code,count
 2016,7,27,Recovered Stolen Motor Vehicle,15
 2016,7,27,Robbery Firearm,9
 2016,7,27,Robbery No Firearm,10
-2016,7,27,Theft from Vehicle,40
+2016,7,27,Theft from Vehicle,38
 2016,7,27,Thefts,59
 2016,7,27,Vandalism/Criminal Mischief,47
 2016,7,27,Weapon Violations,5
@@ -5055,7 +5055,7 @@ year,month,day,text_general_code,count
 2016,7,31,Recovered Stolen Motor Vehicle,22
 2016,7,31,Robbery Firearm,9
 2016,7,31,Robbery No Firearm,10
-2016,7,31,Theft from Vehicle,52
+2016,7,31,Theft from Vehicle,53
 2016,7,31,Thefts,54
 2016,7,31,Vagrancy/Loitering,1
 2016,7,31,Vandalism/Criminal Mischief,50
@@ -5258,7 +5258,7 @@ year,month,day,text_general_code,count
 2016,8,8,Weapon Violations,2
 2016,8,9,Aggravated Assault Firearm,6
 2016,8,9,Aggravated Assault No Firearm,11
-2016,8,9,All Other Offenses,83
+2016,8,9,All Other Offenses,87
 2016,8,9,Arson,1
 2016,8,9,Burglary Non-Residential,6
 2016,8,9,Burglary Residential,9
@@ -5266,10 +5266,10 @@ year,month,day,text_general_code,count
 2016,8,9,Disorderly Conduct,2
 2016,8,9,Embezzlement,1
 2016,8,9,Forgery and Counterfeiting,1
-2016,8,9,Fraud,36
+2016,8,9,Fraud,38
 2016,8,9,Motor Vehicle Theft,7
-2016,8,9,Narcotic / Drug Law Violations,24
-2016,8,9,Other Assaults,69
+2016,8,9,Narcotic / Drug Law Violations,30
+2016,8,9,Other Assaults,76
 2016,8,9,Other Sex Offenses (Not Commercialized),2
 2016,8,9,Prostitution and Commercialized Vice,10
 2016,8,9,Public Drunkenness,1
@@ -5277,7 +5277,7 @@ year,month,day,text_general_code,count
 2016,8,9,Robbery Firearm,5
 2016,8,9,Robbery No Firearm,8
 2016,8,9,Theft from Vehicle,50
-2016,8,9,Thefts,78
+2016,8,9,Thefts,81
 2016,8,9,Vandalism/Criminal Mischief,47
 2016,8,9,Weapon Violations,6
 2016,8,10,Aggravated Assault Firearm,7
@@ -5286,7 +5286,7 @@ year,month,day,text_general_code,count
 2016,8,10,Arson,1
 2016,8,10,Burglary Non-Residential,5
 2016,8,10,Burglary Residential,23
-2016,8,10,DRIVING UNDER THE INFLUENCE,5
+2016,8,10,DRIVING UNDER THE INFLUENCE,6
 2016,8,10,Disorderly Conduct,5
 2016,8,10,Embezzlement,3
 2016,8,10,Fraud,40
@@ -5301,16 +5301,16 @@ year,month,day,text_general_code,count
 2016,8,10,Recovered Stolen Motor Vehicle,30
 2016,8,10,Robbery Firearm,8
 2016,8,10,Robbery No Firearm,8
-2016,8,10,Theft from Vehicle,42
+2016,8,10,Theft from Vehicle,44
 2016,8,10,Thefts,81
-2016,8,10,Vandalism/Criminal Mischief,49
+2016,8,10,Vandalism/Criminal Mischief,50
 2016,8,10,Weapon Violations,9
 2016,8,11,Aggravated Assault Firearm,7
 2016,8,11,Aggravated Assault No Firearm,23
 2016,8,11,All Other Offenses,77
 2016,8,11,Arson,1
 2016,8,11,Burglary Non-Residential,4
-2016,8,11,Burglary Residential,26
+2016,8,11,Burglary Residential,24
 2016,8,11,DRIVING UNDER THE INFLUENCE,7
 2016,8,11,Disorderly Conduct,2
 2016,8,11,Forgery and Counterfeiting,1
@@ -5323,15 +5323,15 @@ year,month,day,text_general_code,count
 2016,8,11,Prostitution and Commercialized Vice,5
 2016,8,11,Rape,2
 2016,8,11,Recovered Stolen Motor Vehicle,22
-2016,8,11,Robbery Firearm,7
+2016,8,11,Robbery Firearm,6
 2016,8,11,Robbery No Firearm,6
-2016,8,11,Theft from Vehicle,42
+2016,8,11,Theft from Vehicle,41
 2016,8,11,Thefts,83
 2016,8,11,Vandalism/Criminal Mischief,40
 2016,8,11,Weapon Violations,5
 2016,8,12,Aggravated Assault Firearm,12
 2016,8,12,Aggravated Assault No Firearm,10
-2016,8,12,All Other Offenses,90
+2016,8,12,All Other Offenses,89
 2016,8,12,Arson,1
 2016,8,12,Burglary Non-Residential,4
 2016,8,12,Burglary Residential,27
@@ -5472,28 +5472,28 @@ year,month,day,text_general_code,count
 2016,8,17,Vandalism/Criminal Mischief,52
 2016,8,17,Weapon Violations,1
 2016,8,18,Aggravated Assault Firearm,9
-2016,8,18,Aggravated Assault No Firearm,4
-2016,8,18,All Other Offenses,81
+2016,8,18,Aggravated Assault No Firearm,5
+2016,8,18,All Other Offenses,86
 2016,8,18,Arson,1
 2016,8,18,Burglary Non-Residential,7
-2016,8,18,Burglary Residential,16
-2016,8,18,DRIVING UNDER THE INFLUENCE,7
+2016,8,18,Burglary Residential,17
+2016,8,18,DRIVING UNDER THE INFLUENCE,8
 2016,8,18,Disorderly Conduct,1
 2016,8,18,Embezzlement,1
 2016,8,18,Forgery and Counterfeiting,2
-2016,8,18,Fraud,42
+2016,8,18,Fraud,46
 2016,8,18,Motor Vehicle Theft,7
 2016,8,18,Narcotic / Drug Law Violations,21
-2016,8,18,Other Assaults,68
+2016,8,18,Other Assaults,71
 2016,8,18,Other Sex Offenses (Not Commercialized),6
 2016,8,18,Prostitution and Commercialized Vice,2
 2016,8,18,Rape,8
 2016,8,18,Recovered Stolen Motor Vehicle,29
 2016,8,18,Robbery Firearm,4
 2016,8,18,Robbery No Firearm,14
-2016,8,18,Theft from Vehicle,41
-2016,8,18,Thefts,71
-2016,8,18,Vandalism/Criminal Mischief,36
+2016,8,18,Theft from Vehicle,45
+2016,8,18,Thefts,83
+2016,8,18,Vandalism/Criminal Mischief,37
 2016,8,18,Weapon Violations,5
 2016,8,19,Aggravated Assault Firearm,7
 2016,8,19,Aggravated Assault No Firearm,14
@@ -5508,29 +5508,29 @@ year,month,day,text_general_code,count
 2016,8,19,Liquor Law Violations,1
 2016,8,19,Motor Vehicle Theft,6
 2016,8,19,Narcotic / Drug Law Violations,34
-2016,8,19,Other Assaults,67
+2016,8,19,Other Assaults,69
 2016,8,19,Other Sex Offenses (Not Commercialized),2
 2016,8,19,Public Drunkenness,1
 2016,8,19,Rape,4
 2016,8,19,Recovered Stolen Motor Vehicle,19
 2016,8,19,Robbery Firearm,8
-2016,8,19,Robbery No Firearm,12
+2016,8,19,Robbery No Firearm,13
 2016,8,19,Theft from Vehicle,43
 2016,8,19,Thefts,81
 2016,8,19,Vandalism/Criminal Mischief,46
 2016,8,20,Aggravated Assault Firearm,12
 2016,8,20,Aggravated Assault No Firearm,12
-2016,8,20,All Other Offenses,75
+2016,8,20,All Other Offenses,73
 2016,8,20,Burglary Non-Residential,1
 2016,8,20,Burglary Residential,15
 2016,8,20,DRIVING UNDER THE INFLUENCE,13
-2016,8,20,Fraud,26
+2016,8,20,Fraud,25
 2016,8,20,Gambling Violations,1
 2016,8,20,Homicide - Criminal,3
 2016,8,20,Liquor Law Violations,1
 2016,8,20,Motor Vehicle Theft,9
 2016,8,20,Narcotic / Drug Law Violations,17
-2016,8,20,Other Assaults,46
+2016,8,20,Other Assaults,44
 2016,8,20,Prostitution and Commercialized Vice,2
 2016,8,20,Public Drunkenness,2
 2016,8,20,Rape,4
@@ -5538,7 +5538,7 @@ year,month,day,text_general_code,count
 2016,8,20,Robbery Firearm,4
 2016,8,20,Robbery No Firearm,9
 2016,8,20,Theft from Vehicle,37
-2016,8,20,Thefts,60
+2016,8,20,Thefts,58
 2016,8,20,Vandalism/Criminal Mischief,39
 2016,8,20,Weapon Violations,9
 2016,8,21,Aggravated Assault Firearm,9
@@ -7224,7 +7224,7 @@ year,month,day,text_general_code,count
 2016,10,31,Other Sex Offenses (Not Commercialized),5
 2016,10,31,Rape,2
 2016,10,31,Recovered Stolen Motor Vehicle,23
-2016,10,31,Robbery Firearm,11
+2016,10,31,Robbery Firearm,9
 2016,10,31,Robbery No Firearm,7
 2016,10,31,Theft from Vehicle,40
 2016,10,31,Thefts,62
@@ -7411,7 +7411,7 @@ year,month,day,text_general_code,count
 2016,11,8,Robbery Firearm,13
 2016,11,8,Robbery No Firearm,4
 2016,11,8,Theft from Vehicle,45
-2016,11,8,Thefts,65
+2016,11,8,Thefts,62
 2016,11,8,Vandalism/Criminal Mischief,45
 2016,11,8,Weapon Violations,4
 2016,11,9,Aggravated Assault Firearm,3
@@ -7688,7 +7688,7 @@ year,month,day,text_general_code,count
 2016,11,20,Other Assaults,46
 2016,11,20,Other Sex Offenses (Not Commercialized),1
 2016,11,20,Rape,3
-2016,11,20,Recovered Stolen Motor Vehicle,15
+2016,11,20,Recovered Stolen Motor Vehicle,17
 2016,11,20,Robbery Firearm,9
 2016,11,20,Robbery No Firearm,9
 2016,11,20,Theft from Vehicle,31
@@ -8240,8 +8240,8 @@ year,month,day,text_general_code,count
 2016,12,14,Aggravated Assault No Firearm,13
 2016,12,14,All Other Offenses,90
 2016,12,14,Arson,1
-2016,12,14,Burglary Non-Residential,2
-2016,12,14,Burglary Residential,8
+2016,12,14,Burglary Non-Residential,3
+2016,12,14,Burglary Residential,7
 2016,12,14,DRIVING UNDER THE INFLUENCE,11
 2016,12,14,Disorderly Conduct,2
 2016,12,14,Embezzlement,1
@@ -8421,18 +8421,18 @@ year,month,day,text_general_code,count
 2016,12,21,Vandalism/Criminal Mischief,35
 2016,12,21,Weapon Violations,3
 2016,12,22,Aggravated Assault Firearm,4
-2016,12,22,Aggravated Assault No Firearm,22
+2016,12,22,Aggravated Assault No Firearm,21
 2016,12,22,All Other Offenses,58
 2016,12,22,Burglary Non-Residential,6
 2016,12,22,Burglary Residential,14
 2016,12,22,DRIVING UNDER THE INFLUENCE,11
 2016,12,22,Disorderly Conduct,4
 2016,12,22,Embezzlement,2
-2016,12,22,Fraud,45
+2016,12,22,Fraud,47
 2016,12,22,Homicide - Criminal,1
 2016,12,22,Motor Vehicle Theft,7
 2016,12,22,Narcotic / Drug Law Violations,35
-2016,12,22,Other Assaults,59
+2016,12,22,Other Assaults,60
 2016,12,22,Other Sex Offenses (Not Commercialized),2
 2016,12,22,Prostitution and Commercialized Vice,3
 2016,12,22,Public Drunkenness,1
@@ -8469,7 +8469,7 @@ year,month,day,text_general_code,count
 2016,12,23,Weapon Violations,3
 2016,12,24,Aggravated Assault Firearm,4
 2016,12,24,Aggravated Assault No Firearm,5
-2016,12,24,All Other Offenses,23
+2016,12,24,All Other Offenses,24
 2016,12,24,Arson,2
 2016,12,24,Burglary Non-Residential,9
 2016,12,24,Burglary Residential,12
@@ -8529,7 +8529,7 @@ year,month,day,text_general_code,count
 2016,12,26,Weapon Violations,4
 2016,12,27,Aggravated Assault Firearm,5
 2016,12,27,Aggravated Assault No Firearm,18
-2016,12,27,All Other Offenses,76
+2016,12,27,All Other Offenses,77
 2016,12,27,Arson,1
 2016,12,27,Burglary Non-Residential,8
 2016,12,27,Burglary Residential,21
@@ -8562,13 +8562,13 @@ year,month,day,text_general_code,count
 2016,12,28,Fraud,39
 2016,12,28,Gambling Violations,1
 2016,12,28,Homicide - Criminal,1
-2016,12,28,Motor Vehicle Theft,5
+2016,12,28,Motor Vehicle Theft,4
 2016,12,28,Narcotic / Drug Law Violations,29
 2016,12,28,Other Assaults,58
 2016,12,28,Other Sex Offenses (Not Commercialized),4
 2016,12,28,Prostitution and Commercialized Vice,2
 2016,12,28,Rape,4
-2016,12,28,Recovered Stolen Motor Vehicle,15
+2016,12,28,Recovered Stolen Motor Vehicle,16
 2016,12,28,Robbery Firearm,5
 2016,12,28,Robbery No Firearm,8
 2016,12,28,Theft from Vehicle,43
@@ -8577,7 +8577,7 @@ year,month,day,text_general_code,count
 2016,12,28,Weapon Violations,9
 2016,12,29,Aggravated Assault Firearm,3
 2016,12,29,Aggravated Assault No Firearm,13
-2016,12,29,All Other Offenses,75
+2016,12,29,All Other Offenses,76
 2016,12,29,Arson,1
 2016,12,29,Burglary Non-Residential,6
 2016,12,29,Burglary Residential,11
