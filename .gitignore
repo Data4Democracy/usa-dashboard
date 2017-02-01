@@ -87,3 +87,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+#mac os files
+.DS_Store
+
+#config files
+config.py
