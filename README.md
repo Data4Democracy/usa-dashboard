@@ -2,6 +2,10 @@
 
 We're building a dashboard of key metrics for the USA because: *If you can't measure it, you can't manage it*.  When complete, you'll be able to see how well the country is doing along a number of metrics at a glance.  We strive to paint an objective, centralized picture of what's currently going on, with very timely updates.  We hope that by making this information easily visible and available that we can come to a collective understanding about whether the country is thriving or not.
 
+**Sound good? Get involved** Check out information about [Data for Democracy](https://medium.com/data-for-democracy) and email [mailto:jonathon@datafordemocracy.org](for an invitation).
+
+------
+
 **The problem that this solves** Often only pay attention to data when someone decides to perform an analysis and share it with us.  If we automated key analyses and pay attention on a regular basis, we'll all be more familiar with the health of the country and know what to prioritize.  We'll also be able to hold politicians accountable for their actions if we see the metrics change abruptly.
 
 **Doesn't the government already do this?**  Yes the government does original data collection and produces regular reports.  We want to centralize this information and make it easier to digest for citizens.  For instance, crime data is available from each city, but only the FBI periodically merges it all and produces a *yearly* report.  We can do better than this in 2017.
@@ -39,7 +43,7 @@ We have several streams of work going on right now, each attached to a milestone
 
 - [Scraping crime data](https://github.com/Data4Democracy/usa-dashboard/milestone/1):  We have a few cities covered, but we'd like to cover the top 
 - [Exploratory data analysis](https://github.com/Data4Democracy/usa-dashboard/milestone/4): After data is collected, it needs to be validated and modeled before we will visualize it.
-- [Deciding what to capture for other metrics](https://github.com/Data4Democracy/usa-dashboard/milestone/2):
+- [Deciding what to capture for other metrics](https://github.com/Data4Democracy/usa-dashboard/milestone/2):  We need to decide what else would be good to capture.  Deciding on good metrics is our most important challenge.
 - [Designing the user interface](https://github.com/Data4Democracy/usa-dashboard/milestone/3): Ultimately people will consume the dashboard through web and mobile interfaces, as well as through sharing graphics we we produce.  We need help designing all of these surfaces.
 
 Once we have collected more data, there will be substantive data engineering tasks to automate all of this.
