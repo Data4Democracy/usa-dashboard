@@ -2,7 +2,7 @@
 library(RSocrata)
 library(lubridate)
 library(dplyr)
-
+library(readr)
 # get the data from data.hartford.gov as the API url
 raw_data <- read.socrata("https://data.hartford.gov/Public-Safety/Police-Incidents-01012005-to-Current/889t-nwfu")
 
@@ -14,6 +14,7 @@ clean_data <- raw_data[,keep_cols]
 clean_data$Date <- mdy(clean_data$Date)
 clean_data$year <- year(clean_data$Date)
 clean_data$month <- month(clean_data$Date)
+clean_data$month <- as.integer(clean_data$month)
 clean_data$day <- day(clean_data$Date)
 clean_data <- clean_data[, c("year", "month", "day", "UCR_1_Category")]
 
