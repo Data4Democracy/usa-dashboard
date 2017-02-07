@@ -2,7 +2,7 @@
 
 We're building a dashboard of key metrics for the USA because: *If you can't measure it, you can't manage it*.  When complete, you'll be able to see how well the country is doing along a number of metrics at a glance.  We strive to paint an objective, centralized picture of what's currently going on, with very timely updates.  We hope that by making this information easily visible and available that we can come to a collective understanding about whether the country is thriving or not.
 
-**Sound good? Get involved** Check out information about [Data for Democracy](https://medium.com/data-for-democracy) and email [mailto:jonathon@datafordemocracy.org](for an invitation).
+**Sound good? Get involved** Check out information about [Data for Democracy](https://medium.com/data-for-democracy) and [email Jonathon Morgan](mailto:jonathon@datafordemocracy.org) for an invitation.
 
 ------
 
