@@ -1,0 +1,85 @@
+year,month,day,crime_type,count
+2008,1,1,Assault,128
+2008,1,1,Burglary,525
+2008,1,1,Homicide,4
+2008,1,1,Larceny-Theft,1604
+2008,1,1,Motor Vehicle Theft,339
+2008,1,1,Rape,10
+2008,1,1,Robbery,102
+2008,2,1,Assault,132
+2008,2,1,Burglary,400
+2008,2,1,Homicide,2
+2008,2,1,Larceny-Theft,1563
+2008,2,1,Motor Vehicle Theft,376
+2008,2,1,Rape,5
+2008,2,1,Robbery,95
+2008,3,1,Assault,117
+2008,3,1,Burglary,458
+2008,3,1,Homicide,1
+2008,3,1,Larceny-Theft,1809
+2008,3,1,Motor Vehicle Theft,303
+2008,3,1,Rape,7
+2008,3,1,Robbery,108
+2008,4,1,Assault,114
+2008,4,1,Burglary,507
+2008,4,1,Homicide,4
+2008,4,1,Larceny-Theft,1817
+2008,4,1,Motor Vehicle Theft,223
+2008,4,1,Rape,12
+2008,4,1,Robbery,145
+2008,5,1,Assault,134
+2008,5,1,Burglary,541
+2008,5,1,Homicide,2
+2008,5,1,Larceny-Theft,1979
+2008,5,1,Motor Vehicle Theft,263
+2008,5,1,Rape,17
+2008,5,1,Robbery,128
+2008,6,1,Assault,161
+2008,6,1,Burglary,608
+2008,6,1,Homicide,2
+2008,6,1,Larceny-Theft,1909
+2008,6,1,Motor Vehicle Theft,274
+2008,6,1,Rape,9
+2008,6,1,Robbery,110
+2008,7,1,Assault,173
+2008,7,1,Burglary,599
+2008,7,1,Homicide,3
+2008,7,1,Larceny-Theft,1999
+2008,7,1,Motor Vehicle Theft,291
+2008,7,1,Rape,13
+2008,7,1,Robbery,132
+2008,8,1,Assault,163
+2008,8,1,Burglary,559
+2008,8,1,Homicide,2
+2008,8,1,Larceny-Theft,1870
+2008,8,1,Motor Vehicle Theft,343
+2008,8,1,Rape,11
+2008,8,1,Robbery,138
+2008,9,1,Assault,140
+2008,9,1,Burglary,608
+2008,9,1,Homicide,2
+2008,9,1,Larceny-Theft,1893
+2008,9,1,Motor Vehicle Theft,367
+2008,9,1,Rape,12
+2008,9,1,Robbery,142
+2008,10,1,Assault,149
+2008,10,1,Burglary,602
+2008,10,1,Homicide,3
+2008,10,1,Larceny-Theft,2115
+2008,10,1,Motor Vehicle Theft,400
+2008,10,1,Rape,28
+2008,10,1,Robbery,169
+2008,11,1,Assault,138
+2008,11,1,Burglary,559
+2008,11,1,Homicide,3
+2008,11,1,Larceny-Theft,2027
+2008,11,1,Motor Vehicle Theft,350
+2008,11,1,Rape,3
+2008,11,1,Robbery,182
+2008,12,1,Assault,120
+2008,12,1,Burglary,546
+2008,12,1,Homicide,2
+2008,12,1,Larceny-Theft,1798
+2008,12,1,Motor Vehicle Theft,262
+2008,12,1,Rape,3
+2008,12,1,Robbery,137

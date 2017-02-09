@@ -1,0 +1,533 @@
+year,month,day,crime_type,count
+2008,1,1,Assault,128
+2008,1,1,Burglary,525
+2008,1,1,Homicide,4
+2008,1,1,Larceny-Theft,1604
+2008,1,1,Motor Vehicle Theft,339
+2008,1,1,Rape,10
+2008,1,1,Robbery,102
+2008,2,1,Assault,132
+2008,2,1,Burglary,400
+2008,2,1,Homicide,2
+2008,2,1,Larceny-Theft,1563
+2008,2,1,Motor Vehicle Theft,376
+2008,2,1,Rape,5
+2008,2,1,Robbery,95
+2008,3,1,Assault,117
+2008,3,1,Burglary,458
+2008,3,1,Homicide,1
+2008,3,1,Larceny-Theft,1809
+2008,3,1,Motor Vehicle Theft,303
+2008,3,1,Rape,7
+2008,3,1,Robbery,108
+2008,4,1,Assault,114
+2008,4,1,Burglary,507
+2008,4,1,Homicide,4
+2008,4,1,Larceny-Theft,1817
+2008,4,1,Motor Vehicle Theft,223
+2008,4,1,Rape,12
+2008,4,1,Robbery,145
+2008,5,1,Assault,134
+2008,5,1,Burglary,541
+2008,5,1,Homicide,2
+2008,5,1,Larceny-Theft,1979
+2008,5,1,Motor Vehicle Theft,263
+2008,5,1,Rape,17
+2008,5,1,Robbery,128
+2008,6,1,Assault,161
+2008,6,1,Burglary,608
+2008,6,1,Homicide,2
+2008,6,1,Larceny-Theft,1909
+2008,6,1,Motor Vehicle Theft,274
+2008,6,1,Rape,9
+2008,6,1,Robbery,110
+2008,7,1,Assault,173
+2008,7,1,Burglary,599
+2008,7,1,Homicide,3
+2008,7,1,Larceny-Theft,1999
+2008,7,1,Motor Vehicle Theft,291
+2008,7,1,Rape,13
+2008,7,1,Robbery,132
+2008,8,1,Assault,163
+2008,8,1,Burglary,559
+2008,8,1,Homicide,2
+2008,8,1,Larceny-Theft,1870
+2008,8,1,Motor Vehicle Theft,343
+2008,8,1,Rape,11
+2008,8,1,Robbery,138
+2008,9,1,Assault,140
+2008,9,1,Burglary,608
+2008,9,1,Homicide,2
+2008,9,1,Larceny-Theft,1893
+2008,9,1,Motor Vehicle Theft,367
+2008,9,1,Rape,12
+2008,9,1,Robbery,142
+2008,10,1,Assault,149
+2008,10,1,Burglary,602
+2008,10,1,Homicide,3
+2008,10,1,Larceny-Theft,2115
+2008,10,1,Motor Vehicle Theft,400
+2008,10,1,Rape,28
+2008,10,1,Robbery,169
+2008,11,1,Assault,138
+2008,11,1,Burglary,559
+2008,11,1,Homicide,3
+2008,11,1,Larceny-Theft,2027
+2008,11,1,Motor Vehicle Theft,350
+2008,11,1,Rape,3
+2008,11,1,Robbery,182
+2008,12,1,Assault,120
+2008,12,1,Burglary,546
+2008,12,1,Homicide,2
+2008,12,1,Larceny-Theft,1798
+2008,12,1,Motor Vehicle Theft,262
+2008,12,1,Rape,3
+2008,12,1,Robbery,137
+2009,1,1,Assault,158
+2009,1,1,Burglary,567
+2009,1,1,Homicide,2
+2009,1,1,Larceny-Theft,2154
+2009,1,1,Motor Vehicle Theft,256
+2009,1,1,Rape,8
+2009,1,1,Robbery,155
+2009,2,1,Assault,129
+2009,2,1,Burglary,442
+2009,2,1,Homicide,3
+2009,2,1,Larceny-Theft,1725
+2009,2,1,Motor Vehicle Theft,247
+2009,2,1,Rape,9
+2009,2,1,Robbery,133
+2009,3,1,Assault,131
+2009,3,1,Burglary,533
+2009,3,1,Homicide,0
+2009,3,1,Larceny-Theft,1996
+2009,3,1,Motor Vehicle Theft,205
+2009,3,1,Rape,7
+2009,3,1,Robbery,137
+2009,4,1,Assault,152
+2009,4,1,Burglary,545
+2009,4,1,Homicide,1
+2009,4,1,Larceny-Theft,1918
+2009,4,1,Motor Vehicle Theft,180
+2009,4,1,Rape,7
+2009,4,1,Robbery,149
+2009,5,1,Assault,201
+2009,5,1,Burglary,466
+2009,5,1,Homicide,1
+2009,5,1,Larceny-Theft,2035
+2009,5,1,Motor Vehicle Theft,230
+2009,5,1,Rape,5
+2009,5,1,Robbery,164
+2009,6,1,Assault,177
+2009,6,1,Burglary,518
+2009,6,1,Homicide,1
+2009,6,1,Larceny-Theft,2024
+2009,6,1,Motor Vehicle Theft,245
+2009,6,1,Rape,16
+2009,6,1,Robbery,158
+2009,7,1,Assault,211
+2009,7,1,Burglary,598
+2009,7,1,Homicide,4
+2009,7,1,Larceny-Theft,2084
+2009,7,1,Motor Vehicle Theft,273
+2009,7,1,Rape,9
+2009,7,1,Robbery,139
+2009,8,1,Assault,164
+2009,8,1,Burglary,631
+2009,8,1,Homicide,3
+2009,8,1,Larceny-Theft,2210
+2009,8,1,Motor Vehicle Theft,299
+2009,8,1,Rape,6
+2009,8,1,Robbery,117
+2009,9,1,Assault,193
+2009,9,1,Burglary,627
+2009,9,1,Homicide,0
+2009,9,1,Larceny-Theft,2265
+2009,9,1,Motor Vehicle Theft,322
+2009,9,1,Rape,9
+2009,9,1,Robbery,162
+2009,10,1,Assault,144
+2009,10,1,Burglary,548
+2009,10,1,Homicide,1
+2009,10,1,Larceny-Theft,2292
+2009,10,1,Motor Vehicle Theft,314
+2009,10,1,Rape,8
+2009,10,1,Robbery,151
+2009,11,1,Assault,139
+2009,11,1,Burglary,605
+2009,11,1,Homicide,3
+2009,11,1,Larceny-Theft,2108
+2009,11,1,Motor Vehicle Theft,339
+2009,11,1,Rape,2
+2009,11,1,Robbery,149
+2009,12,1,Assault,119
+2009,12,1,Burglary,612
+2009,12,1,Homicide,3
+2009,12,1,Larceny-Theft,2192
+2009,12,1,Motor Vehicle Theft,371
+2009,12,1,Rape,8
+2009,12,1,Robbery,155
+2010,1,1,Assault,150
+2010,1,1,Burglary,652
+2010,1,1,Homicide,2
+2010,1,1,Larceny-Theft,2380
+2010,1,1,Motor Vehicle Theft,425
+2010,1,1,Rape,7
+2010,1,1,Robbery,148
+2010,2,1,Assault,110
+2010,2,1,Burglary,442
+2010,2,1,Homicide,1
+2010,2,1,Larceny-Theft,1779
+2010,2,1,Motor Vehicle Theft,275
+2010,2,1,Rape,5
+2010,2,1,Robbery,101
+2010,3,1,Assault,134
+2010,3,1,Burglary,555
+2010,3,1,Homicide,1
+2010,3,1,Larceny-Theft,1831
+2010,3,1,Motor Vehicle Theft,310
+2010,3,1,Rape,7
+2010,3,1,Robbery,114
+2010,4,1,Assault,137
+2010,4,1,Burglary,438
+2010,4,1,Homicide,0
+2010,4,1,Larceny-Theft,1936
+2010,4,1,Motor Vehicle Theft,259
+2010,4,1,Rape,7
+2010,4,1,Robbery,114
+2010,5,1,Assault,185
+2010,5,1,Burglary,518
+2010,5,1,Homicide,2
+2010,5,1,Larceny-Theft,2103
+2010,5,1,Motor Vehicle Theft,302
+2010,5,1,Rape,9
+2010,5,1,Robbery,126
+2010,6,1,Assault,165
+2010,6,1,Burglary,518
+2010,6,1,Homicide,1
+2010,6,1,Larceny-Theft,2023
+2010,6,1,Motor Vehicle Theft,361
+2010,6,1,Rape,6
+2010,6,1,Robbery,116
+2010,7,1,Assault,194
+2010,7,1,Burglary,475
+2010,7,1,Homicide,0
+2010,7,1,Larceny-Theft,1844
+2010,7,1,Motor Vehicle Theft,280
+2010,7,1,Rape,3
+2010,7,1,Robbery,125
+2010,8,1,Assault,209
+2010,8,1,Burglary,592
+2010,8,1,Homicide,2
+2010,8,1,Larceny-Theft,1916
+2010,8,1,Motor Vehicle Theft,239
+2010,8,1,Rape,4
+2010,8,1,Robbery,126
+2010,9,1,Assault,188
+2010,9,1,Burglary,584
+2010,9,1,Homicide,6
+2010,9,1,Larceny-Theft,1889
+2010,9,1,Motor Vehicle Theft,257
+2010,9,1,Rape,6
+2010,9,1,Robbery,104
+2010,10,1,Assault,168
+2010,10,1,Burglary,548
+2010,10,1,Homicide,2
+2010,10,1,Larceny-Theft,1814
+2010,10,1,Motor Vehicle Theft,294
+2010,10,1,Rape,8
+2010,10,1,Robbery,102
+2010,11,1,Assault,133
+2010,11,1,Burglary,500
+2010,11,1,Homicide,2
+2010,11,1,Larceny-Theft,1830
+2010,11,1,Motor Vehicle Theft,214
+2010,11,1,Rape,9
+2010,11,1,Robbery,111
+2010,12,1,Assault,163
+2010,12,1,Burglary,597
+2010,12,1,Homicide,0
+2010,12,1,Larceny-Theft,1787
+2010,12,1,Motor Vehicle Theft,229
+2010,12,1,Rape,8
+2010,12,1,Robbery,128
+2011,1,1,Assault,151
+2011,1,1,Burglary,640
+2011,1,1,Homicide,1
+2011,1,1,Larceny-Theft,1731
+2011,1,1,Motor Vehicle Theft,240
+2011,1,1,Rape,7
+2011,1,1,Robbery,109
+2011,2,1,Assault,124
+2011,2,1,Burglary,471
+2011,2,1,Homicide,1
+2011,2,1,Larceny-Theft,1456
+2011,2,1,Motor Vehicle Theft,204
+2011,2,1,Rape,8
+2011,2,1,Robbery,94
+2011,3,1,Assault,156
+2011,3,1,Burglary,537
+2011,3,1,Homicide,1
+2011,3,1,Larceny-Theft,1687
+2011,3,1,Motor Vehicle Theft,246
+2011,3,1,Rape,4
+2011,3,1,Robbery,126
+2011,4,1,Assault,169
+2011,4,1,Burglary,541
+2011,4,1,Homicide,0
+2011,4,1,Larceny-Theft,1609
+2011,4,1,Motor Vehicle Theft,277
+2011,4,1,Rape,3
+2011,4,1,Robbery,103
+2011,5,1,Assault,167
+2011,5,1,Burglary,577
+2011,5,1,Homicide,0
+2011,5,1,Larceny-Theft,1909
+2011,5,1,Motor Vehicle Theft,327
+2011,5,1,Rape,6
+2011,5,1,Robbery,100
+2011,6,1,Assault,162
+2011,6,1,Burglary,487
+2011,6,1,Homicide,1
+2011,6,1,Larceny-Theft,1876
+2011,6,1,Motor Vehicle Theft,327
+2011,6,1,Rape,7
+2011,6,1,Robbery,119
+2011,7,1,Assault,200
+2011,7,1,Burglary,519
+2011,7,1,Homicide,5
+2011,7,1,Larceny-Theft,1774
+2011,7,1,Motor Vehicle Theft,392
+2011,7,1,Rape,12
+2011,7,1,Robbery,119
+2011,8,1,Assault,225
+2011,8,1,Burglary,577
+2011,8,1,Homicide,2
+2011,8,1,Larceny-Theft,2039
+2011,8,1,Motor Vehicle Theft,310
+2011,8,1,Rape,13
+2011,8,1,Robbery,119
+2011,9,1,Assault,201
+2011,9,1,Burglary,560
+2011,9,1,Homicide,2
+2011,9,1,Larceny-Theft,1899
+2011,9,1,Motor Vehicle Theft,333
+2011,9,1,Rape,7
+2011,9,1,Robbery,110
+2011,10,1,Assault,207
+2011,10,1,Burglary,656
+2011,10,1,Homicide,2
+2011,10,1,Larceny-Theft,1907
+2011,10,1,Motor Vehicle Theft,265
+2011,10,1,Rape,12
+2011,10,1,Robbery,141
+2011,11,1,Assault,171
+2011,11,1,Burglary,632
+2011,11,1,Homicide,1
+2011,11,1,Larceny-Theft,1799
+2011,11,1,Motor Vehicle Theft,239
+2011,11,1,Rape,7
+2011,11,1,Robbery,117
+2011,12,1,Assault,164
+2011,12,1,Burglary,599
+2011,12,1,Homicide,4
+2011,12,1,Larceny-Theft,1755
+2011,12,1,Motor Vehicle Theft,238
+2011,12,1,Rape,4
+2011,12,1,Robbery,144
+2012,1,1,Assault,173
+2012,1,1,Burglary,521
+2012,1,1,Homicide,4
+2012,1,1,Larceny-Theft,1732
+2012,1,1,Motor Vehicle Theft,266
+2012,1,1,Rape,7
+2012,1,1,Robbery,112
+2012,2,1,Assault,149
+2012,2,1,Burglary,481
+2012,2,1,Homicide,5
+2012,2,1,Larceny-Theft,1820
+2012,2,1,Motor Vehicle Theft,269
+2012,2,1,Rape,7
+2012,2,1,Robbery,86
+2012,3,1,Assault,167
+2012,3,1,Burglary,570
+2012,3,1,Homicide,2
+2012,3,1,Larceny-Theft,1818
+2012,3,1,Motor Vehicle Theft,273
+2012,3,1,Rape,11
+2012,3,1,Robbery,118
+2012,4,1,Assault,169
+2012,4,1,Burglary,541
+2012,4,1,Homicide,0
+2012,4,1,Larceny-Theft,1609
+2012,4,1,Motor Vehicle Theft,277
+2012,4,1,Rape,3
+2012,4,1,Robbery,103
+2012,5,1,Assault,202
+2012,5,1,Burglary,481
+2012,5,1,Homicide,9
+2012,5,1,Larceny-Theft,1909
+2012,5,1,Motor Vehicle Theft,262
+2012,5,1,Rape,13
+2012,5,1,Robbery,113
+2012,6,1,Assault,208
+2012,6,1,Burglary,500
+2012,6,1,Homicide,0
+2012,6,1,Larceny-Theft,1606
+2012,6,1,Motor Vehicle Theft,302
+2012,6,1,Rape,7
+2012,6,1,Robbery,127
+2012,7,1,Assault,216
+2012,7,1,Burglary,519
+2012,7,1,Homicide,1
+2012,7,1,Larceny-Theft,1733
+2012,7,1,Motor Vehicle Theft,326
+2012,7,1,Rape,13
+2012,7,1,Robbery,111
+2012,8,1,Assault,183
+2012,8,1,Burglary,535
+2012,8,1,Homicide,1
+2012,8,1,Larceny-Theft,1792
+2012,8,1,Motor Vehicle Theft,323
+2012,8,1,Rape,7
+2012,8,1,Robbery,142
+2012,9,1,Assault,225
+2012,9,1,Burglary,544
+2012,9,1,Homicide,0
+2012,9,1,Larceny-Theft,1565
+2012,9,1,Motor Vehicle Theft,322
+2012,9,1,Rape,16
+2012,9,1,Robbery,139
+2012,10,1,Assault,187
+2012,10,1,Burglary,637
+2012,10,1,Homicide,2
+2012,10,1,Larceny-Theft,1556
+2012,10,1,Motor Vehicle Theft,320
+2012,10,1,Rape,7
+2012,10,1,Robbery,136
+2012,11,1,Assault,140
+2012,11,1,Burglary,714
+2012,11,1,Homicide,0
+2012,11,1,Larceny-Theft,1550
+2012,11,1,Motor Vehicle Theft,305
+2012,11,1,Rape,9
+2012,11,1,Robbery,117
+2012,12,1,Assault,160
+2012,12,1,Burglary,699
+2012,12,1,Homicide,0
+2012,12,1,Larceny-Theft,1590
+2012,12,1,Motor Vehicle Theft,319
+2012,12,1,Rape,5
+2012,12,1,Robbery,118
+2013,1,1,Assault,148
+2013,1,1,Burglary,689
+2013,1,1,Homicide,0
+2013,1,1,Larceny-Theft,1590
+2013,1,1,Motor Vehicle Theft,343
+2013,1,1,Rape,6
+2013,1,1,Robbery,119
+2013,2,1,Assault,146
+2013,2,1,Burglary,538
+2013,2,1,Homicide,1
+2013,2,1,Larceny-Theft,1224
+2013,2,1,Motor Vehicle Theft,270
+2013,2,1,Rape,16
+2013,2,1,Robbery,134
+2013,3,1,Assault,135
+2013,3,1,Burglary,661
+2013,3,1,Homicide,4
+2013,3,1,Larceny-Theft,1435
+2013,3,1,Motor Vehicle Theft,283
+2013,3,1,Rape,3
+2013,3,1,Robbery,98
+2013,4,1,Assault,148
+2013,4,1,Burglary,606
+2013,4,1,Homicide,1
+2013,4,1,Larceny-Theft,1419
+2013,4,1,Motor Vehicle Theft,314
+2013,4,1,Rape,5
+2013,4,1,Robbery,102
+2013,5,1,Assault,182
+2013,5,1,Burglary,705
+2013,5,1,Homicide,4
+2013,5,1,Larceny-Theft,1632
+2013,5,1,Motor Vehicle Theft,349
+2013,5,1,Rape,5
+2013,5,1,Robbery,134
+2013,6,1,Assault,151
+2013,6,1,Burglary,582
+2013,6,1,Homicide,1
+2013,6,1,Larceny-Theft,1442
+2013,6,1,Motor Vehicle Theft,346
+2013,6,1,Rape,11
+2013,6,1,Robbery,125
+2013,7,1,Assault,204
+2013,7,1,Burglary,563
+2013,7,1,Homicide,4
+2013,7,1,Larceny-Theft,1603
+2013,7,1,Motor Vehicle Theft,365
+2013,7,1,Rape,16
+2013,7,1,Robbery,147
+2013,8,1,Assault,181
+2013,8,1,Burglary,612
+2013,8,1,Homicide,0
+2013,8,1,Larceny-Theft,1640
+2013,8,1,Motor Vehicle Theft,338
+2013,8,1,Rape,9
+2013,8,1,Robbery,158
+2013,9,1,Assault,175
+2013,9,1,Burglary,629
+2013,9,1,Homicide,3
+2013,9,1,Larceny-Theft,1674
+2013,9,1,Motor Vehicle Theft,436
+2013,9,1,Rape,4
+2013,9,1,Robbery,119
+2013,10,1,Assault,164
+2013,10,1,Burglary,624
+2013,10,1,Homicide,2
+2013,10,1,Larceny-Theft,2010
+2013,10,1,Motor Vehicle Theft,414
+2013,10,1,Rape,6
+2013,10,1,Robbery,160
+2013,11,1,Assault,147
+2013,11,1,Burglary,585
+2013,11,1,Homicide,1
+2013,11,1,Larceny-Theft,1969
+2013,11,1,Motor Vehicle Theft,382
+2013,11,1,Rape,4
+2013,11,1,Robbery,168
+2013,12,1,Assault,161
+2013,12,1,Burglary,588
+2013,12,1,Homicide,2
+2013,12,1,Larceny-Theft,2089
+2013,12,1,Motor Vehicle Theft,377
+2013,12,1,Rape,6
+2013,12,1,Robbery,126
+2014,1,30,Assault,180
+2014,1,30,Burglary,646
+2014,1,30,Homicide,1
+2014,1,30,Larceny-Theft,1959
+2014,1,30,Motor Vehicle Theft,443
+2014,1,30,Rape,8
+2014,1,30,Robbery,129
+2014,2,28,Assault,150
+2014,2,28,Burglary,498
+2014,2,28,Homicide,2
+2014,2,28,Larceny-Theft,1439
+2014,2,28,Motor Vehicle Theft,370
+2014,2,28,Rape,8
+2014,2,28,Robbery,79
+2014,3,30,Assault,159
+2014,3,30,Burglary,549
+2014,3,30,Homicide,0
+2014,3,30,Larceny-Theft,2031
+2014,3,30,Motor Vehicle Theft,401
+2014,3,30,Rape,9
+2014,3,30,Robbery,137
+2014,4,30,Assault,185
+2014,4,30,Burglary,559
+2014,4,30,Homicide,4
+2014,4,30,Larceny-Theft,1869
+2014,4,30,Motor Vehicle Theft,481
+2014,4,30,Rape,6
+2014,4,30,Robbery,126
