@@ -46,17 +46,30 @@ for file in annual_report_files:
 
 
 
+#As of February 10th, 2007, the Lousiville's website has a duplicate of the 2012 csv
+#as the 2009 data. The below serves to drop the duplicate rows that are added by
+#repeating the 2012 data in the 2009 CSV without adding edge case information to
+#the above code. 
+
+df = df.drop_duplicates()
+
+#The data from the Louisville police department has data for surrounding cities as well. This filters
+#out any other city besides just Louisville. 
+
+df = df[df['CITY'] == 'LOUISVILLE']
+
 #Create dataframe with just incident date and category for highlevel analysis
 
-df = df[['DATE_REPORTED','CRIME_TYPE']]
+
+df = df[['DATE_OCCURED','CRIME_TYPE']]
 
 #Drop any rows that lack either an incident date or a category
 df = df.dropna()
 
 #Transform incident date column into three columns for year, month, and date
-df['year'] = df['DATE_REPORTED'].map(lambda x: arrow.get(x, ['YYYY-MM-DD HH:mm:ss']).datetime.year)
-df['month'] = df['DATE_REPORTED'].map(lambda x: arrow.get(x, ['YYYY-MM-DD HH:mm:ss']).datetime.month)
-df['day'] = df['DATE_REPORTED'].map(lambda x: arrow.get(x, ['YYYY-MM-DD HH:mm:ss']).datetime.day)
+df['year'] = df['DATE_OCCURED'].map(lambda x: arrow.get(x, ['YYYY-MM-DD HH:mm:ss']).datetime.year)
+df['month'] = df['DATE_OCCURED'].map(lambda x: arrow.get(x, ['YYYY-MM-DD HH:mm:ss']).datetime.month)
+df['day'] = df['DATE_OCCURED'].map(lambda x: arrow.get(x, ['YYYY-MM-DD HH:mm:ss']).datetime.day)
 
 
 df = df[['year','month','day','CRIME_TYPE']]
