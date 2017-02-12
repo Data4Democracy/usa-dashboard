@@ -1,0 +1,85 @@
+year,month,day,crime_type,count
+2012,1,1,Assault,173
+2012,1,1,Burglary,521
+2012,1,1,Homicide,4
+2012,1,1,Larceny-Theft,1732
+2012,1,1,Motor Vehicle Theft,266
+2012,1,1,Rape,7
+2012,1,1,Robbery,112
+2012,2,1,Assault,149
+2012,2,1,Burglary,481
+2012,2,1,Homicide,5
+2012,2,1,Larceny-Theft,1820
+2012,2,1,Motor Vehicle Theft,269
+2012,2,1,Rape,7
+2012,2,1,Robbery,86
+2012,3,1,Assault,167
+2012,3,1,Burglary,570
+2012,3,1,Homicide,2
+2012,3,1,Larceny-Theft,1818
+2012,3,1,Motor Vehicle Theft,273
+2012,3,1,Rape,11
+2012,3,1,Robbery,118
+2012,4,1,Assault,169
+2012,4,1,Burglary,541
+2012,4,1,Homicide,0
+2012,4,1,Larceny-Theft,1609
+2012,4,1,Motor Vehicle Theft,277
+2012,4,1,Rape,3
+2012,4,1,Robbery,103
+2012,5,1,Assault,202
+2012,5,1,Burglary,481
+2012,5,1,Homicide,9
+2012,5,1,Larceny-Theft,1909
+2012,5,1,Motor Vehicle Theft,262
+2012,5,1,Rape,13
+2012,5,1,Robbery,113
+2012,6,1,Assault,208
+2012,6,1,Burglary,500
+2012,6,1,Homicide,0
+2012,6,1,Larceny-Theft,1606
+2012,6,1,Motor Vehicle Theft,302
+2012,6,1,Rape,7
+2012,6,1,Robbery,127
+2012,7,1,Assault,216
+2012,7,1,Burglary,519
+2012,7,1,Homicide,1
+2012,7,1,Larceny-Theft,1733
+2012,7,1,Motor Vehicle Theft,326
+2012,7,1,Rape,13
+2012,7,1,Robbery,111
+2012,8,1,Assault,183
+2012,8,1,Burglary,535
+2012,8,1,Homicide,1
+2012,8,1,Larceny-Theft,1792
+2012,8,1,Motor Vehicle Theft,323
+2012,8,1,Rape,7
+2012,8,1,Robbery,142
+2012,9,1,Assault,225
+2012,9,1,Burglary,544
+2012,9,1,Homicide,0
+2012,9,1,Larceny-Theft,1565
+2012,9,1,Motor Vehicle Theft,322
+2012,9,1,Rape,16
+2012,9,1,Robbery,139
+2012,10,1,Assault,187
+2012,10,1,Burglary,637
+2012,10,1,Homicide,2
+2012,10,1,Larceny-Theft,1556
+2012,10,1,Motor Vehicle Theft,320
+2012,10,1,Rape,7
+2012,10,1,Robbery,136
+2012,11,1,Assault,140
+2012,11,1,Burglary,714
+2012,11,1,Homicide,0
+2012,11,1,Larceny-Theft,1550
+2012,11,1,Motor Vehicle Theft,305
+2012,11,1,Rape,9
+2012,11,1,Robbery,117
+2012,12,1,Assault,160
+2012,12,1,Burglary,699
+2012,12,1,Homicide,0
+2012,12,1,Larceny-Theft,1590
+2012,12,1,Motor Vehicle Theft,319
+2012,12,1,Rape,5
+2012,12,1,Robbery,118

@@ -1,0 +1,29 @@
+year,month,day,crime_type,count
+2014,1,30,Assault,180
+2014,1,30,Burglary,646
+2014,1,30,Homicide,1
+2014,1,30,Larceny-Theft,1959
+2014,1,30,Motor Vehicle Theft,443
+2014,1,30,Rape,8
+2014,1,30,Robbery,129
+2014,2,28,Assault,150
+2014,2,28,Burglary,498
+2014,2,28,Homicide,2
+2014,2,28,Larceny-Theft,1439
+2014,2,28,Motor Vehicle Theft,370
+2014,2,28,Rape,8
+2014,2,28,Robbery,79
+2014,3,30,Assault,159
+2014,3,30,Burglary,549
+2014,3,30,Homicide,0
+2014,3,30,Larceny-Theft,2031
+2014,3,30,Motor Vehicle Theft,401
+2014,3,30,Rape,9
+2014,3,30,Robbery,137
+2014,4,30,Assault,185
+2014,4,30,Burglary,559
+2014,4,30,Homicide,4
+2014,4,30,Larceny-Theft,1869
+2014,4,30,Motor Vehicle Theft,481
+2014,4,30,Rape,6
+2014,4,30,Robbery,126

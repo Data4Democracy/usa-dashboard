@@ -1,0 +1,85 @@
+year,month,day,crime_type,count
+2010,1,1,Assault,150
+2010,1,1,Burglary,652
+2010,1,1,Homicide,2
+2010,1,1,Larceny-Theft,2380
+2010,1,1,Motor Vehicle Theft,425
+2010,1,1,Rape,7
+2010,1,1,Robbery,148
+2010,2,1,Assault,110
+2010,2,1,Burglary,442
+2010,2,1,Homicide,1
+2010,2,1,Larceny-Theft,1779
+2010,2,1,Motor Vehicle Theft,275
+2010,2,1,Rape,5
+2010,2,1,Robbery,101
+2010,3,1,Assault,134
+2010,3,1,Burglary,555
+2010,3,1,Homicide,1
+2010,3,1,Larceny-Theft,1831
+2010,3,1,Motor Vehicle Theft,310
+2010,3,1,Rape,7
+2010,3,1,Robbery,114
+2010,4,1,Assault,137
+2010,4,1,Burglary,438
+2010,4,1,Homicide,0
+2010,4,1,Larceny-Theft,1936
+2010,4,1,Motor Vehicle Theft,259
+2010,4,1,Rape,7
+2010,4,1,Robbery,114
+2010,5,1,Assault,185
+2010,5,1,Burglary,518
+2010,5,1,Homicide,2
+2010,5,1,Larceny-Theft,2103
+2010,5,1,Motor Vehicle Theft,302
+2010,5,1,Rape,9
+2010,5,1,Robbery,126
+2010,6,1,Assault,165
+2010,6,1,Burglary,518
+2010,6,1,Homicide,1
+2010,6,1,Larceny-Theft,2023
+2010,6,1,Motor Vehicle Theft,361
+2010,6,1,Rape,6
+2010,6,1,Robbery,116
+2010,7,1,Assault,194
+2010,7,1,Burglary,475
+2010,7,1,Homicide,0
+2010,7,1,Larceny-Theft,1844
+2010,7,1,Motor Vehicle Theft,280
+2010,7,1,Rape,3
+2010,7,1,Robbery,125
+2010,8,1,Assault,209
+2010,8,1,Burglary,592
+2010,8,1,Homicide,2
+2010,8,1,Larceny-Theft,1916
+2010,8,1,Motor Vehicle Theft,239
+2010,8,1,Rape,4
+2010,8,1,Robbery,126
+2010,9,1,Assault,188
+2010,9,1,Burglary,584
+2010,9,1,Homicide,6
+2010,9,1,Larceny-Theft,1889
+2010,9,1,Motor Vehicle Theft,257
+2010,9,1,Rape,6
+2010,9,1,Robbery,104
+2010,10,1,Assault,168
+2010,10,1,Burglary,548
+2010,10,1,Homicide,2
+2010,10,1,Larceny-Theft,1814
+2010,10,1,Motor Vehicle Theft,294
+2010,10,1,Rape,8
+2010,10,1,Robbery,102
+2010,11,1,Assault,133
+2010,11,1,Burglary,500
+2010,11,1,Homicide,2
+2010,11,1,Larceny-Theft,1830
+2010,11,1,Motor Vehicle Theft,214
+2010,11,1,Rape,9
+2010,11,1,Robbery,111
+2010,12,1,Assault,163
+2010,12,1,Burglary,597
+2010,12,1,Homicide,0
+2010,12,1,Larceny-Theft,1787
+2010,12,1,Motor Vehicle Theft,229
+2010,12,1,Rape,8
+2010,12,1,Robbery,128
