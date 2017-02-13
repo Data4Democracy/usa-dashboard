@@ -94,3 +94,6 @@ ENV/
 #config files
 config.py
 .Rproj.user
+
+# PyCharm
+.idea*
