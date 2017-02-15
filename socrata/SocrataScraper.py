@@ -18,13 +18,14 @@ class SocrataScraper :
 		if config['startDate'] :
 			self.startDate = arrow.get( config['startDate'] )
 		else :
-			self.startDate = arrow.utcnow( )
+			self.startDate = arrow.get( '1970-01-01' )
 		if config['endDate'] :
 			self.endDate = arrow.get( config['endDate'] )
 		else :
 			self.endDate = arrow.utcnow( )
 
-		print( 'Constructed SocrataScraper for {}'.format( self.name ) )
+		print( 'Constructed SocrataScraper for {} ({} -> {})'.format( self.name, self.startDate.format( 'YYYY-MM-DD' ),
+																	  self.endDate.format( 'YYYY-MM-DD' ) ) )
 
 	def Run( self ) :
 		print( 'Running scraper...' )

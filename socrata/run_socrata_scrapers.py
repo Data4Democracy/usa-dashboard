@@ -21,7 +21,7 @@ def main( ) :
 
 			# Configure and run scraper
 			scraper = SocrataScraper( configScraper )
-			scraper.Run()
+			scraper.Run( )
 
 		except Exception as e :
 			print( 'Exception: {}'.format( repr( e ) ) )
