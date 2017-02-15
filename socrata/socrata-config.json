@@ -1,0 +1,51 @@
+{
+  "appToken": "",
+  "limitPerReq": 50000,
+  "scrapers": [
+    {
+      "name": "bal-crime",
+      "startDate": "2015-01-01",
+      "endDate": "",
+      "endpoints": [
+        "https://data.baltimorecity.gov/resource/4ih5-d5d5.json"
+      ],
+      "dateFields": [
+        "crimedate"
+      ],
+      "metricFields": [
+        "description"
+      ]
+    },
+    {
+      "name": "chi-crime",
+      "startDate": "2015-01-01",
+      "endDate": "",
+      "endpoints": [
+        "https://data.cityofchicago.org/resource/6zsd-86xi.json"
+      ],
+      "dateFields": [
+        "date"
+      ],
+      "metricFields": [
+        "primary_type"
+      ]
+    },
+    {
+      "name": "nyc-crime",
+      "startDate": "2015-01-01",
+      "endDate": "",
+      "endpoints": [
+        "https://data.cityofnewyork.us/resource/9s4h-37hy.json",
+        "https://data.cityofnewyork.us/resource/7x9x-zpz6.json"
+      ],
+      "dateFields": [
+        "cmplnt_fr_dt",
+        "cmplnt_fr_dt"
+      ],
+      "metricFields": [
+        "ofns_desc",
+        "ofns_desc"
+      ]
+    }
+  ]
+}
