@@ -4,6 +4,7 @@
   "scrapers": [
     {
       "name": "bal-crime",
+      "active": false,
       "startDate": "2015-01-01",
       "endDate": "",
       "endpoints": [
@@ -18,6 +19,7 @@
     },
     {
       "name": "chi-crime",
+      "active": false,
       "startDate": "2015-01-01",
       "endDate": "",
       "endpoints": [
@@ -31,7 +33,23 @@
       ]
     },
     {
+      "name": "hart-crime",
+      "active": false,
+      "startDate": "2015-01-01",
+      "endDate": "",
+      "endpoints": [
+        "https://data.hartford.gov/resource/h9if-m432.json"
+      ],
+      "dateFields": [
+        "date"
+      ],
+      "metricFields": [
+        "ucr_1_description"
+      ]
+    },
+    {
       "name": "nyc-crime",
+      "active": false,
       "startDate": "2015-01-01",
       "endDate": "",
       "endpoints": [
@@ -45,6 +63,36 @@
       "metricFields": [
         "ofns_desc",
         "ofns_desc"
+      ]
+    },
+    {
+      "name": "phl-crime",
+      "active": false,
+      "startDate": "2015-01-01",
+      "endDate": "",
+      "endpoints": [
+        "https://data.phila.gov/resource/sspu-uyfa.json"
+      ],
+      "dateFields": [
+        "dispatch_date_time"
+      ],
+      "metricFields": [
+        "text_general_code"
+      ]
+    },
+    {
+      "name": "sea-crime",
+      "active": true,
+      "startDate": "2012-01-01",
+      "endDate": "2015-01-01",
+      "endpoints": [
+        "https://data.seattle.gov/resource/hapq-73pk.json"
+      ],
+      "dateFields": [
+        "report_date"
+      ],
+      "metricFields": [
+        "crime_type"
       ]
     }
   ]

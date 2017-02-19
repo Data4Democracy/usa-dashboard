@@ -79,6 +79,10 @@ class SocrataScraper :
 			dfMain = dfMain.append( dfEndpoint, ignore_index=True )
 			print( )
 
+		if len( dfMain.index ) == 0 :
+			print( 'No entries scraped.' )
+			return
+
 		# Get counts across all endpoints
 		dfMain['count'] = 0
 		dfMain = dfMain.groupby( ['year', 'month', 'day', 'metric'] ).agg( {'count' : 'count'} )

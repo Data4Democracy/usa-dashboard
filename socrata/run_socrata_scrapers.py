@@ -19,9 +19,10 @@ def main( ) :
 			configScraper['appToken'] = configJson['appToken']
 			configScraper['limitPerReq'] = configJson['limitPerReq']
 
-			# Configure and run scraper
-			scraper = SocrataScraper( configScraper )
-			scraper.Run( )
+			if configScraper['active']:
+				# Configure and run scraper
+				scraper = SocrataScraper( configScraper )
+				scraper.Run( )
 
 		except Exception as e :
 			print( 'Exception: {}'.format( repr( e ) ) )
