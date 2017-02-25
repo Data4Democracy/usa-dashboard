@@ -1,11 +1,12 @@
 {
-  "appToken": "",
+  "writeCSV": true,
+  "writeSQL": true,
   "limitPerReq": 50000,
   "scrapers": [
     {
-      "name": "bal-crime",
+      "name": "bal_crime",
       "active": false,
-      "startDate": "2015-01-01",
+      "startDate": "2016-01-01",
       "endDate": "",
       "endpoints": [
         "https://data.baltimorecity.gov/resource/4ih5-d5d5.json"
@@ -18,7 +19,7 @@
       ]
     },
     {
-      "name": "chi-crime",
+      "name": "chi_crime",
       "active": false,
       "startDate": "2015-01-01",
       "endDate": "",
@@ -33,7 +34,7 @@
       ]
     },
     {
-      "name": "hart-crime",
+      "name": "hart_crime",
       "active": false,
       "startDate": "2015-01-01",
       "endDate": "",
@@ -48,7 +49,7 @@
       ]
     },
     {
-      "name": "nyc-crime",
+      "name": "nyc_crime",
       "active": false,
       "startDate": "2015-01-01",
       "endDate": "",
@@ -66,9 +67,9 @@
       ]
     },
     {
-      "name": "phl-crime",
-      "active": false,
-      "startDate": "2015-01-01",
+      "name": "phl_crime",
+      "active": true,
+      "startDate": "2016-01-01",
       "endDate": "",
       "endpoints": [
         "https://data.phila.gov/resource/sspu-uyfa.json"
@@ -81,8 +82,8 @@
       ]
     },
     {
-      "name": "sea-crime",
-      "active": true,
+      "name": "sea_crime",
+      "active": false,
       "startDate": "2012-01-01",
       "endDate": "2015-01-01",
       "endpoints": [

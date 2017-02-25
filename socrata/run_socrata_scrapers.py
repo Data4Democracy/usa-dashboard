@@ -3,9 +3,16 @@
 # lib
 import json
 import argparse
+from sqlalchemy import create_engine
 
 # src
-from socrata.SocrataScraper import SocrataScraper
+from SocrataScraper import SocrataScraper
+
+# authentication
+try :
+	import config as auth
+except :
+	print( 'Warning: failed to import config.py' )
 
 def main( ) :
 	args = ParseArguments( )
@@ -13,16 +20,38 @@ def main( ) :
 	with open( args['config'] ) as configFile :
 		configJson = json.load( configFile )
 
+	# Setup up sql engine
+	if configJson['writeSQL'] :
+		try :
+			engine = create_engine( 'postgresql://{}:{}@{}/{}'.format(
+				auth.authPostgres['user'],
+				auth.authPostgres['pass'],
+				auth.authPostgres['host'],
+				auth.authPostgres['db'] ) )
+			# verify auth
+			testConn = engine.connect( )
+			if testConn :
+				print( 'Postgres connection verified.' )
+			else :
+				print( 'Warning: Postgres connection test failed.' )
+				engine = None
+
+		except Exception as e :
+			print( 'Exception: {}'.format( repr( e ) ) )
+			engine = None
+
+	# Run each active scraper
 	for configScraper in configJson['scrapers'] :
 		try :
 			# include global config fields
-			configScraper['appToken'] = configJson['appToken']
 			configScraper['limitPerReq'] = configJson['limitPerReq']
+			configScraper['writeCSV'] = configJson['writeCSV']
+			configScraper['writeSQL'] = configJson['writeSQL']
 
-			if configScraper['active']:
+			if configScraper['active'] :
 				# Configure and run scraper
 				scraper = SocrataScraper( configScraper )
-				scraper.Run( )
+				scraper.Run( engine )
 
 		except Exception as e :
 			print( 'Exception: {}'.format( repr( e ) ) )
