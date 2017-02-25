@@ -102,7 +102,7 @@ class SocrataScraper :
 
 					# Merge with new data, drop duplicated keeping new values
 					dfSQL = dfSQL.append( dfMain, ignore_index=True )
-					dfSQL.drop_duplicates( subset=['year', 'month', 'day', 'metric'], keep='last' )
+					dfSQL.drop_duplicates( subset=['year', 'month', 'day', 'metric'], keep='last', inplace=True )
 
 				except :
 					dfSQL = dfMain
