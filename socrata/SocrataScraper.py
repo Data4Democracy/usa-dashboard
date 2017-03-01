@@ -3,16 +3,18 @@
 
 import pandas as pd
 import arrow
+from sqlalchemy import create_engine
 
 class SocrataScraper :
 	def __init__( self, config ) :
 		# Unload json config
-		self.appToken = config['appToken']
 		self.limitPerReq = config['limitPerReq']
 		self.name = config['name']
 		self.endpoints = config['endpoints']
 		self.dateFields = config['dateFields']
 		self.metricFields = config['metricFields']
+		self.writeCSV = config['writeCSV']
+		self.writeSQL = config['writeSQL']
 
 		# Set date-time bounds
 		if config['startDate'] :
@@ -24,10 +26,11 @@ class SocrataScraper :
 		else :
 			self.endDate = arrow.utcnow( )
 
-		print( 'Constructed SocrataScraper for {} ({} -> {})'.format( self.name, self.startDate.format( 'YYYY-MM-DD' ),
-																	  self.endDate.format( 'YYYY-MM-DD' ) ) )
+		print( 'Constructed SocrataScraper for {} ({} -> {}, Postgres: {}, CSV: {})'.format(
+			self.name, self.startDate.format( 'YYYY-MM-DD' ), self.endDate.format( 'YYYY-MM-DD' ),
+			self.writeSQL, self.writeCSV ) )
 
-	def Run( self ) :
+	def Run( self, engineSQL ) :
 		print( 'Running scraper...' )
 		if not self.Validate( ) :
 			print( 'Shutting down.' )
@@ -75,23 +78,51 @@ class SocrataScraper :
 
 			# TODO: Convert metric at endpoint level to be uniform across all datasets of this type (ie. UCR)
 			#
+			#
+
 			# Add to main
 			dfMain = dfMain.append( dfEndpoint, ignore_index=True )
 			print( )
+
+		if len( dfMain.index ) == 0 :
+			print( 'No entries scraped.' )
+			return
 
 		# Get counts across all endpoints
 		dfMain['count'] = 0
 		dfMain = dfMain.groupby( ['year', 'month', 'day', 'metric'] ).agg( {'count' : 'count'} )
 		dfMain = dfMain.reset_index( )
 
-		# Write out to csv by year
-		yearMax = dfMain.loc[:, 'year'].max( )
-		yearMin = dfMain.loc[:, 'year'].min( )
-		for yr in range( yearMin, yearMax + 1 ) :
-			dfAnnual = dfMain[dfMain['year'] == yr]
-			fileName = 'data/{}-{}.csv'.format( self.name, yr )
-			dfAnnual.to_csv( fileName, index=False )
-			print( 'Wrote {} entries to'.format( len( dfAnnual.index ) ), fileName )
+		# Connect with postgres db and update current table
+		if self.writeSQL and engineSQL :
+			with engineSQL.connect( ) as conn, conn.begin( ) :
+				try :
+					# Read table if exists
+					dfSQL = pd.read_sql_table( self.name, conn )
+
+					# Merge with new data, drop duplicated keeping new values
+					dfSQL = dfSQL.append( dfMain, ignore_index=True )
+					dfSQL.drop_duplicates( subset=['year', 'month', 'day', 'metric'], keep='last', inplace=True )
+
+				except :
+					dfSQL = dfMain
+
+				# Write updated table and give access to Mode bot
+				print( 'Writing {} ({} rows) to Postgres database...'.format(
+					self.name, len( dfSQL.index ) ) )
+				dfSQL.to_sql( self.name, conn, index=False, if_exists='replace' )
+				conn.execute( 'GRANT ALL PRIVILEGES ON TABLE {} to awsuser'.format( self.name ) )
+				print( 'Done.' )
+
+		if self.writeCSV :
+			# Write out to csv by year
+			yearMax = dfMain.loc[:, 'year'].max( )
+			yearMin = dfMain.loc[:, 'year'].min( )
+			for yr in range( yearMin, yearMax + 1 ) :
+				dfAnnual = dfMain[dfMain['year'] == yr]
+				fileName = 'data/{}-{}.csv'.format( self.name, yr )
+				dfAnnual.to_csv( fileName, index=False )
+				print( 'Wrote {} rows to'.format( len( dfAnnual.index ) ), fileName )
 
 	def Validate( self ) :
 		n = len( self.endpoints )
