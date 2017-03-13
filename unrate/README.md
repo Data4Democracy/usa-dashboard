@@ -18,7 +18,7 @@ program in the [`scripts`](./scripts/) directory takes the BLS series and
 estimates an ARIMA model. Currently, it saves the results in a plot in
 [`figures`](./figures/), depending on how the model is calibrated.
 
-![ur-arima(4,1,0).svg](figures/ur-arima\(4,1,0\).svg)
+[Here's an example plot.](./figures/ur-arima\(4,1,0\).svg)
 
 # TODOs
 
