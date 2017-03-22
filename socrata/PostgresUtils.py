@@ -1,5 +1,6 @@
 # Utilities for interfacing with postgres db
 
+# lib
 import pandas as pd
 from sqlalchemy import create_engine
 
@@ -18,23 +19,53 @@ def UpdateTable( engineSQL, tableName, dfNew ) :
 
 	# Read table if exists
 	try :
-		with engineSQL.connect( ) as conn, conn.begin( ) :
+		with engineSQL.connect( ) as conn :
 			dfCurr = pd.read_sql_table( tableName, conn )
 			if any( dfCurr.columns.values != dfNew.columns.values ) :
 				print( 'Table columns do not match. Returning...' )
 				return False
 
 			# Do insert/replace
-			# TODO
+			trans = conn.begin( )
+			print( 'Updating {}...'.format( tableName ) )
+			try :
+				countNew = 0
+				countUpdated = 0
+				for index, entry in dfNew.iterrows( ) :
+					# Check for existing entry
+					duplicate = dfCurr.loc[(dfCurr['year'] == entry['year'])
+										   & (dfCurr['month'] == entry['month'])
+										   & (dfCurr['day'] == entry['day'])
+										   & (dfCurr['metric'] == entry['metric'])]
 
-			# Merge with new data, drop duplicated keeping new values
-			# dfSQL = dfSQL.append( dfMain, ignore_index=True )
-			# dfSQL.drop_duplicates( subset=['year', 'month', 'day', 'metric'], keep='last', inplace=True )
+					if duplicate.empty :
+						# Insert new entry
+						conn.execute(
+							'INSERT INTO {} (year, month, day, metric, count) VALUES ({}, {}, {}, \'{}\', {})'.format(
+								tableName, entry['year'], entry['month'], entry['day'], entry['metric'], entry['count']
+							) )
+						countNew += 1
 
-			return True
+					elif len( duplicate.index ) == 1 and duplicate.iloc[0, :]['count'] != entry['count'] :
+						# Update duplicate with new count
+						conn.execute(
+							'UPDATE {} SET count = {} WHERE year = {} AND month = {} AND day = {} AND metric = \'{}\''.format(
+								tableName, entry['count'], entry['year'], entry['month'], entry['day'], entry['metric']
+							) )
+						countUpdated += 1
+
+				trans.commit( )
+				print( 'Finished update on {}. New entries: {}, Updated entries: {}'.format(
+					tableName, countNew, countUpdated ) )
+				return True
+
+			except Exception as e :
+				print( 'Update of table {} failed: {}'.format( tableName, e ) )
+				trans.rollback( )
+				return False
 
 	except Exception as e :
-		print( 'Table: {} does not exist. Creating new... {}'.format( tableName, e ) )
+		print( 'Caught exception: {}. Trying to create new table...'.format( e ) )
 		return CreateTable( engineSQL, tableName, dfNew )
 
 def CreateTable( engineSQL, tableName, dfNew ) :
