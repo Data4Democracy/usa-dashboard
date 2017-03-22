@@ -81,13 +81,18 @@ def CreateTable( engineSQL, tableName, dfNew ) :
 		return False
 
 	# Connect
-	with engineSQL.connect( ) as conn, conn.begin( ) :
-		# Write and give access to Mode bot
-		print( 'Writing new table: {} ({} rows) to Postgres database...'.format(
-			tableName, len( dfNew.index ) ) )
-		dfNew.to_sql( tableName, conn, index=False )
-		conn.execute( 'GRANT ALL PRIVILEGES ON TABLE {} to awsuser'.format( tableName ) )
-		print( 'Done.' )
+	try :
+		with engineSQL.connect( ) as conn, conn.begin( ) :
+			# Write and give access to Mode bot
+			print( 'Writing new table: {} ({} rows) to Postgres database...'.format(
+				tableName, len( dfNew.index ) ) )
+			dfNew.to_sql( tableName, conn, index=False )
+			conn.execute( 'GRANT ALL PRIVILEGES ON TABLE {} to awsuser'.format( tableName ) )
+			print( 'Done.' )
+			return True
+	except Exception as e :
+		print( 'Failed: {}'.format( e ) )
+		return False
 
 # Creates engine, but returns None if creds are invalid
 def CreateEngine( dbURL ) :
