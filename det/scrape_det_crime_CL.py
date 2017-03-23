@@ -12,11 +12,11 @@ import pandas as pd
 import argparse
 
 
-def extract_crime_data(LIMIT_PER_REQ=10000):
+def extract_crime_data(LIMIT_PER_REQ=10000, year=None, zipcode=None):
     # Note: this can be set to entire dataset but request may timeout on slow connection    
     
     # Const
-    BASE_URL = "https://data.detroitmi.gov/resource/i9ph-uyrp.json?$order=crimeid%20asc"
+    BASE_URL = "https://data.detroitmi.gov/resource/i9ph-uyrp.json?"
      
     
     
@@ -28,10 +28,25 @@ def extract_crime_data(LIMIT_PER_REQ=10000):
     # Pull everything available
     while available :
         print('\rEntries pulled: {} '.format(len( df.index)))
-        if year:
-            pageUrl = BASE_URL + '&$limit=' + str(LIMIT_PER_REQ) + '&$offset=' + str(offset)
+        
+        if zipcode and year:
+            start_year= str(year)
+            end_year = str(year + 1)
+            zipcode = str(zipcode)
+            pageUrl = BASE_URL + 'location_zip=' + zipcode +'&$where=incidentdate%20between%20%27'+ \
+            start_year+'-01-01T00:00:00.000%27%20and%20%27' + \
+            end_year + '-01-01T00:00:00.000%27'+ \
+            '&$order=crimeid%20asc' + '&$limit=' + str(LIMIT_PER_REQ) + '&$offset=' + str(offset)
+        elif year:
+            start_year= str(year)
+            end_year = str(year + 1)
+            pageUrl = BASE_URL +'$where=incidentdate%20between%20%27'+start_year+'-01-01T00:00:00.000%27%20and%20%27' + \
+            end_year + '-01-01T00:00:00.000%27'+ \
+            '&$order=crimeid%20asc' + '&$limit=' + str(LIMIT_PER_REQ) + '&$offset=' + str(offset)
+              
         else:    
-            pageUrl = BASE_URL + '&$limit=' + str(LIMIT_PER_REQ) + '&$offset=' + str(offset)
+            pageUrl = BASE_URL + '&$order=crimeid%20asc' + '&$limit=' + str(LIMIT_PER_REQ) + '&$offset=' + str(offset)
+            
         dfTemp = pd.read_json( pageUrl )
         df = df.append(dfTemp, ignore_index=True)
         available = len(dfTemp.index) > 0
@@ -61,11 +76,14 @@ def extract_crime_data(LIMIT_PER_REQ=10000):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('limit', help='how many records would you like to extract \
-                        at a time?', type=int)
+    parser.add_argument('limit', nargs='?', default=10, help='records pulled per request', type=int)
+                        
+    parser.add_argument('year', nargs='?', default=None, help='year data to be pulled', type=int)
+    
+    parser.add_argument('zip', nargs='?', default=None, help='zipcode data to be pulled', type=int)    
     
     args = parser.parse_args()
-    result = extract_crime_data(LIMIT_PER_REQ=args.limit)
+    result = extract_crime_data(LIMIT_PER_REQ=args.limit, year=args.year, zipcode=args.zip)
     print result
     
 if __name__ == '__main__':
