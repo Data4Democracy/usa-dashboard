@@ -1,4 +1,5 @@
-
+# default scraper for Detroit crime
+# (Adapted from existing scrapers by msilb7 and wwymak)
 
 import arrow
 import pandas as pd
