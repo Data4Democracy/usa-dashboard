@@ -1,12 +1,17 @@
 # Socrata Scraper class
 # (Adapted from existing scrapers by msilb7 and wwymak)
 
+# lib
 import pandas as pd
 import arrow
-from sqlalchemy import create_engine
+
+# src
+from PostgresUtils import UpdateTable
 
 class SocrataScraper :
-	def __init__( self, config ) :
+	def __init__( self, config, engineSQL ) :
+		self.engineSQL = engineSQL
+
 		# Unload json config
 		self.limitPerReq = config['limitPerReq']
 		self.name = config['name']
@@ -28,9 +33,9 @@ class SocrataScraper :
 
 		print( 'Constructed SocrataScraper for {} ({} -> {}, Postgres: {}, CSV: {})'.format(
 			self.name, self.startDate.format( 'YYYY-MM-DD' ), self.endDate.format( 'YYYY-MM-DD' ),
-			self.writeSQL, self.writeCSV ) )
+			self.writeSQL and bool( self.engineSQL ), self.writeCSV ) )
 
-	def Run( self, engineSQL ) :
+	def Run( self ) :
 		print( 'Running scraper...' )
 		if not self.Validate( ) :
 			print( 'Shutting down.' )
@@ -94,25 +99,8 @@ class SocrataScraper :
 		dfMain = dfMain.reset_index( )
 
 		# Connect with postgres db and update current table
-		if self.writeSQL and engineSQL :
-			with engineSQL.connect( ) as conn, conn.begin( ) :
-				try :
-					# Read table if exists
-					dfSQL = pd.read_sql_table( self.name, conn )
-
-					# Merge with new data, drop duplicated keeping new values
-					dfSQL = dfSQL.append( dfMain, ignore_index=True )
-					dfSQL.drop_duplicates( subset=['year', 'month', 'day', 'metric'], keep='last', inplace=True )
-
-				except :
-					dfSQL = dfMain
-
-				# Write updated table and give access to Mode bot
-				print( 'Writing {} ({} rows) to Postgres database...'.format(
-					self.name, len( dfSQL.index ) ) )
-				dfSQL.to_sql( self.name, conn, index=False, if_exists='replace' )
-				conn.execute( 'GRANT ALL PRIVILEGES ON TABLE {} to awsuser'.format( self.name ) )
-				print( 'Done.' )
+		if self.writeSQL and self.engineSQL :
+			UpdateTable( self.engineSQL, self.name, dfMain )
 
 		if self.writeCSV :
 			# Write out to csv by year
