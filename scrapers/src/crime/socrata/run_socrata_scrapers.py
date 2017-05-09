@@ -1,12 +1,11 @@
 # Driver script to handle socrata scrapers
 
 # lib
-import json
 import argparse
+import json
 
-# src
-from SocrataScraper import SocrataScraper
-from PostgresUtils import CreateEngine
+from scrapers.src.PostgresUtils import CreateEngine
+from scrapers.src.SocrataScraper import SocrataScraper
 
 # authentication
 try :
