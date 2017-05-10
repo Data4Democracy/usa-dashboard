@@ -2,11 +2,10 @@
 # (Adapted from existing scrapers by msilb7 and wwymak)
 
 # lib
-import pandas as pd
 import arrow
+import pandas as pd
 
-# src
-from PostgresUtils import UpdateTable
+from scrapers.src.PostgresUtils import UpdateTable
 
 class SocrataScraper :
 	def __init__( self, config, engineSQL ) :
