@@ -1,12 +1,11 @@
 # Driver script to handle socrata scrapers
 
 # lib
-import json
 import argparse
-from sqlalchemy import create_engine
+import json
 
-# src
-from SocrataScraper import SocrataScraper
+from scrapers.src.PostgresUtils import CreateEngine
+from scrapers.src.SocrataScraper import SocrataScraper
 
 # authentication
 try :
@@ -21,24 +20,20 @@ def main( ) :
 		configJson = json.load( configFile )
 
 	# Setup up sql engine
+	engine = None
 	if configJson['writeSQL'] :
 		try :
-			engine = create_engine( 'postgresql://{}:{}@{}/{}'.format(
+			engine = CreateEngine( 'postgresql://{}:{}@{}/{}'.format(
 				auth.authPostgres['user'],
 				auth.authPostgres['pass'],
 				auth.authPostgres['host'],
 				auth.authPostgres['db'] ) )
-			# verify auth
-			testConn = engine.connect( )
-			if testConn :
-				print( 'Postgres connection verified.' )
-			else :
-				print( 'Warning: Postgres connection test failed.' )
-				engine = None
 
 		except Exception as e :
-			print( 'Exception: {}'.format( repr( e ) ) )
-			engine = None
+			print( 'Exception on SQL engine setup: {}'.format( repr( e ) ) )
+
+	if not engine :
+		print( 'Warning: Postgres connection not configured' )
 
 	# Run each active scraper
 	for configScraper in configJson['scrapers'] :
@@ -50,11 +45,11 @@ def main( ) :
 
 			if configScraper['active'] :
 				# Configure and run scraper
-				scraper = SocrataScraper( configScraper )
-				scraper.Run( engine )
+				scraper = SocrataScraper( configScraper, engine )
+				scraper.Run( )
 
 		except Exception as e :
-			print( 'Exception: {}'.format( repr( e ) ) )
+			print( 'Exception on scraper run: {}'.format( repr( e ) ) )
 
 # Command Line Arguments
 def ParseArguments( ) :
