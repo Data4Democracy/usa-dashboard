@@ -1,10 +1,32 @@
+"""
+Usage:
+    $ python3 google_trends google_username google_password
+"""
 from pytrends.request import TrendReq
 from datetime import datetime as dt
 import pandas as pd
+import argparse
+
+# Argument parsing
+parser = argparse.ArgumentParser()
+
+parser.add_argument(
+        "user",
+        help="Google account user name",
+        type=str
+        )
+
+parser.add_argument(
+        "pswd",
+        help="Google account password",
+        type=str
+        )
+
+args = parser.parse_args()
 
 # credentials
-username = 'davidkraemer.d4d@gmail.com'
-password = 'datafordemocracy'
+username = args.user
+password = args.pswd
 
 language = 'en-US'
 timezone = 360
