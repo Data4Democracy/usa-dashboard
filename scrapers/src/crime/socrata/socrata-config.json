@@ -1,0 +1,100 @@
+{
+  "writeCSV": true,
+  "writeSQL": true,
+  "limitPerReq": 50000,
+  "scrapers": [
+    {
+      "name": "bal_crime",
+      "active": false,
+      "startDate": "2016-01-01",
+      "endDate": "",
+      "endpoints": [
+        "https://data.baltimorecity.gov/resource/4ih5-d5d5.json"
+      ],
+      "dateFields": [
+        "crimedate"
+      ],
+      "metricFields": [
+        "description"
+      ]
+    },
+    {
+      "name": "chi_crime",
+      "active": false,
+      "startDate": "2015-01-01",
+      "endDate": "",
+      "endpoints": [
+        "https://data.cityofchicago.org/resource/6zsd-86xi.json"
+      ],
+      "dateFields": [
+        "date"
+      ],
+      "metricFields": [
+        "primary_type"
+      ]
+    },
+    {
+      "name": "hart_crime",
+      "active": false,
+      "startDate": "2015-01-01",
+      "endDate": "",
+      "endpoints": [
+        "https://data.hartford.gov/resource/h9if-m432.json"
+      ],
+      "dateFields": [
+        "date"
+      ],
+      "metricFields": [
+        "ucr_1_description"
+      ]
+    },
+    {
+      "name": "nyc_crime",
+      "active": false,
+      "startDate": "2015-01-01",
+      "endDate": "",
+      "endpoints": [
+        "https://data.cityofnewyork.us/resource/9s4h-37hy.json",
+        "https://data.cityofnewyork.us/resource/7x9x-zpz6.json"
+      ],
+      "dateFields": [
+        "cmplnt_fr_dt",
+        "cmplnt_fr_dt"
+      ],
+      "metricFields": [
+        "ofns_desc",
+        "ofns_desc"
+      ]
+    },
+    {
+      "name": "phl_crime",
+      "active": true,
+      "startDate": "2017-01-01",
+      "endDate": "",
+      "endpoints": [
+        "https://data.phila.gov/resource/sspu-uyfa.json"
+      ],
+      "dateFields": [
+        "dispatch_date_time"
+      ],
+      "metricFields": [
+        "text_general_code"
+      ]
+    },
+    {
+      "name": "sea_crime",
+      "active": false,
+      "startDate": "2012-01-01",
+      "endDate": "2015-01-01",
+      "endpoints": [
+        "https://data.seattle.gov/resource/hapq-73pk.json"
+      ],
+      "dateFields": [
+        "report_date"
+      ],
+      "metricFields": [
+        "crime_type"
+      ]
+    }
+  ]
+}

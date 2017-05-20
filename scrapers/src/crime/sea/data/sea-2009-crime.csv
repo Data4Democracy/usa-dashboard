@@ -1,0 +1,85 @@
+year,month,day,crime_type,count
+2009,1,1,Assault,158
+2009,1,1,Burglary,567
+2009,1,1,Homicide,2
+2009,1,1,Larceny-Theft,2154
+2009,1,1,Motor Vehicle Theft,256
+2009,1,1,Rape,8
+2009,1,1,Robbery,155
+2009,2,1,Assault,129
+2009,2,1,Burglary,442
+2009,2,1,Homicide,3
+2009,2,1,Larceny-Theft,1725
+2009,2,1,Motor Vehicle Theft,247
+2009,2,1,Rape,9
+2009,2,1,Robbery,133
+2009,3,1,Assault,131
+2009,3,1,Burglary,533
+2009,3,1,Homicide,0
+2009,3,1,Larceny-Theft,1996
+2009,3,1,Motor Vehicle Theft,205
+2009,3,1,Rape,7
+2009,3,1,Robbery,137
+2009,4,1,Assault,152
+2009,4,1,Burglary,545
+2009,4,1,Homicide,1
+2009,4,1,Larceny-Theft,1918
+2009,4,1,Motor Vehicle Theft,180
+2009,4,1,Rape,7
+2009,4,1,Robbery,149
+2009,5,1,Assault,201
+2009,5,1,Burglary,466
+2009,5,1,Homicide,1
+2009,5,1,Larceny-Theft,2035
+2009,5,1,Motor Vehicle Theft,230
+2009,5,1,Rape,5
+2009,5,1,Robbery,164
+2009,6,1,Assault,177
+2009,6,1,Burglary,518
+2009,6,1,Homicide,1
+2009,6,1,Larceny-Theft,2024
+2009,6,1,Motor Vehicle Theft,245
+2009,6,1,Rape,16
+2009,6,1,Robbery,158
+2009,7,1,Assault,211
+2009,7,1,Burglary,598
+2009,7,1,Homicide,4
+2009,7,1,Larceny-Theft,2084
+2009,7,1,Motor Vehicle Theft,273
+2009,7,1,Rape,9
+2009,7,1,Robbery,139
+2009,8,1,Assault,164
+2009,8,1,Burglary,631
+2009,8,1,Homicide,3
+2009,8,1,Larceny-Theft,2210
+2009,8,1,Motor Vehicle Theft,299
+2009,8,1,Rape,6
+2009,8,1,Robbery,117
+2009,9,1,Assault,193
+2009,9,1,Burglary,627
+2009,9,1,Homicide,0
+2009,9,1,Larceny-Theft,2265
+2009,9,1,Motor Vehicle Theft,322
+2009,9,1,Rape,9
+2009,9,1,Robbery,162
+2009,10,1,Assault,144
+2009,10,1,Burglary,548
+2009,10,1,Homicide,1
+2009,10,1,Larceny-Theft,2292
+2009,10,1,Motor Vehicle Theft,314
+2009,10,1,Rape,8
+2009,10,1,Robbery,151
+2009,11,1,Assault,139
+2009,11,1,Burglary,605
+2009,11,1,Homicide,3
+2009,11,1,Larceny-Theft,2108
+2009,11,1,Motor Vehicle Theft,339
+2009,11,1,Rape,2
+2009,11,1,Robbery,149
+2009,12,1,Assault,119
+2009,12,1,Burglary,612
+2009,12,1,Homicide,3
+2009,12,1,Larceny-Theft,2192
+2009,12,1,Motor Vehicle Theft,371
+2009,12,1,Rape,8
+2009,12,1,Robbery,155

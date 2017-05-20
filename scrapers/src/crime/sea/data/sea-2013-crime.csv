@@ -1,0 +1,85 @@
+year,month,day,crime_type,count
+2013,1,1,Assault,148
+2013,1,1,Burglary,689
+2013,1,1,Homicide,0
+2013,1,1,Larceny-Theft,1590
+2013,1,1,Motor Vehicle Theft,343
+2013,1,1,Rape,6
+2013,1,1,Robbery,119
+2013,2,1,Assault,146
+2013,2,1,Burglary,538
+2013,2,1,Homicide,1
+2013,2,1,Larceny-Theft,1224
+2013,2,1,Motor Vehicle Theft,270
+2013,2,1,Rape,16
+2013,2,1,Robbery,134
+2013,3,1,Assault,135
+2013,3,1,Burglary,661
+2013,3,1,Homicide,4
+2013,3,1,Larceny-Theft,1435
+2013,3,1,Motor Vehicle Theft,283
+2013,3,1,Rape,3
+2013,3,1,Robbery,98
+2013,4,1,Assault,148
+2013,4,1,Burglary,606
+2013,4,1,Homicide,1
+2013,4,1,Larceny-Theft,1419
+2013,4,1,Motor Vehicle Theft,314
+2013,4,1,Rape,5
+2013,4,1,Robbery,102
+2013,5,1,Assault,182
+2013,5,1,Burglary,705
+2013,5,1,Homicide,4
+2013,5,1,Larceny-Theft,1632
+2013,5,1,Motor Vehicle Theft,349
+2013,5,1,Rape,5
+2013,5,1,Robbery,134
+2013,6,1,Assault,151
+2013,6,1,Burglary,582
+2013,6,1,Homicide,1
+2013,6,1,Larceny-Theft,1442
+2013,6,1,Motor Vehicle Theft,346
+2013,6,1,Rape,11
+2013,6,1,Robbery,125
+2013,7,1,Assault,204
+2013,7,1,Burglary,563
+2013,7,1,Homicide,4
+2013,7,1,Larceny-Theft,1603
+2013,7,1,Motor Vehicle Theft,365
+2013,7,1,Rape,16
+2013,7,1,Robbery,147
+2013,8,1,Assault,181
+2013,8,1,Burglary,612
+2013,8,1,Homicide,0
+2013,8,1,Larceny-Theft,1640
+2013,8,1,Motor Vehicle Theft,338
+2013,8,1,Rape,9
+2013,8,1,Robbery,158
+2013,9,1,Assault,175
+2013,9,1,Burglary,629
+2013,9,1,Homicide,3
+2013,9,1,Larceny-Theft,1674
+2013,9,1,Motor Vehicle Theft,436
+2013,9,1,Rape,4
+2013,9,1,Robbery,119
+2013,10,1,Assault,164
+2013,10,1,Burglary,624
+2013,10,1,Homicide,2
+2013,10,1,Larceny-Theft,2010
+2013,10,1,Motor Vehicle Theft,414
+2013,10,1,Rape,6
+2013,10,1,Robbery,160
+2013,11,1,Assault,147
+2013,11,1,Burglary,585
+2013,11,1,Homicide,1
+2013,11,1,Larceny-Theft,1969
+2013,11,1,Motor Vehicle Theft,382
+2013,11,1,Rape,4
+2013,11,1,Robbery,168
+2013,12,1,Assault,161
+2013,12,1,Burglary,588
+2013,12,1,Homicide,2
+2013,12,1,Larceny-Theft,2089
+2013,12,1,Motor Vehicle Theft,377
+2013,12,1,Rape,6
+2013,12,1,Robbery,126
