@@ -5,34 +5,20 @@ It creates a dataframe (csv) with the following columns:
 * year
 * month
 * day
-* offense description
+* category of crime
 * count
 
-The reports by the San Diego Police Department do not categorize all crimes into only a few categories, so we have limited the search to the following categories (followed by keywords used).
-The order of these categories is important such that an ambiguous category will be put in the first relevant category (generally more specific)
-* Murder: homicide, murder
-* Arson: arson, fire (not firearm),
-* Assault: assault, adw, threat
-* Battery: battery, gbi
-* Drugs: drug, narcotic, marij, cocaine, control + subs, cannabi
-* Burglary: burglary, robbery
-* Motor Vehicle theft: carjacking, theft + auto, theft + vehicle
-* Theft: defraud + innkeeper, theft
-* Disorderly conduct: disord + conduct
-* Drinking and driving: drink + drive, driv + influence, dui
-* Fraud: fraud, false, personate
-* Concealed weapon: conceal
-* Carrying weapon: carry
-* Child-related crimes: child, under 18
-* Sex crimes (non-child related): sex, rape, prostitution, pimp, copulation, sodomy
-* Manufacturing, selling, or transporting of illegal goods (non-drug related): manufact, mfg, sell, transport
-* Vandalism: vandal
-* Other gun-related crimes: firearm, f/arm, gun
-* Other weapons crimes: weapon
-* Other
+The reports by the San Diego Police Department do not categorize all crimes into only a few categories,
+so we have limited the search to the following categories:
+'drug possession', 'fraud', 'vandalism', 'drunk in public',
+'assault', 'burglary', 'motor vehicle theft', 'theft',
+'sex crimes, not child-related', 'disorderly conduct', 'battery',
+'other', 'driving under the influence', 'attempted murder',
+'illegal conceal or carry of weapon',
+'illegal sales, manufacture, or transport', 'arson',
+'weapon-related crime', 'child-related crimes', 'murder'
 
 Notes
-* No row is included in the dashboard if there were no reports for that crime for that day
 * Crimes are not double-counted (i.e. cannot be both a rape an attempted murder and a murder)
 """
 
