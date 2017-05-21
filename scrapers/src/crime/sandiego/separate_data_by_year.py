@@ -35,5 +35,5 @@ crime_2017 = np.insert(unique_crimes[idx_2017], 0, col_line)
 np.testing.assert_equal(len(idx_2016)+len(idx_2017), len(years))
 
 # Save 2016 and 2017 data separately
-np.savetxt('2016.txt', crime_2016, fmt="%s", newline='')
-np.savetxt('2017.txt', crime_2017, fmt="%s", newline='')
+np.savetxt('raw_data/2016_records.txt', crime_2016, fmt="%s", newline='')
+np.savetxt('raw_data/2017_records.txt', crime_2017, fmt="%s", newline='')
