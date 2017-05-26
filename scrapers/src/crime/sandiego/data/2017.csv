@@ -1,0 +1,2359 @@
+,year,month,day,category,count
+0,2017,1,1,arson,1
+1,2017,1,1,assault,16
+2,2017,1,1,battery,36
+3,2017,1,1,burglary,54
+4,2017,1,1,child-related crimes,4
+5,2017,1,1,disorderly conduct,10
+6,2017,1,1,driving under the influence,13
+7,2017,1,1,drug possession,27
+8,2017,1,1,drunk in public,23
+9,2017,1,1,fraud,6
+10,2017,1,1,illegal conceal or carry of weapon,4
+11,2017,1,1,"illegal sales, manufacture, or transport",2
+12,2017,1,1,motor vehicle theft,35
+13,2017,1,1,other,39
+14,2017,1,1,"sex crimes, not child-related",14
+15,2017,1,1,theft,55
+16,2017,1,1,vandalism,23
+17,2017,1,1,weapon-related crime,1
+18,2017,1,10,arson,1
+19,2017,1,10,assault,9
+20,2017,1,10,battery,19
+21,2017,1,10,burglary,43
+22,2017,1,10,child-related crimes,3
+23,2017,1,10,disorderly conduct,3
+24,2017,1,10,driving under the influence,5
+25,2017,1,10,drug possession,35
+26,2017,1,10,drunk in public,11
+27,2017,1,10,fraud,3
+28,2017,1,10,illegal conceal or carry of weapon,6
+29,2017,1,10,"illegal sales, manufacture, or transport",1
+30,2017,1,10,motor vehicle theft,45
+31,2017,1,10,other,28
+32,2017,1,10,"sex crimes, not child-related",8
+33,2017,1,10,theft,73
+34,2017,1,10,vandalism,26
+35,2017,1,10,weapon-related crime,4
+36,2017,1,11,arson,1
+37,2017,1,11,assault,3
+38,2017,1,11,battery,23
+39,2017,1,11,burglary,55
+40,2017,1,11,child-related crimes,3
+41,2017,1,11,disorderly conduct,4
+42,2017,1,11,driving under the influence,7
+43,2017,1,11,drug possession,24
+44,2017,1,11,drunk in public,10
+45,2017,1,11,fraud,10
+46,2017,1,11,illegal conceal or carry of weapon,2
+47,2017,1,11,"illegal sales, manufacture, or transport",3
+48,2017,1,11,motor vehicle theft,39
+49,2017,1,11,other,34
+50,2017,1,11,"sex crimes, not child-related",1
+51,2017,1,11,theft,82
+52,2017,1,11,vandalism,25
+53,2017,1,11,weapon-related crime,2
+54,2017,1,12,arson,1
+55,2017,1,12,assault,6
+56,2017,1,12,battery,25
+57,2017,1,12,burglary,51
+58,2017,1,12,child-related crimes,2
+59,2017,1,12,disorderly conduct,3
+60,2017,1,12,driving under the influence,9
+61,2017,1,12,drug possession,35
+62,2017,1,12,drunk in public,19
+63,2017,1,12,fraud,3
+64,2017,1,12,illegal conceal or carry of weapon,4
+65,2017,1,12,"illegal sales, manufacture, or transport",2
+66,2017,1,12,motor vehicle theft,43
+67,2017,1,12,murder,1
+68,2017,1,12,other,30
+69,2017,1,12,"sex crimes, not child-related",4
+70,2017,1,12,theft,63
+71,2017,1,12,vandalism,30
+72,2017,1,12,weapon-related crime,2
+73,2017,1,13,assault,12
+74,2017,1,13,battery,24
+75,2017,1,13,burglary,69
+76,2017,1,13,child-related crimes,3
+77,2017,1,13,disorderly conduct,2
+78,2017,1,13,driving under the influence,15
+79,2017,1,13,drug possession,43
+80,2017,1,13,drunk in public,12
+81,2017,1,13,fraud,3
+82,2017,1,13,illegal conceal or carry of weapon,3
+83,2017,1,13,"illegal sales, manufacture, or transport",2
+84,2017,1,13,motor vehicle theft,48
+85,2017,1,13,murder,1
+86,2017,1,13,other,31
+87,2017,1,13,"sex crimes, not child-related",3
+88,2017,1,13,theft,82
+89,2017,1,13,vandalism,29
+90,2017,1,13,weapon-related crime,3
+91,2017,1,14,assault,10
+92,2017,1,14,attempted murder,2
+93,2017,1,14,battery,23
+94,2017,1,14,burglary,44
+95,2017,1,14,child-related crimes,3
+96,2017,1,14,disorderly conduct,6
+97,2017,1,14,driving under the influence,18
+98,2017,1,14,drug possession,31
+99,2017,1,14,drunk in public,14
+100,2017,1,14,fraud,8
+101,2017,1,14,illegal conceal or carry of weapon,4
+102,2017,1,14,"illegal sales, manufacture, or transport",5
+103,2017,1,14,motor vehicle theft,47
+104,2017,1,14,murder,1
+105,2017,1,14,other,27
+106,2017,1,14,"sex crimes, not child-related",6
+107,2017,1,14,theft,82
+108,2017,1,14,vandalism,31
+109,2017,1,15,arson,3
+110,2017,1,15,assault,8
+111,2017,1,15,attempted murder,1
+112,2017,1,15,battery,25
+113,2017,1,15,burglary,61
+114,2017,1,15,child-related crimes,3
+115,2017,1,15,disorderly conduct,2
+116,2017,1,15,driving under the influence,12
+117,2017,1,15,drug possession,28
+118,2017,1,15,drunk in public,14
+119,2017,1,15,fraud,6
+120,2017,1,15,illegal conceal or carry of weapon,1
+121,2017,1,15,motor vehicle theft,41
+122,2017,1,15,other,26
+123,2017,1,15,"sex crimes, not child-related",6
+124,2017,1,15,theft,59
+125,2017,1,15,vandalism,21
+126,2017,1,15,weapon-related crime,1
+127,2017,1,16,arson,2
+128,2017,1,16,assault,7
+129,2017,1,16,attempted murder,1
+130,2017,1,16,battery,28
+131,2017,1,16,burglary,47
+132,2017,1,16,disorderly conduct,5
+133,2017,1,16,driving under the influence,8
+134,2017,1,16,drug possession,22
+135,2017,1,16,drunk in public,6
+136,2017,1,16,fraud,4
+137,2017,1,16,illegal conceal or carry of weapon,2
+138,2017,1,16,"illegal sales, manufacture, or transport",2
+139,2017,1,16,motor vehicle theft,36
+140,2017,1,16,murder,1
+141,2017,1,16,other,40
+142,2017,1,16,"sex crimes, not child-related",5
+143,2017,1,16,theft,76
+144,2017,1,16,vandalism,23
+145,2017,1,17,arson,2
+146,2017,1,17,assault,12
+147,2017,1,17,battery,22
+148,2017,1,17,burglary,57
+149,2017,1,17,child-related crimes,3
+150,2017,1,17,disorderly conduct,3
+151,2017,1,17,driving under the influence,13
+152,2017,1,17,drug possession,24
+153,2017,1,17,drunk in public,9
+154,2017,1,17,fraud,4
+155,2017,1,17,illegal conceal or carry of weapon,2
+156,2017,1,17,"illegal sales, manufacture, or transport",2
+157,2017,1,17,motor vehicle theft,32
+158,2017,1,17,other,38
+159,2017,1,17,"sex crimes, not child-related",1
+160,2017,1,17,theft,70
+161,2017,1,17,vandalism,24
+162,2017,1,17,weapon-related crime,2
+163,2017,1,18,assault,8
+164,2017,1,18,battery,29
+165,2017,1,18,burglary,44
+166,2017,1,18,child-related crimes,1
+167,2017,1,18,disorderly conduct,8
+168,2017,1,18,driving under the influence,10
+169,2017,1,18,drug possession,33
+170,2017,1,18,drunk in public,9
+171,2017,1,18,fraud,3
+172,2017,1,18,illegal conceal or carry of weapon,5
+173,2017,1,18,"illegal sales, manufacture, or transport",5
+174,2017,1,18,motor vehicle theft,50
+175,2017,1,18,other,31
+176,2017,1,18,"sex crimes, not child-related",4
+177,2017,1,18,theft,84
+178,2017,1,18,vandalism,16
+179,2017,1,18,weapon-related crime,4
+180,2017,1,19,assault,7
+181,2017,1,19,attempted murder,1
+182,2017,1,19,battery,24
+183,2017,1,19,burglary,47
+184,2017,1,19,disorderly conduct,6
+185,2017,1,19,driving under the influence,7
+186,2017,1,19,drug possession,37
+187,2017,1,19,drunk in public,26
+188,2017,1,19,fraud,6
+189,2017,1,19,illegal conceal or carry of weapon,5
+190,2017,1,19,"illegal sales, manufacture, or transport",5
+191,2017,1,19,motor vehicle theft,58
+192,2017,1,19,other,37
+193,2017,1,19,"sex crimes, not child-related",2
+194,2017,1,19,theft,56
+195,2017,1,19,vandalism,24
+196,2017,1,19,weapon-related crime,1
+197,2017,1,2,assault,3
+198,2017,1,2,battery,11
+199,2017,1,2,burglary,52
+200,2017,1,2,child-related crimes,2
+201,2017,1,2,disorderly conduct,9
+202,2017,1,2,driving under the influence,5
+203,2017,1,2,drug possession,30
+204,2017,1,2,drunk in public,14
+205,2017,1,2,fraud,4
+206,2017,1,2,illegal conceal or carry of weapon,5
+207,2017,1,2,motor vehicle theft,40
+208,2017,1,2,other,43
+209,2017,1,2,"sex crimes, not child-related",3
+210,2017,1,2,theft,52
+211,2017,1,2,vandalism,30
+212,2017,1,20,assault,8
+213,2017,1,20,battery,28
+214,2017,1,20,burglary,45
+215,2017,1,20,child-related crimes,5
+216,2017,1,20,disorderly conduct,6
+217,2017,1,20,driving under the influence,10
+218,2017,1,20,drug possession,18
+219,2017,1,20,drunk in public,7
+220,2017,1,20,fraud,7
+221,2017,1,20,illegal conceal or carry of weapon,2
+222,2017,1,20,"illegal sales, manufacture, or transport",1
+223,2017,1,20,motor vehicle theft,47
+224,2017,1,20,other,16
+225,2017,1,20,"sex crimes, not child-related",7
+226,2017,1,20,theft,75
+227,2017,1,20,vandalism,25
+228,2017,1,20,weapon-related crime,1
+229,2017,1,21,assault,6
+230,2017,1,21,battery,20
+231,2017,1,21,burglary,66
+232,2017,1,21,child-related crimes,1
+233,2017,1,21,disorderly conduct,10
+234,2017,1,21,driving under the influence,17
+235,2017,1,21,drug possession,29
+236,2017,1,21,drunk in public,11
+237,2017,1,21,fraud,1
+238,2017,1,21,illegal conceal or carry of weapon,1
+239,2017,1,21,motor vehicle theft,42
+240,2017,1,21,other,29
+241,2017,1,21,"sex crimes, not child-related",5
+242,2017,1,21,theft,86
+243,2017,1,21,vandalism,41
+244,2017,1,21,weapon-related crime,2
+245,2017,1,22,assault,6
+246,2017,1,22,battery,21
+247,2017,1,22,burglary,47
+248,2017,1,22,child-related crimes,1
+249,2017,1,22,disorderly conduct,3
+250,2017,1,22,driving under the influence,27
+251,2017,1,22,drug possession,15
+252,2017,1,22,drunk in public,14
+253,2017,1,22,fraud,2
+254,2017,1,22,illegal conceal or carry of weapon,2
+255,2017,1,22,"illegal sales, manufacture, or transport",1
+256,2017,1,22,motor vehicle theft,68
+257,2017,1,22,other,22
+258,2017,1,22,"sex crimes, not child-related",2
+259,2017,1,22,theft,54
+260,2017,1,22,vandalism,29
+261,2017,1,23,assault,4
+262,2017,1,23,battery,18
+263,2017,1,23,burglary,71
+264,2017,1,23,disorderly conduct,7
+265,2017,1,23,driving under the influence,6
+266,2017,1,23,drug possession,22
+267,2017,1,23,drunk in public,6
+268,2017,1,23,fraud,7
+269,2017,1,23,illegal conceal or carry of weapon,1
+270,2017,1,23,"illegal sales, manufacture, or transport",6
+271,2017,1,23,motor vehicle theft,55
+272,2017,1,23,other,26
+273,2017,1,23,"sex crimes, not child-related",4
+274,2017,1,23,theft,70
+275,2017,1,23,vandalism,20
+276,2017,1,23,weapon-related crime,1
+277,2017,1,24,arson,1
+278,2017,1,24,assault,8
+279,2017,1,24,battery,19
+280,2017,1,24,burglary,49
+281,2017,1,24,child-related crimes,1
+282,2017,1,24,disorderly conduct,6
+283,2017,1,24,driving under the influence,9
+284,2017,1,24,drug possession,25
+285,2017,1,24,drunk in public,14
+286,2017,1,24,fraud,5
+287,2017,1,24,illegal conceal or carry of weapon,4
+288,2017,1,24,"illegal sales, manufacture, or transport",2
+289,2017,1,24,motor vehicle theft,34
+290,2017,1,24,other,25
+291,2017,1,24,"sex crimes, not child-related",3
+292,2017,1,24,theft,77
+293,2017,1,24,vandalism,13
+294,2017,1,24,weapon-related crime,3
+295,2017,1,25,arson,3
+296,2017,1,25,assault,12
+297,2017,1,25,battery,27
+298,2017,1,25,burglary,51
+299,2017,1,25,child-related crimes,6
+300,2017,1,25,disorderly conduct,4
+301,2017,1,25,driving under the influence,7
+302,2017,1,25,drug possession,37
+303,2017,1,25,drunk in public,6
+304,2017,1,25,fraud,6
+305,2017,1,25,illegal conceal or carry of weapon,6
+306,2017,1,25,"illegal sales, manufacture, or transport",4
+307,2017,1,25,motor vehicle theft,36
+308,2017,1,25,other,36
+309,2017,1,25,"sex crimes, not child-related",4
+310,2017,1,25,theft,93
+311,2017,1,25,vandalism,16
+312,2017,1,25,weapon-related crime,2
+313,2017,1,26,assault,10
+314,2017,1,26,attempted murder,1
+315,2017,1,26,battery,23
+316,2017,1,26,burglary,58
+317,2017,1,26,child-related crimes,1
+318,2017,1,26,disorderly conduct,2
+319,2017,1,26,driving under the influence,10
+320,2017,1,26,drug possession,31
+321,2017,1,26,drunk in public,14
+322,2017,1,26,fraud,5
+323,2017,1,26,illegal conceal or carry of weapon,4
+324,2017,1,26,"illegal sales, manufacture, or transport",6
+325,2017,1,26,motor vehicle theft,32
+326,2017,1,26,other,21
+327,2017,1,26,"sex crimes, not child-related",6
+328,2017,1,26,theft,80
+329,2017,1,26,vandalism,19
+330,2017,1,27,assault,8
+331,2017,1,27,attempted murder,1
+332,2017,1,27,battery,27
+333,2017,1,27,burglary,52
+334,2017,1,27,child-related crimes,2
+335,2017,1,27,disorderly conduct,6
+336,2017,1,27,driving under the influence,15
+337,2017,1,27,drug possession,48
+338,2017,1,27,drunk in public,8
+339,2017,1,27,fraud,4
+340,2017,1,27,"illegal sales, manufacture, or transport",3
+341,2017,1,27,motor vehicle theft,56
+342,2017,1,27,other,32
+343,2017,1,27,"sex crimes, not child-related",25
+344,2017,1,27,theft,91
+345,2017,1,27,vandalism,29
+346,2017,1,27,weapon-related crime,1
+347,2017,1,28,arson,2
+348,2017,1,28,assault,10
+349,2017,1,28,battery,24
+350,2017,1,28,burglary,46
+351,2017,1,28,child-related crimes,3
+352,2017,1,28,disorderly conduct,8
+353,2017,1,28,driving under the influence,21
+354,2017,1,28,drug possession,27
+355,2017,1,28,drunk in public,25
+356,2017,1,28,fraud,1
+357,2017,1,28,illegal conceal or carry of weapon,4
+358,2017,1,28,"illegal sales, manufacture, or transport",1
+359,2017,1,28,motor vehicle theft,48
+360,2017,1,28,other,29
+361,2017,1,28,"sex crimes, not child-related",1
+362,2017,1,28,theft,67
+363,2017,1,28,vandalism,35
+364,2017,1,29,arson,1
+365,2017,1,29,assault,11
+366,2017,1,29,battery,25
+367,2017,1,29,burglary,41
+368,2017,1,29,disorderly conduct,7
+369,2017,1,29,driving under the influence,19
+370,2017,1,29,drug possession,22
+371,2017,1,29,drunk in public,16
+372,2017,1,29,fraud,1
+373,2017,1,29,illegal conceal or carry of weapon,6
+374,2017,1,29,"illegal sales, manufacture, or transport",4
+375,2017,1,29,motor vehicle theft,43
+376,2017,1,29,other,24
+377,2017,1,29,"sex crimes, not child-related",7
+378,2017,1,29,theft,59
+379,2017,1,29,vandalism,27
+380,2017,1,3,arson,1
+381,2017,1,3,assault,8
+382,2017,1,3,battery,14
+383,2017,1,3,burglary,37
+384,2017,1,3,child-related crimes,3
+385,2017,1,3,disorderly conduct,5
+386,2017,1,3,driving under the influence,6
+387,2017,1,3,drug possession,25
+388,2017,1,3,drunk in public,5
+389,2017,1,3,fraud,5
+390,2017,1,3,illegal conceal or carry of weapon,3
+391,2017,1,3,"illegal sales, manufacture, or transport",3
+392,2017,1,3,motor vehicle theft,39
+393,2017,1,3,other,30
+394,2017,1,3,"sex crimes, not child-related",5
+395,2017,1,3,theft,57
+396,2017,1,3,vandalism,22
+397,2017,1,3,weapon-related crime,1
+398,2017,1,30,arson,2
+399,2017,1,30,assault,17
+400,2017,1,30,battery,25
+401,2017,1,30,burglary,64
+402,2017,1,30,child-related crimes,2
+403,2017,1,30,disorderly conduct,9
+404,2017,1,30,driving under the influence,6
+405,2017,1,30,drug possession,48
+406,2017,1,30,drunk in public,12
+407,2017,1,30,fraud,4
+408,2017,1,30,illegal conceal or carry of weapon,3
+409,2017,1,30,"illegal sales, manufacture, or transport",2
+410,2017,1,30,motor vehicle theft,41
+411,2017,1,30,other,33
+412,2017,1,30,"sex crimes, not child-related",5
+413,2017,1,30,theft,78
+414,2017,1,30,vandalism,25
+415,2017,1,30,weapon-related crime,3
+416,2017,1,31,assault,13
+417,2017,1,31,battery,26
+418,2017,1,31,burglary,42
+419,2017,1,31,child-related crimes,2
+420,2017,1,31,disorderly conduct,7
+421,2017,1,31,driving under the influence,6
+422,2017,1,31,drug possession,28
+423,2017,1,31,drunk in public,21
+424,2017,1,31,fraud,7
+425,2017,1,31,illegal conceal or carry of weapon,5
+426,2017,1,31,"illegal sales, manufacture, or transport",2
+427,2017,1,31,motor vehicle theft,43
+428,2017,1,31,other,34
+429,2017,1,31,"sex crimes, not child-related",7
+430,2017,1,31,theft,80
+431,2017,1,31,vandalism,23
+432,2017,1,31,weapon-related crime,1
+433,2017,1,4,assault,11
+434,2017,1,4,battery,13
+435,2017,1,4,burglary,63
+436,2017,1,4,child-related crimes,5
+437,2017,1,4,disorderly conduct,7
+438,2017,1,4,driving under the influence,5
+439,2017,1,4,drug possession,37
+440,2017,1,4,drunk in public,10
+441,2017,1,4,fraud,2
+442,2017,1,4,illegal conceal or carry of weapon,6
+443,2017,1,4,"illegal sales, manufacture, or transport",3
+444,2017,1,4,motor vehicle theft,35
+445,2017,1,4,other,36
+446,2017,1,4,"sex crimes, not child-related",2
+447,2017,1,4,theft,63
+448,2017,1,4,vandalism,31
+449,2017,1,4,weapon-related crime,1
+450,2017,1,5,assault,7
+451,2017,1,5,battery,12
+452,2017,1,5,burglary,48
+453,2017,1,5,child-related crimes,3
+454,2017,1,5,disorderly conduct,3
+455,2017,1,5,driving under the influence,8
+456,2017,1,5,drug possession,47
+457,2017,1,5,drunk in public,11
+458,2017,1,5,fraud,4
+459,2017,1,5,illegal conceal or carry of weapon,1
+460,2017,1,5,"illegal sales, manufacture, or transport",2
+461,2017,1,5,motor vehicle theft,55
+462,2017,1,5,other,33
+463,2017,1,5,"sex crimes, not child-related",2
+464,2017,1,5,theft,59
+465,2017,1,5,vandalism,23
+466,2017,1,5,weapon-related crime,2
+467,2017,1,6,assault,10
+468,2017,1,6,battery,19
+469,2017,1,6,burglary,41
+470,2017,1,6,child-related crimes,2
+471,2017,1,6,disorderly conduct,10
+472,2017,1,6,driving under the influence,10
+473,2017,1,6,drug possession,58
+474,2017,1,6,drunk in public,9
+475,2017,1,6,fraud,5
+476,2017,1,6,illegal conceal or carry of weapon,7
+477,2017,1,6,"illegal sales, manufacture, or transport",4
+478,2017,1,6,motor vehicle theft,41
+479,2017,1,6,other,36
+480,2017,1,6,"sex crimes, not child-related",1
+481,2017,1,6,theft,64
+482,2017,1,6,vandalism,33
+483,2017,1,6,weapon-related crime,3
+484,2017,1,7,assault,8
+485,2017,1,7,attempted murder,1
+486,2017,1,7,battery,16
+487,2017,1,7,burglary,30
+488,2017,1,7,child-related crimes,1
+489,2017,1,7,disorderly conduct,8
+490,2017,1,7,driving under the influence,15
+491,2017,1,7,drug possession,46
+492,2017,1,7,drunk in public,18
+493,2017,1,7,fraud,2
+494,2017,1,7,illegal conceal or carry of weapon,5
+495,2017,1,7,"illegal sales, manufacture, or transport",1
+496,2017,1,7,motor vehicle theft,36
+497,2017,1,7,murder,1
+498,2017,1,7,other,37
+499,2017,1,7,"sex crimes, not child-related",4
+500,2017,1,7,theft,67
+501,2017,1,7,vandalism,24
+502,2017,1,7,weapon-related crime,1
+503,2017,1,8,assault,10
+504,2017,1,8,attempted murder,1
+505,2017,1,8,battery,24
+506,2017,1,8,burglary,43
+507,2017,1,8,child-related crimes,3
+508,2017,1,8,disorderly conduct,5
+509,2017,1,8,driving under the influence,13
+510,2017,1,8,drug possession,35
+511,2017,1,8,drunk in public,27
+512,2017,1,8,fraud,5
+513,2017,1,8,illegal conceal or carry of weapon,2
+514,2017,1,8,"illegal sales, manufacture, or transport",4
+515,2017,1,8,motor vehicle theft,43
+516,2017,1,8,murder,1
+517,2017,1,8,other,19
+518,2017,1,8,"sex crimes, not child-related",1
+519,2017,1,8,theft,53
+520,2017,1,8,vandalism,24
+521,2017,1,9,arson,3
+522,2017,1,9,assault,12
+523,2017,1,9,battery,19
+524,2017,1,9,burglary,53
+525,2017,1,9,child-related crimes,2
+526,2017,1,9,disorderly conduct,4
+527,2017,1,9,driving under the influence,5
+528,2017,1,9,drug possession,25
+529,2017,1,9,drunk in public,14
+530,2017,1,9,fraud,4
+531,2017,1,9,illegal conceal or carry of weapon,4
+532,2017,1,9,"illegal sales, manufacture, or transport",4
+533,2017,1,9,motor vehicle theft,52
+534,2017,1,9,other,39
+535,2017,1,9,"sex crimes, not child-related",2
+536,2017,1,9,theft,75
+537,2017,1,9,vandalism,17
+538,2017,1,9,weapon-related crime,3
+539,2017,2,1,arson,1
+540,2017,2,1,assault,2
+541,2017,2,1,battery,25
+542,2017,2,1,burglary,59
+543,2017,2,1,child-related crimes,6
+544,2017,2,1,disorderly conduct,8
+545,2017,2,1,driving under the influence,9
+546,2017,2,1,drug possession,35
+547,2017,2,1,drunk in public,12
+548,2017,2,1,fraud,5
+549,2017,2,1,illegal conceal or carry of weapon,3
+550,2017,2,1,"illegal sales, manufacture, or transport",3
+551,2017,2,1,motor vehicle theft,55
+552,2017,2,1,murder,2
+553,2017,2,1,other,57
+554,2017,2,1,"sex crimes, not child-related",5
+555,2017,2,1,theft,84
+556,2017,2,1,vandalism,35
+557,2017,2,1,weapon-related crime,2
+558,2017,2,10,arson,1
+559,2017,2,10,assault,6
+560,2017,2,10,battery,20
+561,2017,2,10,burglary,65
+562,2017,2,10,child-related crimes,3
+563,2017,2,10,disorderly conduct,7
+564,2017,2,10,driving under the influence,7
+565,2017,2,10,drug possession,42
+566,2017,2,10,drunk in public,9
+567,2017,2,10,fraud,2
+568,2017,2,10,illegal conceal or carry of weapon,6
+569,2017,2,10,"illegal sales, manufacture, or transport",4
+570,2017,2,10,motor vehicle theft,40
+571,2017,2,10,other,39
+572,2017,2,10,"sex crimes, not child-related",6
+573,2017,2,10,theft,87
+574,2017,2,10,vandalism,35
+575,2017,2,10,weapon-related crime,6
+576,2017,2,11,arson,1
+577,2017,2,11,assault,8
+578,2017,2,11,attempted murder,1
+579,2017,2,11,battery,26
+580,2017,2,11,burglary,43
+581,2017,2,11,child-related crimes,3
+582,2017,2,11,disorderly conduct,5
+583,2017,2,11,driving under the influence,12
+584,2017,2,11,drug possession,41
+585,2017,2,11,drunk in public,11
+586,2017,2,11,fraud,5
+587,2017,2,11,illegal conceal or carry of weapon,6
+588,2017,2,11,"illegal sales, manufacture, or transport",3
+589,2017,2,11,motor vehicle theft,46
+590,2017,2,11,murder,1
+591,2017,2,11,other,30
+592,2017,2,11,"sex crimes, not child-related",3
+593,2017,2,11,theft,67
+594,2017,2,11,vandalism,26
+595,2017,2,11,weapon-related crime,2
+596,2017,2,12,arson,1
+597,2017,2,12,assault,10
+598,2017,2,12,battery,22
+599,2017,2,12,burglary,49
+600,2017,2,12,disorderly conduct,7
+601,2017,2,12,driving under the influence,12
+602,2017,2,12,drug possession,29
+603,2017,2,12,drunk in public,22
+604,2017,2,12,fraud,1
+605,2017,2,12,illegal conceal or carry of weapon,7
+606,2017,2,12,"illegal sales, manufacture, or transport",1
+607,2017,2,12,motor vehicle theft,38
+608,2017,2,12,other,37
+609,2017,2,12,"sex crimes, not child-related",2
+610,2017,2,12,theft,61
+611,2017,2,12,vandalism,28
+612,2017,2,12,weapon-related crime,1
+613,2017,2,13,assault,7
+614,2017,2,13,battery,17
+615,2017,2,13,burglary,58
+616,2017,2,13,child-related crimes,1
+617,2017,2,13,disorderly conduct,6
+618,2017,2,13,driving under the influence,9
+619,2017,2,13,drug possession,42
+620,2017,2,13,drunk in public,16
+621,2017,2,13,fraud,5
+622,2017,2,13,illegal conceal or carry of weapon,2
+623,2017,2,13,"illegal sales, manufacture, or transport",3
+624,2017,2,13,motor vehicle theft,51
+625,2017,2,13,other,32
+626,2017,2,13,theft,64
+627,2017,2,13,vandalism,26
+628,2017,2,13,weapon-related crime,3
+629,2017,2,14,arson,1
+630,2017,2,14,assault,6
+631,2017,2,14,battery,19
+632,2017,2,14,burglary,49
+633,2017,2,14,child-related crimes,3
+634,2017,2,14,disorderly conduct,5
+635,2017,2,14,driving under the influence,12
+636,2017,2,14,drug possession,54
+637,2017,2,14,drunk in public,11
+638,2017,2,14,fraud,6
+639,2017,2,14,illegal conceal or carry of weapon,7
+640,2017,2,14,"illegal sales, manufacture, or transport",2
+641,2017,2,14,motor vehicle theft,34
+642,2017,2,14,other,43
+643,2017,2,14,"sex crimes, not child-related",9
+644,2017,2,14,theft,78
+645,2017,2,14,vandalism,21
+646,2017,2,14,weapon-related crime,2
+647,2017,2,15,assault,4
+648,2017,2,15,battery,27
+649,2017,2,15,burglary,44
+650,2017,2,15,child-related crimes,2
+651,2017,2,15,disorderly conduct,5
+652,2017,2,15,driving under the influence,6
+653,2017,2,15,drug possession,28
+654,2017,2,15,drunk in public,9
+655,2017,2,15,fraud,5
+656,2017,2,15,illegal conceal or carry of weapon,2
+657,2017,2,15,"illegal sales, manufacture, or transport",2
+658,2017,2,15,motor vehicle theft,31
+659,2017,2,15,other,45
+660,2017,2,15,"sex crimes, not child-related",6
+661,2017,2,15,theft,80
+662,2017,2,15,vandalism,27
+663,2017,2,15,weapon-related crime,3
+664,2017,2,16,arson,2
+665,2017,2,16,assault,12
+666,2017,2,16,battery,22
+667,2017,2,16,burglary,52
+668,2017,2,16,disorderly conduct,5
+669,2017,2,16,driving under the influence,15
+670,2017,2,16,drug possession,35
+671,2017,2,16,drunk in public,11
+672,2017,2,16,fraud,7
+673,2017,2,16,illegal conceal or carry of weapon,4
+674,2017,2,16,"illegal sales, manufacture, or transport",1
+675,2017,2,16,motor vehicle theft,39
+676,2017,2,16,other,36
+677,2017,2,16,"sex crimes, not child-related",7
+678,2017,2,16,theft,81
+679,2017,2,16,vandalism,33
+680,2017,2,16,weapon-related crime,3
+681,2017,2,17,assault,10
+682,2017,2,17,battery,12
+683,2017,2,17,burglary,52
+684,2017,2,17,disorderly conduct,7
+685,2017,2,17,driving under the influence,6
+686,2017,2,17,drug possession,29
+687,2017,2,17,drunk in public,12
+688,2017,2,17,fraud,4
+689,2017,2,17,illegal conceal or carry of weapon,1
+690,2017,2,17,"illegal sales, manufacture, or transport",1
+691,2017,2,17,motor vehicle theft,29
+692,2017,2,17,other,31
+693,2017,2,17,"sex crimes, not child-related",7
+694,2017,2,17,theft,83
+695,2017,2,17,vandalism,27
+696,2017,2,17,weapon-related crime,1
+697,2017,2,18,assault,8
+698,2017,2,18,battery,22
+699,2017,2,18,burglary,48
+700,2017,2,18,disorderly conduct,10
+701,2017,2,18,driving under the influence,10
+702,2017,2,18,drug possession,29
+703,2017,2,18,drunk in public,18
+704,2017,2,18,fraud,5
+705,2017,2,18,illegal conceal or carry of weapon,1
+706,2017,2,18,"illegal sales, manufacture, or transport",2
+707,2017,2,18,motor vehicle theft,36
+708,2017,2,18,other,26
+709,2017,2,18,"sex crimes, not child-related",4
+710,2017,2,18,theft,67
+711,2017,2,18,vandalism,23
+712,2017,2,19,arson,1
+713,2017,2,19,assault,9
+714,2017,2,19,battery,24
+715,2017,2,19,burglary,30
+716,2017,2,19,child-related crimes,2
+717,2017,2,19,disorderly conduct,7
+718,2017,2,19,driving under the influence,20
+719,2017,2,19,drug possession,29
+720,2017,2,19,drunk in public,13
+721,2017,2,19,fraud,1
+722,2017,2,19,illegal conceal or carry of weapon,7
+723,2017,2,19,"illegal sales, manufacture, or transport",2
+724,2017,2,19,motor vehicle theft,32
+725,2017,2,19,other,35
+726,2017,2,19,"sex crimes, not child-related",5
+727,2017,2,19,theft,81
+728,2017,2,19,vandalism,36
+729,2017,2,19,weapon-related crime,3
+730,2017,2,2,arson,1
+731,2017,2,2,assault,6
+732,2017,2,2,attempted murder,1
+733,2017,2,2,battery,25
+734,2017,2,2,burglary,55
+735,2017,2,2,child-related crimes,2
+736,2017,2,2,disorderly conduct,1
+737,2017,2,2,driving under the influence,7
+738,2017,2,2,drug possession,55
+739,2017,2,2,drunk in public,13
+740,2017,2,2,fraud,9
+741,2017,2,2,illegal conceal or carry of weapon,4
+742,2017,2,2,"illegal sales, manufacture, or transport",5
+743,2017,2,2,motor vehicle theft,45
+744,2017,2,2,other,37
+745,2017,2,2,"sex crimes, not child-related",9
+746,2017,2,2,theft,92
+747,2017,2,2,vandalism,25
+748,2017,2,2,weapon-related crime,2
+749,2017,2,20,arson,1
+750,2017,2,20,assault,12
+751,2017,2,20,battery,26
+752,2017,2,20,burglary,48
+753,2017,2,20,child-related crimes,4
+754,2017,2,20,disorderly conduct,1
+755,2017,2,20,driving under the influence,8
+756,2017,2,20,drug possession,31
+757,2017,2,20,drunk in public,15
+758,2017,2,20,fraud,8
+759,2017,2,20,illegal conceal or carry of weapon,6
+760,2017,2,20,"illegal sales, manufacture, or transport",1
+761,2017,2,20,motor vehicle theft,51
+762,2017,2,20,other,43
+763,2017,2,20,"sex crimes, not child-related",2
+764,2017,2,20,theft,73
+765,2017,2,20,vandalism,27
+766,2017,2,20,weapon-related crime,3
+767,2017,2,21,assault,9
+768,2017,2,21,attempted murder,1
+769,2017,2,21,battery,20
+770,2017,2,21,burglary,56
+771,2017,2,21,child-related crimes,3
+772,2017,2,21,disorderly conduct,6
+773,2017,2,21,driving under the influence,6
+774,2017,2,21,drug possession,31
+775,2017,2,21,drunk in public,13
+776,2017,2,21,fraud,4
+777,2017,2,21,illegal conceal or carry of weapon,3
+778,2017,2,21,"illegal sales, manufacture, or transport",3
+779,2017,2,21,motor vehicle theft,39
+780,2017,2,21,other,58
+781,2017,2,21,"sex crimes, not child-related",8
+782,2017,2,21,theft,78
+783,2017,2,21,vandalism,28
+784,2017,2,21,weapon-related crime,5
+785,2017,2,22,assault,16
+786,2017,2,22,attempted murder,1
+787,2017,2,22,battery,25
+788,2017,2,22,burglary,52
+789,2017,2,22,child-related crimes,1
+790,2017,2,22,disorderly conduct,3
+791,2017,2,22,driving under the influence,4
+792,2017,2,22,drug possession,35
+793,2017,2,22,drunk in public,15
+794,2017,2,22,fraud,5
+795,2017,2,22,illegal conceal or carry of weapon,9
+796,2017,2,22,"illegal sales, manufacture, or transport",7
+797,2017,2,22,motor vehicle theft,31
+798,2017,2,22,other,26
+799,2017,2,22,"sex crimes, not child-related",1
+800,2017,2,22,theft,68
+801,2017,2,22,vandalism,25
+802,2017,2,22,weapon-related crime,2
+803,2017,2,23,arson,2
+804,2017,2,23,assault,9
+805,2017,2,23,battery,19
+806,2017,2,23,burglary,45
+807,2017,2,23,child-related crimes,4
+808,2017,2,23,disorderly conduct,6
+809,2017,2,23,driving under the influence,13
+810,2017,2,23,drug possession,38
+811,2017,2,23,drunk in public,7
+812,2017,2,23,fraud,3
+813,2017,2,23,illegal conceal or carry of weapon,5
+814,2017,2,23,"illegal sales, manufacture, or transport",3
+815,2017,2,23,motor vehicle theft,49
+816,2017,2,23,other,37
+817,2017,2,23,"sex crimes, not child-related",1
+818,2017,2,23,theft,68
+819,2017,2,23,vandalism,26
+820,2017,2,24,assault,10
+821,2017,2,24,battery,29
+822,2017,2,24,burglary,44
+823,2017,2,24,child-related crimes,2
+824,2017,2,24,disorderly conduct,10
+825,2017,2,24,driving under the influence,13
+826,2017,2,24,drug possession,33
+827,2017,2,24,drunk in public,16
+828,2017,2,24,fraud,7
+829,2017,2,24,illegal conceal or carry of weapon,5
+830,2017,2,24,"illegal sales, manufacture, or transport",3
+831,2017,2,24,motor vehicle theft,33
+832,2017,2,24,murder,1
+833,2017,2,24,other,29
+834,2017,2,24,"sex crimes, not child-related",4
+835,2017,2,24,theft,69
+836,2017,2,24,vandalism,30
+837,2017,2,24,weapon-related crime,4
+838,2017,2,25,assault,7
+839,2017,2,25,battery,30
+840,2017,2,25,burglary,54
+841,2017,2,25,child-related crimes,2
+842,2017,2,25,disorderly conduct,10
+843,2017,2,25,driving under the influence,14
+844,2017,2,25,drug possession,47
+845,2017,2,25,drunk in public,14
+846,2017,2,25,fraud,5
+847,2017,2,25,illegal conceal or carry of weapon,6
+848,2017,2,25,"illegal sales, manufacture, or transport",7
+849,2017,2,25,motor vehicle theft,41
+850,2017,2,25,other,23
+851,2017,2,25,"sex crimes, not child-related",7
+852,2017,2,25,theft,73
+853,2017,2,25,vandalism,28
+854,2017,2,25,weapon-related crime,1
+855,2017,2,26,arson,1
+856,2017,2,26,assault,13
+857,2017,2,26,attempted murder,1
+858,2017,2,26,battery,20
+859,2017,2,26,burglary,30
+860,2017,2,26,child-related crimes,1
+861,2017,2,26,disorderly conduct,7
+862,2017,2,26,driving under the influence,10
+863,2017,2,26,drug possession,33
+864,2017,2,26,drunk in public,14
+865,2017,2,26,fraud,4
+866,2017,2,26,illegal conceal or carry of weapon,1
+867,2017,2,26,motor vehicle theft,34
+868,2017,2,26,other,21
+869,2017,2,26,"sex crimes, not child-related",8
+870,2017,2,26,theft,48
+871,2017,2,26,vandalism,19
+872,2017,2,26,weapon-related crime,1
+873,2017,2,27,arson,1
+874,2017,2,27,assault,6
+875,2017,2,27,battery,22
+876,2017,2,27,burglary,54
+877,2017,2,27,child-related crimes,1
+878,2017,2,27,disorderly conduct,4
+879,2017,2,27,driving under the influence,9
+880,2017,2,27,drug possession,17
+881,2017,2,27,drunk in public,10
+882,2017,2,27,fraud,3
+883,2017,2,27,illegal conceal or carry of weapon,3
+884,2017,2,27,"illegal sales, manufacture, or transport",1
+885,2017,2,27,motor vehicle theft,39
+886,2017,2,27,murder,1
+887,2017,2,27,other,32
+888,2017,2,27,"sex crimes, not child-related",3
+889,2017,2,27,theft,58
+890,2017,2,27,vandalism,21
+891,2017,2,27,weapon-related crime,1
+892,2017,2,28,arson,1
+893,2017,2,28,assault,8
+894,2017,2,28,battery,22
+895,2017,2,28,burglary,56
+896,2017,2,28,child-related crimes,2
+897,2017,2,28,driving under the influence,6
+898,2017,2,28,drug possession,33
+899,2017,2,28,drunk in public,13
+900,2017,2,28,fraud,3
+901,2017,2,28,illegal conceal or carry of weapon,9
+902,2017,2,28,"illegal sales, manufacture, or transport",3
+903,2017,2,28,motor vehicle theft,34
+904,2017,2,28,other,40
+905,2017,2,28,"sex crimes, not child-related",8
+906,2017,2,28,theft,82
+907,2017,2,28,vandalism,19
+908,2017,2,28,weapon-related crime,2
+909,2017,2,3,arson,1
+910,2017,2,3,assault,7
+911,2017,2,3,battery,30
+912,2017,2,3,burglary,67
+913,2017,2,3,child-related crimes,3
+914,2017,2,3,disorderly conduct,5
+915,2017,2,3,driving under the influence,13
+916,2017,2,3,drug possession,54
+917,2017,2,3,drunk in public,14
+918,2017,2,3,fraud,5
+919,2017,2,3,illegal conceal or carry of weapon,2
+920,2017,2,3,motor vehicle theft,41
+921,2017,2,3,other,32
+922,2017,2,3,"sex crimes, not child-related",3
+923,2017,2,3,theft,113
+924,2017,2,3,vandalism,28
+925,2017,2,3,weapon-related crime,5
+926,2017,2,4,arson,1
+927,2017,2,4,assault,6
+928,2017,2,4,attempted murder,1
+929,2017,2,4,battery,23
+930,2017,2,4,burglary,47
+931,2017,2,4,child-related crimes,3
+932,2017,2,4,disorderly conduct,13
+933,2017,2,4,driving under the influence,21
+934,2017,2,4,drug possession,40
+935,2017,2,4,drunk in public,12
+936,2017,2,4,fraud,4
+937,2017,2,4,illegal conceal or carry of weapon,3
+938,2017,2,4,motor vehicle theft,42
+939,2017,2,4,other,36
+940,2017,2,4,"sex crimes, not child-related",3
+941,2017,2,4,theft,75
+942,2017,2,4,vandalism,36
+943,2017,2,4,weapon-related crime,1
+944,2017,2,5,arson,1
+945,2017,2,5,assault,17
+946,2017,2,5,battery,25
+947,2017,2,5,burglary,56
+948,2017,2,5,child-related crimes,2
+949,2017,2,5,disorderly conduct,6
+950,2017,2,5,driving under the influence,17
+951,2017,2,5,drug possession,31
+952,2017,2,5,drunk in public,30
+953,2017,2,5,fraud,1
+954,2017,2,5,illegal conceal or carry of weapon,2
+955,2017,2,5,motor vehicle theft,37
+956,2017,2,5,other,20
+957,2017,2,5,"sex crimes, not child-related",5
+958,2017,2,5,theft,72
+959,2017,2,5,vandalism,23
+960,2017,2,6,assault,11
+961,2017,2,6,battery,29
+962,2017,2,6,burglary,60
+963,2017,2,6,child-related crimes,4
+964,2017,2,6,disorderly conduct,3
+965,2017,2,6,driving under the influence,7
+966,2017,2,6,drug possession,44
+967,2017,2,6,drunk in public,12
+968,2017,2,6,fraud,6
+969,2017,2,6,illegal conceal or carry of weapon,3
+970,2017,2,6,motor vehicle theft,37
+971,2017,2,6,other,44
+972,2017,2,6,"sex crimes, not child-related",2
+973,2017,2,6,theft,83
+974,2017,2,6,vandalism,29
+975,2017,2,6,weapon-related crime,3
+976,2017,2,7,arson,3
+977,2017,2,7,assault,9
+978,2017,2,7,attempted murder,1
+979,2017,2,7,battery,11
+980,2017,2,7,burglary,57
+981,2017,2,7,child-related crimes,1
+982,2017,2,7,disorderly conduct,4
+983,2017,2,7,driving under the influence,5
+984,2017,2,7,drug possession,42
+985,2017,2,7,drunk in public,11
+986,2017,2,7,fraud,5
+987,2017,2,7,illegal conceal or carry of weapon,5
+988,2017,2,7,"illegal sales, manufacture, or transport",3
+989,2017,2,7,motor vehicle theft,29
+990,2017,2,7,murder,1
+991,2017,2,7,other,38
+992,2017,2,7,"sex crimes, not child-related",1
+993,2017,2,7,theft,69
+994,2017,2,7,vandalism,32
+995,2017,2,7,weapon-related crime,7
+996,2017,2,8,assault,6
+997,2017,2,8,battery,20
+998,2017,2,8,burglary,39
+999,2017,2,8,child-related crimes,2
+1000,2017,2,8,disorderly conduct,7
+1001,2017,2,8,driving under the influence,7
+1002,2017,2,8,drug possession,49
+1003,2017,2,8,drunk in public,16
+1004,2017,2,8,fraud,4
+1005,2017,2,8,illegal conceal or carry of weapon,7
+1006,2017,2,8,"illegal sales, manufacture, or transport",2
+1007,2017,2,8,motor vehicle theft,41
+1008,2017,2,8,other,46
+1009,2017,2,8,"sex crimes, not child-related",3
+1010,2017,2,8,theft,66
+1011,2017,2,8,vandalism,25
+1012,2017,2,8,weapon-related crime,1
+1013,2017,2,9,assault,11
+1014,2017,2,9,battery,20
+1015,2017,2,9,burglary,52
+1016,2017,2,9,child-related crimes,2
+1017,2017,2,9,disorderly conduct,2
+1018,2017,2,9,driving under the influence,8
+1019,2017,2,9,drug possession,44
+1020,2017,2,9,drunk in public,10
+1021,2017,2,9,fraud,2
+1022,2017,2,9,illegal conceal or carry of weapon,1
+1023,2017,2,9,"illegal sales, manufacture, or transport",4
+1024,2017,2,9,motor vehicle theft,43
+1025,2017,2,9,other,33
+1026,2017,2,9,"sex crimes, not child-related",6
+1027,2017,2,9,theft,70
+1028,2017,2,9,vandalism,22
+1029,2017,2,9,weapon-related crime,2
+1030,2017,3,1,arson,1
+1031,2017,3,1,assault,8
+1032,2017,3,1,battery,32
+1033,2017,3,1,burglary,53
+1034,2017,3,1,child-related crimes,4
+1035,2017,3,1,disorderly conduct,5
+1036,2017,3,1,driving under the influence,8
+1037,2017,3,1,drug possession,31
+1038,2017,3,1,drunk in public,16
+1039,2017,3,1,fraud,8
+1040,2017,3,1,illegal conceal or carry of weapon,1
+1041,2017,3,1,"illegal sales, manufacture, or transport",2
+1042,2017,3,1,motor vehicle theft,37
+1043,2017,3,1,other,49
+1044,2017,3,1,"sex crimes, not child-related",8
+1045,2017,3,1,theft,63
+1046,2017,3,1,vandalism,22
+1047,2017,3,1,weapon-related crime,2
+1048,2017,3,10,arson,2
+1049,2017,3,10,assault,12
+1050,2017,3,10,attempted murder,1
+1051,2017,3,10,battery,14
+1052,2017,3,10,burglary,47
+1053,2017,3,10,disorderly conduct,5
+1054,2017,3,10,driving under the influence,12
+1055,2017,3,10,drug possession,45
+1056,2017,3,10,drunk in public,15
+1057,2017,3,10,fraud,1
+1058,2017,3,10,illegal conceal or carry of weapon,7
+1059,2017,3,10,"illegal sales, manufacture, or transport",2
+1060,2017,3,10,motor vehicle theft,38
+1061,2017,3,10,murder,1
+1062,2017,3,10,other,41
+1063,2017,3,10,"sex crimes, not child-related",3
+1064,2017,3,10,theft,83
+1065,2017,3,10,vandalism,29
+1066,2017,3,10,weapon-related crime,7
+1067,2017,3,11,arson,1
+1068,2017,3,11,assault,10
+1069,2017,3,11,attempted murder,1
+1070,2017,3,11,battery,26
+1071,2017,3,11,burglary,49
+1072,2017,3,11,child-related crimes,4
+1073,2017,3,11,disorderly conduct,2
+1074,2017,3,11,driving under the influence,22
+1075,2017,3,11,drug possession,23
+1076,2017,3,11,drunk in public,23
+1077,2017,3,11,fraud,4
+1078,2017,3,11,illegal conceal or carry of weapon,10
+1079,2017,3,11,"illegal sales, manufacture, or transport",14
+1080,2017,3,11,motor vehicle theft,38
+1081,2017,3,11,other,35
+1082,2017,3,11,"sex crimes, not child-related",4
+1083,2017,3,11,theft,75
+1084,2017,3,11,vandalism,26
+1085,2017,3,11,weapon-related crime,1
+1086,2017,3,12,arson,1
+1087,2017,3,12,assault,8
+1088,2017,3,12,battery,22
+1089,2017,3,12,burglary,51
+1090,2017,3,12,child-related crimes,2
+1091,2017,3,12,disorderly conduct,9
+1092,2017,3,12,driving under the influence,16
+1093,2017,3,12,drug possession,32
+1094,2017,3,12,drunk in public,13
+1095,2017,3,12,fraud,5
+1096,2017,3,12,motor vehicle theft,26
+1097,2017,3,12,other,33
+1098,2017,3,12,"sex crimes, not child-related",5
+1099,2017,3,12,theft,67
+1100,2017,3,12,vandalism,24
+1101,2017,3,13,arson,3
+1102,2017,3,13,assault,10
+1103,2017,3,13,battery,23
+1104,2017,3,13,burglary,40
+1105,2017,3,13,child-related crimes,2
+1106,2017,3,13,disorderly conduct,2
+1107,2017,3,13,driving under the influence,7
+1108,2017,3,13,drug possession,33
+1109,2017,3,13,drunk in public,15
+1110,2017,3,13,fraud,8
+1111,2017,3,13,illegal conceal or carry of weapon,1
+1112,2017,3,13,"illegal sales, manufacture, or transport",3
+1113,2017,3,13,motor vehicle theft,47
+1114,2017,3,13,other,52
+1115,2017,3,13,"sex crimes, not child-related",1
+1116,2017,3,13,theft,84
+1117,2017,3,13,vandalism,21
+1118,2017,3,13,weapon-related crime,1
+1119,2017,3,14,arson,1
+1120,2017,3,14,assault,9
+1121,2017,3,14,battery,25
+1122,2017,3,14,burglary,38
+1123,2017,3,14,child-related crimes,3
+1124,2017,3,14,disorderly conduct,5
+1125,2017,3,14,driving under the influence,10
+1126,2017,3,14,drug possession,35
+1127,2017,3,14,drunk in public,13
+1128,2017,3,14,fraud,8
+1129,2017,3,14,illegal conceal or carry of weapon,1
+1130,2017,3,14,motor vehicle theft,23
+1131,2017,3,14,other,36
+1132,2017,3,14,"sex crimes, not child-related",2
+1133,2017,3,14,theft,87
+1134,2017,3,14,vandalism,27
+1135,2017,3,15,arson,2
+1136,2017,3,15,assault,11
+1137,2017,3,15,battery,18
+1138,2017,3,15,burglary,50
+1139,2017,3,15,child-related crimes,2
+1140,2017,3,15,disorderly conduct,7
+1141,2017,3,15,driving under the influence,2
+1142,2017,3,15,drug possession,54
+1143,2017,3,15,drunk in public,10
+1144,2017,3,15,fraud,4
+1145,2017,3,15,illegal conceal or carry of weapon,2
+1146,2017,3,15,"illegal sales, manufacture, or transport",3
+1147,2017,3,15,motor vehicle theft,30
+1148,2017,3,15,other,52
+1149,2017,3,15,"sex crimes, not child-related",3
+1150,2017,3,15,theft,73
+1151,2017,3,15,vandalism,31
+1152,2017,3,15,weapon-related crime,3
+1153,2017,3,16,assault,17
+1154,2017,3,16,attempted murder,1
+1155,2017,3,16,battery,22
+1156,2017,3,16,burglary,46
+1157,2017,3,16,disorderly conduct,7
+1158,2017,3,16,driving under the influence,9
+1159,2017,3,16,drug possession,35
+1160,2017,3,16,drunk in public,10
+1161,2017,3,16,fraud,5
+1162,2017,3,16,illegal conceal or carry of weapon,2
+1163,2017,3,16,"illegal sales, manufacture, or transport",1
+1164,2017,3,16,motor vehicle theft,44
+1165,2017,3,16,other,46
+1166,2017,3,16,"sex crimes, not child-related",4
+1167,2017,3,16,theft,69
+1168,2017,3,16,vandalism,26
+1169,2017,3,16,weapon-related crime,1
+1170,2017,3,17,arson,2
+1171,2017,3,17,assault,12
+1172,2017,3,17,attempted murder,1
+1173,2017,3,17,battery,31
+1174,2017,3,17,burglary,53
+1175,2017,3,17,child-related crimes,1
+1176,2017,3,17,disorderly conduct,9
+1177,2017,3,17,driving under the influence,24
+1178,2017,3,17,drug possession,32
+1179,2017,3,17,drunk in public,9
+1180,2017,3,17,fraud,8
+1181,2017,3,17,illegal conceal or carry of weapon,3
+1182,2017,3,17,"illegal sales, manufacture, or transport",2
+1183,2017,3,17,motor vehicle theft,31
+1184,2017,3,17,other,49
+1185,2017,3,17,"sex crimes, not child-related",2
+1186,2017,3,17,theft,90
+1187,2017,3,17,vandalism,33
+1188,2017,3,17,weapon-related crime,2
+1189,2017,3,18,arson,1
+1190,2017,3,18,assault,11
+1191,2017,3,18,battery,39
+1192,2017,3,18,burglary,44
+1193,2017,3,18,child-related crimes,1
+1194,2017,3,18,disorderly conduct,12
+1195,2017,3,18,driving under the influence,21
+1196,2017,3,18,drug possession,27
+1197,2017,3,18,drunk in public,15
+1198,2017,3,18,fraud,4
+1199,2017,3,18,illegal conceal or carry of weapon,3
+1200,2017,3,18,"illegal sales, manufacture, or transport",2
+1201,2017,3,18,motor vehicle theft,28
+1202,2017,3,18,other,40
+1203,2017,3,18,"sex crimes, not child-related",4
+1204,2017,3,18,theft,73
+1205,2017,3,18,vandalism,27
+1206,2017,3,18,weapon-related crime,1
+1207,2017,3,19,assault,6
+1208,2017,3,19,battery,31
+1209,2017,3,19,burglary,39
+1210,2017,3,19,child-related crimes,4
+1211,2017,3,19,disorderly conduct,7
+1212,2017,3,19,driving under the influence,12
+1213,2017,3,19,drug possession,27
+1214,2017,3,19,drunk in public,22
+1215,2017,3,19,"illegal sales, manufacture, or transport",2
+1216,2017,3,19,motor vehicle theft,30
+1217,2017,3,19,other,28
+1218,2017,3,19,"sex crimes, not child-related",3
+1219,2017,3,19,theft,68
+1220,2017,3,19,vandalism,27
+1221,2017,3,2,arson,1
+1222,2017,3,2,assault,6
+1223,2017,3,2,battery,22
+1224,2017,3,2,burglary,40
+1225,2017,3,2,disorderly conduct,7
+1226,2017,3,2,driving under the influence,12
+1227,2017,3,2,drug possession,58
+1228,2017,3,2,drunk in public,16
+1229,2017,3,2,fraud,1
+1230,2017,3,2,illegal conceal or carry of weapon,8
+1231,2017,3,2,"illegal sales, manufacture, or transport",3
+1232,2017,3,2,motor vehicle theft,36
+1233,2017,3,2,murder,1
+1234,2017,3,2,other,35
+1235,2017,3,2,"sex crimes, not child-related",2
+1236,2017,3,2,theft,71
+1237,2017,3,2,vandalism,24
+1238,2017,3,2,weapon-related crime,1
+1239,2017,3,20,arson,2
+1240,2017,3,20,assault,9
+1241,2017,3,20,battery,23
+1242,2017,3,20,burglary,37
+1243,2017,3,20,child-related crimes,2
+1244,2017,3,20,disorderly conduct,6
+1245,2017,3,20,driving under the influence,5
+1246,2017,3,20,drug possession,28
+1247,2017,3,20,drunk in public,15
+1248,2017,3,20,fraud,5
+1249,2017,3,20,illegal conceal or carry of weapon,1
+1250,2017,3,20,"illegal sales, manufacture, or transport",5
+1251,2017,3,20,motor vehicle theft,43
+1252,2017,3,20,other,33
+1253,2017,3,20,"sex crimes, not child-related",5
+1254,2017,3,20,theft,63
+1255,2017,3,20,vandalism,29
+1256,2017,3,20,weapon-related crime,4
+1257,2017,3,21,arson,1
+1258,2017,3,21,assault,17
+1259,2017,3,21,battery,14
+1260,2017,3,21,burglary,61
+1261,2017,3,21,child-related crimes,3
+1262,2017,3,21,disorderly conduct,4
+1263,2017,3,21,driving under the influence,5
+1264,2017,3,21,drug possession,43
+1265,2017,3,21,drunk in public,11
+1266,2017,3,21,fraud,3
+1267,2017,3,21,illegal conceal or carry of weapon,4
+1268,2017,3,21,"illegal sales, manufacture, or transport",2
+1269,2017,3,21,motor vehicle theft,45
+1270,2017,3,21,other,45
+1271,2017,3,21,"sex crimes, not child-related",6
+1272,2017,3,21,theft,57
+1273,2017,3,21,vandalism,21
+1274,2017,3,21,weapon-related crime,4
+1275,2017,3,22,assault,12
+1276,2017,3,22,battery,19
+1277,2017,3,22,burglary,65
+1278,2017,3,22,child-related crimes,3
+1279,2017,3,22,disorderly conduct,2
+1280,2017,3,22,driving under the influence,3
+1281,2017,3,22,drug possession,37
+1282,2017,3,22,drunk in public,9
+1283,2017,3,22,fraud,3
+1284,2017,3,22,illegal conceal or carry of weapon,6
+1285,2017,3,22,"illegal sales, manufacture, or transport",5
+1286,2017,3,22,motor vehicle theft,40
+1287,2017,3,22,other,34
+1288,2017,3,22,"sex crimes, not child-related",5
+1289,2017,3,22,theft,60
+1290,2017,3,22,vandalism,24
+1291,2017,3,22,weapon-related crime,2
+1292,2017,3,23,assault,9
+1293,2017,3,23,battery,19
+1294,2017,3,23,burglary,57
+1295,2017,3,23,child-related crimes,3
+1296,2017,3,23,disorderly conduct,3
+1297,2017,3,23,driving under the influence,10
+1298,2017,3,23,drug possession,50
+1299,2017,3,23,drunk in public,14
+1300,2017,3,23,fraud,11
+1301,2017,3,23,illegal conceal or carry of weapon,2
+1302,2017,3,23,"illegal sales, manufacture, or transport",2
+1303,2017,3,23,motor vehicle theft,38
+1304,2017,3,23,murder,2
+1305,2017,3,23,other,38
+1306,2017,3,23,"sex crimes, not child-related",4
+1307,2017,3,23,theft,71
+1308,2017,3,23,vandalism,20
+1309,2017,3,23,weapon-related crime,1
+1310,2017,3,24,arson,1
+1311,2017,3,24,assault,6
+1312,2017,3,24,attempted murder,1
+1313,2017,3,24,battery,31
+1314,2017,3,24,burglary,52
+1315,2017,3,24,child-related crimes,2
+1316,2017,3,24,disorderly conduct,7
+1317,2017,3,24,driving under the influence,11
+1318,2017,3,24,drug possession,23
+1319,2017,3,24,drunk in public,15
+1320,2017,3,24,fraud,6
+1321,2017,3,24,illegal conceal or carry of weapon,5
+1322,2017,3,24,"illegal sales, manufacture, or transport",2
+1323,2017,3,24,motor vehicle theft,37
+1324,2017,3,24,other,46
+1325,2017,3,24,"sex crimes, not child-related",4
+1326,2017,3,24,theft,68
+1327,2017,3,24,vandalism,29
+1328,2017,3,24,weapon-related crime,6
+1329,2017,3,25,arson,1
+1330,2017,3,25,assault,8
+1331,2017,3,25,battery,28
+1332,2017,3,25,burglary,54
+1333,2017,3,25,child-related crimes,1
+1334,2017,3,25,disorderly conduct,7
+1335,2017,3,25,driving under the influence,12
+1336,2017,3,25,drug possession,29
+1337,2017,3,25,drunk in public,15
+1338,2017,3,25,fraud,3
+1339,2017,3,25,illegal conceal or carry of weapon,2
+1340,2017,3,25,"illegal sales, manufacture, or transport",3
+1341,2017,3,25,motor vehicle theft,31
+1342,2017,3,25,other,33
+1343,2017,3,25,"sex crimes, not child-related",6
+1344,2017,3,25,theft,90
+1345,2017,3,25,vandalism,30
+1346,2017,3,25,weapon-related crime,1
+1347,2017,3,26,arson,2
+1348,2017,3,26,assault,13
+1349,2017,3,26,battery,25
+1350,2017,3,26,burglary,51
+1351,2017,3,26,child-related crimes,5
+1352,2017,3,26,disorderly conduct,8
+1353,2017,3,26,driving under the influence,19
+1354,2017,3,26,drug possession,33
+1355,2017,3,26,drunk in public,20
+1356,2017,3,26,fraud,5
+1357,2017,3,26,illegal conceal or carry of weapon,1
+1358,2017,3,26,"illegal sales, manufacture, or transport",1
+1359,2017,3,26,motor vehicle theft,42
+1360,2017,3,26,other,26
+1361,2017,3,26,"sex crimes, not child-related",1
+1362,2017,3,26,theft,72
+1363,2017,3,26,vandalism,25
+1364,2017,3,27,arson,1
+1365,2017,3,27,assault,12
+1366,2017,3,27,attempted murder,1
+1367,2017,3,27,battery,18
+1368,2017,3,27,burglary,47
+1369,2017,3,27,child-related crimes,3
+1370,2017,3,27,disorderly conduct,6
+1371,2017,3,27,driving under the influence,6
+1372,2017,3,27,drug possession,34
+1373,2017,3,27,drunk in public,10
+1374,2017,3,27,fraud,7
+1375,2017,3,27,illegal conceal or carry of weapon,2
+1376,2017,3,27,"illegal sales, manufacture, or transport",2
+1377,2017,3,27,motor vehicle theft,42
+1378,2017,3,27,other,40
+1379,2017,3,27,"sex crimes, not child-related",3
+1380,2017,3,27,theft,60
+1381,2017,3,27,vandalism,21
+1382,2017,3,27,weapon-related crime,1
+1383,2017,3,28,arson,1
+1384,2017,3,28,assault,9
+1385,2017,3,28,battery,10
+1386,2017,3,28,burglary,48
+1387,2017,3,28,child-related crimes,1
+1388,2017,3,28,disorderly conduct,3
+1389,2017,3,28,driving under the influence,3
+1390,2017,3,28,drug possession,35
+1391,2017,3,28,drunk in public,16
+1392,2017,3,28,fraud,4
+1393,2017,3,28,illegal conceal or carry of weapon,1
+1394,2017,3,28,"illegal sales, manufacture, or transport",1
+1395,2017,3,28,motor vehicle theft,34
+1396,2017,3,28,other,37
+1397,2017,3,28,"sex crimes, not child-related",2
+1398,2017,3,28,theft,81
+1399,2017,3,28,vandalism,20
+1400,2017,3,28,weapon-related crime,1
+1401,2017,3,29,assault,8
+1402,2017,3,29,battery,26
+1403,2017,3,29,burglary,56
+1404,2017,3,29,child-related crimes,1
+1405,2017,3,29,disorderly conduct,3
+1406,2017,3,29,driving under the influence,12
+1407,2017,3,29,drug possession,36
+1408,2017,3,29,drunk in public,12
+1409,2017,3,29,fraud,5
+1410,2017,3,29,illegal conceal or carry of weapon,7
+1411,2017,3,29,"illegal sales, manufacture, or transport",4
+1412,2017,3,29,motor vehicle theft,37
+1413,2017,3,29,other,29
+1414,2017,3,29,theft,56
+1415,2017,3,29,vandalism,29
+1416,2017,3,29,weapon-related crime,3
+1417,2017,3,3,arson,2
+1418,2017,3,3,assault,10
+1419,2017,3,3,battery,35
+1420,2017,3,3,burglary,46
+1421,2017,3,3,child-related crimes,3
+1422,2017,3,3,disorderly conduct,12
+1423,2017,3,3,driving under the influence,17
+1424,2017,3,3,drug possession,44
+1425,2017,3,3,drunk in public,16
+1426,2017,3,3,fraud,7
+1427,2017,3,3,illegal conceal or carry of weapon,3
+1428,2017,3,3,"illegal sales, manufacture, or transport",7
+1429,2017,3,3,motor vehicle theft,41
+1430,2017,3,3,other,54
+1431,2017,3,3,"sex crimes, not child-related",8
+1432,2017,3,3,theft,86
+1433,2017,3,3,vandalism,42
+1434,2017,3,3,weapon-related crime,7
+1435,2017,3,30,arson,1
+1436,2017,3,30,assault,8
+1437,2017,3,30,battery,24
+1438,2017,3,30,burglary,52
+1439,2017,3,30,child-related crimes,1
+1440,2017,3,30,driving under the influence,13
+1441,2017,3,30,drug possession,51
+1442,2017,3,30,drunk in public,11
+1443,2017,3,30,fraud,4
+1444,2017,3,30,illegal conceal or carry of weapon,3
+1445,2017,3,30,"illegal sales, manufacture, or transport",1
+1446,2017,3,30,motor vehicle theft,34
+1447,2017,3,30,other,45
+1448,2017,3,30,"sex crimes, not child-related",4
+1449,2017,3,30,theft,78
+1450,2017,3,30,vandalism,27
+1451,2017,3,30,weapon-related crime,5
+1452,2017,3,31,assault,9
+1453,2017,3,31,battery,28
+1454,2017,3,31,burglary,44
+1455,2017,3,31,child-related crimes,2
+1456,2017,3,31,disorderly conduct,2
+1457,2017,3,31,driving under the influence,15
+1458,2017,3,31,drug possession,41
+1459,2017,3,31,drunk in public,14
+1460,2017,3,31,fraud,5
+1461,2017,3,31,illegal conceal or carry of weapon,4
+1462,2017,3,31,"illegal sales, manufacture, or transport",2
+1463,2017,3,31,motor vehicle theft,41
+1464,2017,3,31,other,44
+1465,2017,3,31,"sex crimes, not child-related",1
+1466,2017,3,31,theft,66
+1467,2017,3,31,vandalism,22
+1468,2017,3,4,arson,2
+1469,2017,3,4,assault,15
+1470,2017,3,4,battery,17
+1471,2017,3,4,burglary,56
+1472,2017,3,4,disorderly conduct,15
+1473,2017,3,4,driving under the influence,20
+1474,2017,3,4,drug possession,23
+1475,2017,3,4,drunk in public,21
+1476,2017,3,4,fraud,7
+1477,2017,3,4,illegal conceal or carry of weapon,3
+1478,2017,3,4,"illegal sales, manufacture, or transport",4
+1479,2017,3,4,motor vehicle theft,38
+1480,2017,3,4,other,46
+1481,2017,3,4,"sex crimes, not child-related",4
+1482,2017,3,4,theft,67
+1483,2017,3,4,vandalism,38
+1484,2017,3,4,weapon-related crime,3
+1485,2017,3,5,assault,12
+1486,2017,3,5,battery,17
+1487,2017,3,5,burglary,51
+1488,2017,3,5,disorderly conduct,13
+1489,2017,3,5,driving under the influence,20
+1490,2017,3,5,drug possession,36
+1491,2017,3,5,drunk in public,17
+1492,2017,3,5,fraud,4
+1493,2017,3,5,illegal conceal or carry of weapon,3
+1494,2017,3,5,"illegal sales, manufacture, or transport",1
+1495,2017,3,5,motor vehicle theft,43
+1496,2017,3,5,other,34
+1497,2017,3,5,"sex crimes, not child-related",6
+1498,2017,3,5,theft,55
+1499,2017,3,5,vandalism,21
+1500,2017,3,5,weapon-related crime,3
+1501,2017,3,6,assault,9
+1502,2017,3,6,battery,20
+1503,2017,3,6,burglary,38
+1504,2017,3,6,child-related crimes,1
+1505,2017,3,6,disorderly conduct,4
+1506,2017,3,6,driving under the influence,6
+1507,2017,3,6,drug possession,31
+1508,2017,3,6,drunk in public,11
+1509,2017,3,6,fraud,1
+1510,2017,3,6,illegal conceal or carry of weapon,3
+1511,2017,3,6,"illegal sales, manufacture, or transport",3
+1512,2017,3,6,motor vehicle theft,31
+1513,2017,3,6,other,33
+1514,2017,3,6,"sex crimes, not child-related",2
+1515,2017,3,6,theft,70
+1516,2017,3,6,vandalism,21
+1517,2017,3,6,weapon-related crime,1
+1518,2017,3,7,arson,1
+1519,2017,3,7,assault,12
+1520,2017,3,7,attempted murder,1
+1521,2017,3,7,battery,18
+1522,2017,3,7,burglary,49
+1523,2017,3,7,disorderly conduct,8
+1524,2017,3,7,driving under the influence,10
+1525,2017,3,7,drug possession,34
+1526,2017,3,7,drunk in public,8
+1527,2017,3,7,fraud,6
+1528,2017,3,7,illegal conceal or carry of weapon,2
+1529,2017,3,7,"illegal sales, manufacture, or transport",2
+1530,2017,3,7,motor vehicle theft,42
+1531,2017,3,7,murder,1
+1532,2017,3,7,other,40
+1533,2017,3,7,"sex crimes, not child-related",2
+1534,2017,3,7,theft,87
+1535,2017,3,7,vandalism,25
+1536,2017,3,7,weapon-related crime,2
+1537,2017,3,8,arson,2
+1538,2017,3,8,assault,12
+1539,2017,3,8,attempted murder,1
+1540,2017,3,8,battery,24
+1541,2017,3,8,burglary,41
+1542,2017,3,8,child-related crimes,2
+1543,2017,3,8,disorderly conduct,5
+1544,2017,3,8,driving under the influence,9
+1545,2017,3,8,drug possession,37
+1546,2017,3,8,drunk in public,12
+1547,2017,3,8,fraud,4
+1548,2017,3,8,illegal conceal or carry of weapon,3
+1549,2017,3,8,"illegal sales, manufacture, or transport",2
+1550,2017,3,8,motor vehicle theft,27
+1551,2017,3,8,murder,1
+1552,2017,3,8,other,49
+1553,2017,3,8,"sex crimes, not child-related",5
+1554,2017,3,8,theft,70
+1555,2017,3,8,vandalism,25
+1556,2017,3,8,weapon-related crime,2
+1557,2017,3,9,assault,11
+1558,2017,3,9,attempted murder,1
+1559,2017,3,9,battery,23
+1560,2017,3,9,burglary,54
+1561,2017,3,9,child-related crimes,3
+1562,2017,3,9,disorderly conduct,8
+1563,2017,3,9,driving under the influence,6
+1564,2017,3,9,drug possession,43
+1565,2017,3,9,drunk in public,12
+1566,2017,3,9,fraud,4
+1567,2017,3,9,illegal conceal or carry of weapon,2
+1568,2017,3,9,"illegal sales, manufacture, or transport",9
+1569,2017,3,9,motor vehicle theft,35
+1570,2017,3,9,other,53
+1571,2017,3,9,"sex crimes, not child-related",5
+1572,2017,3,9,theft,56
+1573,2017,3,9,vandalism,34
+1574,2017,3,9,weapon-related crime,1
+1575,2017,4,1,arson,1
+1576,2017,4,1,assault,12
+1577,2017,4,1,attempted murder,1
+1578,2017,4,1,battery,24
+1579,2017,4,1,burglary,37
+1580,2017,4,1,disorderly conduct,9
+1581,2017,4,1,driving under the influence,17
+1582,2017,4,1,drug possession,37
+1583,2017,4,1,drunk in public,16
+1584,2017,4,1,fraud,7
+1585,2017,4,1,illegal conceal or carry of weapon,5
+1586,2017,4,1,"illegal sales, manufacture, or transport",1
+1587,2017,4,1,motor vehicle theft,33
+1588,2017,4,1,murder,1
+1589,2017,4,1,other,44
+1590,2017,4,1,"sex crimes, not child-related",3
+1591,2017,4,1,theft,60
+1592,2017,4,1,vandalism,25
+1593,2017,4,1,weapon-related crime,3
+1594,2017,4,10,assault,7
+1595,2017,4,10,attempted murder,1
+1596,2017,4,10,battery,21
+1597,2017,4,10,burglary,35
+1598,2017,4,10,child-related crimes,3
+1599,2017,4,10,disorderly conduct,1
+1600,2017,4,10,driving under the influence,5
+1601,2017,4,10,drug possession,39
+1602,2017,4,10,drunk in public,12
+1603,2017,4,10,fraud,4
+1604,2017,4,10,illegal conceal or carry of weapon,7
+1605,2017,4,10,"illegal sales, manufacture, or transport",4
+1606,2017,4,10,motor vehicle theft,35
+1607,2017,4,10,other,32
+1608,2017,4,10,"sex crimes, not child-related",3
+1609,2017,4,10,theft,58
+1610,2017,4,10,vandalism,19
+1611,2017,4,10,weapon-related crime,2
+1612,2017,4,11,arson,1
+1613,2017,4,11,assault,10
+1614,2017,4,11,battery,20
+1615,2017,4,11,burglary,39
+1616,2017,4,11,child-related crimes,1
+1617,2017,4,11,disorderly conduct,2
+1618,2017,4,11,driving under the influence,5
+1619,2017,4,11,drug possession,38
+1620,2017,4,11,drunk in public,15
+1621,2017,4,11,fraud,5
+1622,2017,4,11,illegal conceal or carry of weapon,5
+1623,2017,4,11,"illegal sales, manufacture, or transport",3
+1624,2017,4,11,motor vehicle theft,26
+1625,2017,4,11,other,37
+1626,2017,4,11,"sex crimes, not child-related",2
+1627,2017,4,11,theft,66
+1628,2017,4,11,vandalism,23
+1629,2017,4,11,weapon-related crime,3
+1630,2017,4,12,arson,2
+1631,2017,4,12,assault,10
+1632,2017,4,12,battery,17
+1633,2017,4,12,burglary,28
+1634,2017,4,12,child-related crimes,2
+1635,2017,4,12,disorderly conduct,3
+1636,2017,4,12,driving under the influence,6
+1637,2017,4,12,drug possession,36
+1638,2017,4,12,drunk in public,10
+1639,2017,4,12,fraud,6
+1640,2017,4,12,illegal conceal or carry of weapon,1
+1641,2017,4,12,"illegal sales, manufacture, or transport",2
+1642,2017,4,12,motor vehicle theft,44
+1643,2017,4,12,other,31
+1644,2017,4,12,"sex crimes, not child-related",6
+1645,2017,4,12,theft,62
+1646,2017,4,12,vandalism,23
+1647,2017,4,12,weapon-related crime,4
+1648,2017,4,13,arson,1
+1649,2017,4,13,assault,7
+1650,2017,4,13,battery,21
+1651,2017,4,13,burglary,39
+1652,2017,4,13,child-related crimes,1
+1653,2017,4,13,disorderly conduct,6
+1654,2017,4,13,driving under the influence,4
+1655,2017,4,13,drug possession,41
+1656,2017,4,13,drunk in public,16
+1657,2017,4,13,fraud,5
+1658,2017,4,13,illegal conceal or carry of weapon,4
+1659,2017,4,13,"illegal sales, manufacture, or transport",6
+1660,2017,4,13,motor vehicle theft,35
+1661,2017,4,13,other,26
+1662,2017,4,13,"sex crimes, not child-related",3
+1663,2017,4,13,theft,75
+1664,2017,4,13,vandalism,17
+1665,2017,4,13,weapon-related crime,3
+1666,2017,4,14,assault,13
+1667,2017,4,14,battery,26
+1668,2017,4,14,burglary,44
+1669,2017,4,14,child-related crimes,2
+1670,2017,4,14,disorderly conduct,5
+1671,2017,4,14,driving under the influence,10
+1672,2017,4,14,drug possession,42
+1673,2017,4,14,drunk in public,14
+1674,2017,4,14,fraud,1
+1675,2017,4,14,illegal conceal or carry of weapon,1
+1676,2017,4,14,"illegal sales, manufacture, or transport",2
+1677,2017,4,14,motor vehicle theft,41
+1678,2017,4,14,murder,1
+1679,2017,4,14,other,31
+1680,2017,4,14,"sex crimes, not child-related",5
+1681,2017,4,14,theft,73
+1682,2017,4,14,vandalism,27
+1683,2017,4,14,weapon-related crime,3
+1684,2017,4,15,assault,19
+1685,2017,4,15,battery,21
+1686,2017,4,15,burglary,65
+1687,2017,4,15,child-related crimes,2
+1688,2017,4,15,disorderly conduct,7
+1689,2017,4,15,driving under the influence,17
+1690,2017,4,15,drug possession,36
+1691,2017,4,15,drunk in public,16
+1692,2017,4,15,illegal conceal or carry of weapon,3
+1693,2017,4,15,"illegal sales, manufacture, or transport",3
+1694,2017,4,15,motor vehicle theft,42
+1695,2017,4,15,other,37
+1696,2017,4,15,"sex crimes, not child-related",5
+1697,2017,4,15,theft,64
+1698,2017,4,15,vandalism,30
+1699,2017,4,15,weapon-related crime,1
+1700,2017,4,16,arson,1
+1701,2017,4,16,assault,12
+1702,2017,4,16,battery,29
+1703,2017,4,16,burglary,32
+1704,2017,4,16,child-related crimes,4
+1705,2017,4,16,disorderly conduct,5
+1706,2017,4,16,driving under the influence,18
+1707,2017,4,16,drug possession,29
+1708,2017,4,16,drunk in public,21
+1709,2017,4,16,fraud,3
+1710,2017,4,16,illegal conceal or carry of weapon,6
+1711,2017,4,16,"illegal sales, manufacture, or transport",1
+1712,2017,4,16,motor vehicle theft,26
+1713,2017,4,16,other,29
+1714,2017,4,16,"sex crimes, not child-related",5
+1715,2017,4,16,theft,45
+1716,2017,4,16,vandalism,28
+1717,2017,4,16,weapon-related crime,1
+1718,2017,4,17,assault,5
+1719,2017,4,17,battery,26
+1720,2017,4,17,burglary,48
+1721,2017,4,17,disorderly conduct,2
+1722,2017,4,17,driving under the influence,5
+1723,2017,4,17,drug possession,42
+1724,2017,4,17,drunk in public,5
+1725,2017,4,17,fraud,4
+1726,2017,4,17,illegal conceal or carry of weapon,4
+1727,2017,4,17,"illegal sales, manufacture, or transport",2
+1728,2017,4,17,motor vehicle theft,33
+1729,2017,4,17,other,46
+1730,2017,4,17,"sex crimes, not child-related",5
+1731,2017,4,17,theft,72
+1732,2017,4,17,vandalism,32
+1733,2017,4,17,weapon-related crime,3
+1734,2017,4,18,arson,3
+1735,2017,4,18,assault,9
+1736,2017,4,18,battery,19
+1737,2017,4,18,burglary,45
+1738,2017,4,18,child-related crimes,2
+1739,2017,4,18,disorderly conduct,3
+1740,2017,4,18,driving under the influence,4
+1741,2017,4,18,drug possession,27
+1742,2017,4,18,drunk in public,15
+1743,2017,4,18,fraud,3
+1744,2017,4,18,illegal conceal or carry of weapon,3
+1745,2017,4,18,"illegal sales, manufacture, or transport",2
+1746,2017,4,18,motor vehicle theft,45
+1747,2017,4,18,other,32
+1748,2017,4,18,"sex crimes, not child-related",2
+1749,2017,4,18,theft,95
+1750,2017,4,18,vandalism,29
+1751,2017,4,18,weapon-related crime,3
+1752,2017,4,19,arson,1
+1753,2017,4,19,assault,10
+1754,2017,4,19,battery,18
+1755,2017,4,19,burglary,48
+1756,2017,4,19,child-related crimes,1
+1757,2017,4,19,disorderly conduct,3
+1758,2017,4,19,driving under the influence,8
+1759,2017,4,19,drug possession,45
+1760,2017,4,19,drunk in public,15
+1761,2017,4,19,fraud,7
+1762,2017,4,19,illegal conceal or carry of weapon,6
+1763,2017,4,19,"illegal sales, manufacture, or transport",2
+1764,2017,4,19,motor vehicle theft,44
+1765,2017,4,19,other,30
+1766,2017,4,19,theft,60
+1767,2017,4,19,vandalism,18
+1768,2017,4,19,weapon-related crime,1
+1769,2017,4,2,assault,7
+1770,2017,4,2,battery,26
+1771,2017,4,2,burglary,45
+1772,2017,4,2,child-related crimes,1
+1773,2017,4,2,disorderly conduct,9
+1774,2017,4,2,driving under the influence,17
+1775,2017,4,2,drug possession,42
+1776,2017,4,2,drunk in public,22
+1777,2017,4,2,fraud,3
+1778,2017,4,2,illegal conceal or carry of weapon,1
+1779,2017,4,2,motor vehicle theft,35
+1780,2017,4,2,other,32
+1781,2017,4,2,"sex crimes, not child-related",3
+1782,2017,4,2,theft,76
+1783,2017,4,2,vandalism,26
+1784,2017,4,2,weapon-related crime,1
+1785,2017,4,20,assault,7
+1786,2017,4,20,battery,17
+1787,2017,4,20,burglary,58
+1788,2017,4,20,child-related crimes,1
+1789,2017,4,20,disorderly conduct,2
+1790,2017,4,20,driving under the influence,9
+1791,2017,4,20,drug possession,34
+1792,2017,4,20,drunk in public,18
+1793,2017,4,20,fraud,1
+1794,2017,4,20,illegal conceal or carry of weapon,6
+1795,2017,4,20,"illegal sales, manufacture, or transport",1
+1796,2017,4,20,motor vehicle theft,46
+1797,2017,4,20,other,46
+1798,2017,4,20,"sex crimes, not child-related",2
+1799,2017,4,20,theft,66
+1800,2017,4,20,vandalism,27
+1801,2017,4,20,weapon-related crime,1
+1802,2017,4,21,assault,10
+1803,2017,4,21,battery,30
+1804,2017,4,21,burglary,41
+1805,2017,4,21,child-related crimes,3
+1806,2017,4,21,disorderly conduct,7
+1807,2017,4,21,driving under the influence,10
+1808,2017,4,21,drug possession,42
+1809,2017,4,21,drunk in public,12
+1810,2017,4,21,fraud,6
+1811,2017,4,21,illegal conceal or carry of weapon,2
+1812,2017,4,21,motor vehicle theft,38
+1813,2017,4,21,other,56
+1814,2017,4,21,"sex crimes, not child-related",3
+1815,2017,4,21,theft,81
+1816,2017,4,21,vandalism,30
+1817,2017,4,21,weapon-related crime,2
+1818,2017,4,22,assault,10
+1819,2017,4,22,battery,30
+1820,2017,4,22,burglary,40
+1821,2017,4,22,child-related crimes,1
+1822,2017,4,22,disorderly conduct,11
+1823,2017,4,22,driving under the influence,16
+1824,2017,4,22,drug possession,31
+1825,2017,4,22,drunk in public,23
+1826,2017,4,22,fraud,4
+1827,2017,4,22,illegal conceal or carry of weapon,2
+1828,2017,4,22,motor vehicle theft,33
+1829,2017,4,22,other,33
+1830,2017,4,22,"sex crimes, not child-related",2
+1831,2017,4,22,theft,72
+1832,2017,4,22,vandalism,34
+1833,2017,4,23,assault,13
+1834,2017,4,23,attempted murder,1
+1835,2017,4,23,battery,29
+1836,2017,4,23,burglary,27
+1837,2017,4,23,child-related crimes,2
+1838,2017,4,23,disorderly conduct,7
+1839,2017,4,23,driving under the influence,17
+1840,2017,4,23,drug possession,30
+1841,2017,4,23,drunk in public,24
+1842,2017,4,23,fraud,1
+1843,2017,4,23,illegal conceal or carry of weapon,3
+1844,2017,4,23,"illegal sales, manufacture, or transport",1
+1845,2017,4,23,motor vehicle theft,43
+1846,2017,4,23,other,32
+1847,2017,4,23,"sex crimes, not child-related",3
+1848,2017,4,23,theft,73
+1849,2017,4,23,vandalism,20
+1850,2017,4,24,assault,12
+1851,2017,4,24,battery,19
+1852,2017,4,24,burglary,49
+1853,2017,4,24,child-related crimes,2
+1854,2017,4,24,disorderly conduct,3
+1855,2017,4,24,driving under the influence,7
+1856,2017,4,24,drug possession,41
+1857,2017,4,24,drunk in public,13
+1858,2017,4,24,fraud,2
+1859,2017,4,24,illegal conceal or carry of weapon,8
+1860,2017,4,24,motor vehicle theft,42
+1861,2017,4,24,other,38
+1862,2017,4,24,"sex crimes, not child-related",5
+1863,2017,4,24,theft,72
+1864,2017,4,24,vandalism,19
+1865,2017,4,24,weapon-related crime,1
+1866,2017,4,25,arson,1
+1867,2017,4,25,assault,12
+1868,2017,4,25,battery,17
+1869,2017,4,25,burglary,38
+1870,2017,4,25,child-related crimes,2
+1871,2017,4,25,disorderly conduct,2
+1872,2017,4,25,driving under the influence,8
+1873,2017,4,25,drug possession,31
+1874,2017,4,25,drunk in public,9
+1875,2017,4,25,fraud,2
+1876,2017,4,25,illegal conceal or carry of weapon,3
+1877,2017,4,25,"illegal sales, manufacture, or transport",2
+1878,2017,4,25,motor vehicle theft,30
+1879,2017,4,25,other,35
+1880,2017,4,25,"sex crimes, not child-related",3
+1881,2017,4,25,theft,71
+1882,2017,4,25,vandalism,12
+1883,2017,4,25,weapon-related crime,4
+1884,2017,4,26,arson,1
+1885,2017,4,26,assault,10
+1886,2017,4,26,battery,29
+1887,2017,4,26,burglary,43
+1888,2017,4,26,child-related crimes,2
+1889,2017,4,26,disorderly conduct,6
+1890,2017,4,26,driving under the influence,9
+1891,2017,4,26,drug possession,37
+1892,2017,4,26,drunk in public,7
+1893,2017,4,26,fraud,4
+1894,2017,4,26,illegal conceal or carry of weapon,3
+1895,2017,4,26,motor vehicle theft,32
+1896,2017,4,26,other,33
+1897,2017,4,26,"sex crimes, not child-related",4
+1898,2017,4,26,theft,59
+1899,2017,4,26,vandalism,20
+1900,2017,4,26,weapon-related crime,3
+1901,2017,4,27,assault,12
+1902,2017,4,27,attempted murder,1
+1903,2017,4,27,battery,15
+1904,2017,4,27,burglary,45
+1905,2017,4,27,child-related crimes,2
+1906,2017,4,27,disorderly conduct,8
+1907,2017,4,27,driving under the influence,9
+1908,2017,4,27,drug possession,56
+1909,2017,4,27,drunk in public,13
+1910,2017,4,27,fraud,6
+1911,2017,4,27,illegal conceal or carry of weapon,3
+1912,2017,4,27,"illegal sales, manufacture, or transport",3
+1913,2017,4,27,motor vehicle theft,38
+1914,2017,4,27,murder,1
+1915,2017,4,27,other,28
+1916,2017,4,27,"sex crimes, not child-related",11
+1917,2017,4,27,theft,71
+1918,2017,4,27,vandalism,21
+1919,2017,4,27,weapon-related crime,3
+1920,2017,4,28,assault,14
+1921,2017,4,28,attempted murder,1
+1922,2017,4,28,battery,25
+1923,2017,4,28,burglary,50
+1924,2017,4,28,disorderly conduct,5
+1925,2017,4,28,driving under the influence,9
+1926,2017,4,28,drug possession,35
+1927,2017,4,28,drunk in public,9
+1928,2017,4,28,fraud,5
+1929,2017,4,28,illegal conceal or carry of weapon,6
+1930,2017,4,28,"illegal sales, manufacture, or transport",2
+1931,2017,4,28,motor vehicle theft,32
+1932,2017,4,28,other,37
+1933,2017,4,28,"sex crimes, not child-related",2
+1934,2017,4,28,theft,81
+1935,2017,4,28,vandalism,20
+1936,2017,4,28,weapon-related crime,3
+1937,2017,4,29,assault,7
+1938,2017,4,29,battery,33
+1939,2017,4,29,burglary,54
+1940,2017,4,29,child-related crimes,3
+1941,2017,4,29,disorderly conduct,5
+1942,2017,4,29,driving under the influence,25
+1943,2017,4,29,drug possession,24
+1944,2017,4,29,drunk in public,19
+1945,2017,4,29,fraud,4
+1946,2017,4,29,illegal conceal or carry of weapon,2
+1947,2017,4,29,"illegal sales, manufacture, or transport",1
+1948,2017,4,29,motor vehicle theft,44
+1949,2017,4,29,other,26
+1950,2017,4,29,"sex crimes, not child-related",6
+1951,2017,4,29,theft,79
+1952,2017,4,29,vandalism,16
+1953,2017,4,29,weapon-related crime,1
+1954,2017,4,3,assault,8
+1955,2017,4,3,battery,21
+1956,2017,4,3,burglary,38
+1957,2017,4,3,disorderly conduct,3
+1958,2017,4,3,driving under the influence,9
+1959,2017,4,3,drug possession,42
+1960,2017,4,3,drunk in public,15
+1961,2017,4,3,fraud,5
+1962,2017,4,3,illegal conceal or carry of weapon,4
+1963,2017,4,3,"illegal sales, manufacture, or transport",3
+1964,2017,4,3,motor vehicle theft,36
+1965,2017,4,3,other,50
+1966,2017,4,3,"sex crimes, not child-related",1
+1967,2017,4,3,theft,68
+1968,2017,4,3,vandalism,19
+1969,2017,4,3,weapon-related crime,2
+1970,2017,4,30,arson,1
+1971,2017,4,30,assault,10
+1972,2017,4,30,attempted murder,1
+1973,2017,4,30,battery,28
+1974,2017,4,30,burglary,32
+1975,2017,4,30,child-related crimes,3
+1976,2017,4,30,disorderly conduct,11
+1977,2017,4,30,driving under the influence,15
+1978,2017,4,30,drug possession,21
+1979,2017,4,30,drunk in public,13
+1980,2017,4,30,fraud,1
+1981,2017,4,30,illegal conceal or carry of weapon,2
+1982,2017,4,30,"illegal sales, manufacture, or transport",1
+1983,2017,4,30,motor vehicle theft,32
+1984,2017,4,30,murder,1
+1985,2017,4,30,other,20
+1986,2017,4,30,"sex crimes, not child-related",6
+1987,2017,4,30,theft,61
+1988,2017,4,30,vandalism,23
+1989,2017,4,4,assault,6
+1990,2017,4,4,attempted murder,1
+1991,2017,4,4,battery,18
+1992,2017,4,4,burglary,44
+1993,2017,4,4,disorderly conduct,6
+1994,2017,4,4,driving under the influence,15
+1995,2017,4,4,drug possession,36
+1996,2017,4,4,drunk in public,12
+1997,2017,4,4,fraud,3
+1998,2017,4,4,illegal conceal or carry of weapon,2
+1999,2017,4,4,"illegal sales, manufacture, or transport",2
+2000,2017,4,4,motor vehicle theft,33
+2001,2017,4,4,other,49
+2002,2017,4,4,"sex crimes, not child-related",1
+2003,2017,4,4,theft,52
+2004,2017,4,4,vandalism,22
+2005,2017,4,4,weapon-related crime,2
+2006,2017,4,5,arson,1
+2007,2017,4,5,assault,12
+2008,2017,4,5,battery,19
+2009,2017,4,5,burglary,31
+2010,2017,4,5,child-related crimes,3
+2011,2017,4,5,disorderly conduct,5
+2012,2017,4,5,driving under the influence,8
+2013,2017,4,5,drug possession,33
+2014,2017,4,5,drunk in public,12
+2015,2017,4,5,fraud,7
+2016,2017,4,5,illegal conceal or carry of weapon,3
+2017,2017,4,5,"illegal sales, manufacture, or transport",5
+2018,2017,4,5,motor vehicle theft,36
+2019,2017,4,5,other,31
+2020,2017,4,5,"sex crimes, not child-related",2
+2021,2017,4,5,theft,77
+2022,2017,4,5,vandalism,20
+2023,2017,4,5,weapon-related crime,4
+2024,2017,4,6,arson,2
+2025,2017,4,6,assault,11
+2026,2017,4,6,battery,27
+2027,2017,4,6,burglary,38
+2028,2017,4,6,child-related crimes,3
+2029,2017,4,6,disorderly conduct,5
+2030,2017,4,6,driving under the influence,10
+2031,2017,4,6,drug possession,43
+2032,2017,4,6,drunk in public,14
+2033,2017,4,6,fraud,5
+2034,2017,4,6,illegal conceal or carry of weapon,1
+2035,2017,4,6,"illegal sales, manufacture, or transport",2
+2036,2017,4,6,motor vehicle theft,29
+2037,2017,4,6,other,41
+2038,2017,4,6,"sex crimes, not child-related",7
+2039,2017,4,6,theft,71
+2040,2017,4,6,vandalism,27
+2041,2017,4,6,weapon-related crime,2
+2042,2017,4,7,arson,2
+2043,2017,4,7,assault,10
+2044,2017,4,7,attempted murder,1
+2045,2017,4,7,battery,22
+2046,2017,4,7,burglary,58
+2047,2017,4,7,child-related crimes,3
+2048,2017,4,7,disorderly conduct,1
+2049,2017,4,7,driving under the influence,11
+2050,2017,4,7,drug possession,34
+2051,2017,4,7,drunk in public,19
+2052,2017,4,7,fraud,3
+2053,2017,4,7,illegal conceal or carry of weapon,5
+2054,2017,4,7,"illegal sales, manufacture, or transport",5
+2055,2017,4,7,motor vehicle theft,36
+2056,2017,4,7,other,39
+2057,2017,4,7,"sex crimes, not child-related",2
+2058,2017,4,7,theft,81
+2059,2017,4,7,vandalism,20
+2060,2017,4,7,weapon-related crime,1
+2061,2017,4,8,arson,3
+2062,2017,4,8,assault,10
+2063,2017,4,8,battery,25
+2064,2017,4,8,burglary,41
+2065,2017,4,8,child-related crimes,2
+2066,2017,4,8,disorderly conduct,4
+2067,2017,4,8,driving under the influence,22
+2068,2017,4,8,drug possession,41
+2069,2017,4,8,drunk in public,22
+2070,2017,4,8,fraud,2
+2071,2017,4,8,illegal conceal or carry of weapon,4
+2072,2017,4,8,"illegal sales, manufacture, or transport",1
+2073,2017,4,8,motor vehicle theft,43
+2074,2017,4,8,other,37
+2075,2017,4,8,"sex crimes, not child-related",3
+2076,2017,4,8,theft,66
+2077,2017,4,8,vandalism,21
+2078,2017,4,8,weapon-related crime,2
+2079,2017,4,9,assault,8
+2080,2017,4,9,battery,20
+2081,2017,4,9,burglary,40
+2082,2017,4,9,child-related crimes,1
+2083,2017,4,9,disorderly conduct,7
+2084,2017,4,9,driving under the influence,12
+2085,2017,4,9,drug possession,31
+2086,2017,4,9,drunk in public,20
+2087,2017,4,9,fraud,5
+2088,2017,4,9,illegal conceal or carry of weapon,2
+2089,2017,4,9,motor vehicle theft,34
+2090,2017,4,9,other,27
+2091,2017,4,9,"sex crimes, not child-related",3
+2092,2017,4,9,theft,60
+2093,2017,4,9,vandalism,30
+2094,2017,4,9,weapon-related crime,1
+2095,2017,5,1,assault,12
+2096,2017,5,1,battery,18
+2097,2017,5,1,burglary,44
+2098,2017,5,1,child-related crimes,1
+2099,2017,5,1,driving under the influence,7
+2100,2017,5,1,drug possession,25
+2101,2017,5,1,drunk in public,12
+2102,2017,5,1,fraud,4
+2103,2017,5,1,illegal conceal or carry of weapon,2
+2104,2017,5,1,"illegal sales, manufacture, or transport",4
+2105,2017,5,1,motor vehicle theft,34
+2106,2017,5,1,other,39
+2107,2017,5,1,"sex crimes, not child-related",3
+2108,2017,5,1,theft,61
+2109,2017,5,1,vandalism,21
+2110,2017,5,10,assault,3
+2111,2017,5,10,battery,18
+2112,2017,5,10,burglary,24
+2113,2017,5,10,child-related crimes,1
+2114,2017,5,10,disorderly conduct,5
+2115,2017,5,10,driving under the influence,8
+2116,2017,5,10,drug possession,46
+2117,2017,5,10,drunk in public,5
+2118,2017,5,10,fraud,3
+2119,2017,5,10,illegal conceal or carry of weapon,4
+2120,2017,5,10,"illegal sales, manufacture, or transport",1
+2121,2017,5,10,motor vehicle theft,20
+2122,2017,5,10,other,16
+2123,2017,5,10,"sex crimes, not child-related",1
+2124,2017,5,10,theft,42
+2125,2017,5,10,vandalism,18
+2126,2017,5,10,weapon-related crime,3
+2127,2017,5,11,assault,6
+2128,2017,5,11,battery,8
+2129,2017,5,11,burglary,31
+2130,2017,5,11,child-related crimes,3
+2131,2017,5,11,disorderly conduct,9
+2132,2017,5,11,driving under the influence,10
+2133,2017,5,11,drug possession,31
+2134,2017,5,11,drunk in public,10
+2135,2017,5,11,illegal conceal or carry of weapon,1
+2136,2017,5,11,"illegal sales, manufacture, or transport",4
+2137,2017,5,11,motor vehicle theft,20
+2138,2017,5,11,other,13
+2139,2017,5,11,"sex crimes, not child-related",1
+2140,2017,5,11,theft,39
+2141,2017,5,11,vandalism,32
+2142,2017,5,11,weapon-related crime,2
+2143,2017,5,12,assault,4
+2144,2017,5,12,battery,14
+2145,2017,5,12,burglary,34
+2146,2017,5,12,child-related crimes,1
+2147,2017,5,12,disorderly conduct,3
+2148,2017,5,12,driving under the influence,7
+2149,2017,5,12,drug possession,32
+2150,2017,5,12,drunk in public,9
+2151,2017,5,12,fraud,3
+2152,2017,5,12,illegal conceal or carry of weapon,3
+2153,2017,5,12,"illegal sales, manufacture, or transport",2
+2154,2017,5,12,motor vehicle theft,21
+2155,2017,5,12,other,12
+2156,2017,5,12,"sex crimes, not child-related",2
+2157,2017,5,12,theft,33
+2158,2017,5,12,vandalism,17
+2159,2017,5,12,weapon-related crime,1
+2160,2017,5,13,assault,7
+2161,2017,5,13,battery,9
+2162,2017,5,13,burglary,36
+2163,2017,5,13,child-related crimes,2
+2164,2017,5,13,disorderly conduct,3
+2165,2017,5,13,driving under the influence,10
+2166,2017,5,13,drug possession,23
+2167,2017,5,13,drunk in public,16
+2168,2017,5,13,fraud,2
+2169,2017,5,13,illegal conceal or carry of weapon,3
+2170,2017,5,13,"illegal sales, manufacture, or transport",3
+2171,2017,5,13,motor vehicle theft,21
+2172,2017,5,13,other,10
+2173,2017,5,13,"sex crimes, not child-related",5
+2174,2017,5,13,theft,34
+2175,2017,5,13,vandalism,18
+2176,2017,5,13,weapon-related crime,1
+2177,2017,5,14,assault,4
+2178,2017,5,14,battery,9
+2179,2017,5,14,burglary,15
+2180,2017,5,14,disorderly conduct,7
+2181,2017,5,14,driving under the influence,13
+2182,2017,5,14,drug possession,17
+2183,2017,5,14,drunk in public,12
+2184,2017,5,14,illegal conceal or carry of weapon,2
+2185,2017,5,14,motor vehicle theft,14
+2186,2017,5,14,other,7
+2187,2017,5,14,"sex crimes, not child-related",1
+2188,2017,5,14,theft,27
+2189,2017,5,14,vandalism,18
+2190,2017,5,15,assault,10
+2191,2017,5,15,attempted murder,1
+2192,2017,5,15,battery,13
+2193,2017,5,15,burglary,11
+2194,2017,5,15,child-related crimes,1
+2195,2017,5,15,disorderly conduct,2
+2196,2017,5,15,driving under the influence,2
+2197,2017,5,15,drug possession,18
+2198,2017,5,15,drunk in public,6
+2199,2017,5,15,fraud,1
+2200,2017,5,15,illegal conceal or carry of weapon,3
+2201,2017,5,15,motor vehicle theft,5
+2202,2017,5,15,other,9
+2203,2017,5,15,"sex crimes, not child-related",1
+2204,2017,5,15,theft,15
+2205,2017,5,15,vandalism,6
+2206,2017,5,15,weapon-related crime,1
+2207,2017,5,16,assault,1
+2208,2017,5,16,battery,3
+2209,2017,5,16,burglary,3
+2210,2017,5,16,disorderly conduct,2
+2211,2017,5,16,driving under the influence,2
+2212,2017,5,16,drug possession,5
+2213,2017,5,16,drunk in public,4
+2214,2017,5,16,fraud,1
+2215,2017,5,16,motor vehicle theft,2
+2216,2017,5,16,other,3
+2217,2017,5,16,theft,6
+2218,2017,5,16,vandalism,2
+2219,2017,5,2,arson,4
+2220,2017,5,2,assault,5
+2221,2017,5,2,battery,23
+2222,2017,5,2,burglary,26
+2223,2017,5,2,child-related crimes,2
+2224,2017,5,2,disorderly conduct,2
+2225,2017,5,2,driving under the influence,9
+2226,2017,5,2,drug possession,24
+2227,2017,5,2,drunk in public,12
+2228,2017,5,2,fraud,3
+2229,2017,5,2,illegal conceal or carry of weapon,3
+2230,2017,5,2,"illegal sales, manufacture, or transport",1
+2231,2017,5,2,motor vehicle theft,27
+2232,2017,5,2,other,29
+2233,2017,5,2,"sex crimes, not child-related",4
+2234,2017,5,2,theft,69
+2235,2017,5,2,vandalism,19
+2236,2017,5,2,weapon-related crime,1
+2237,2017,5,3,arson,1
+2238,2017,5,3,assault,13
+2239,2017,5,3,battery,18
+2240,2017,5,3,burglary,40
+2241,2017,5,3,child-related crimes,1
+2242,2017,5,3,disorderly conduct,4
+2243,2017,5,3,driving under the influence,6
+2244,2017,5,3,drug possession,30
+2245,2017,5,3,drunk in public,12
+2246,2017,5,3,illegal conceal or carry of weapon,4
+2247,2017,5,3,"illegal sales, manufacture, or transport",1
+2248,2017,5,3,motor vehicle theft,21
+2249,2017,5,3,other,31
+2250,2017,5,3,"sex crimes, not child-related",4
+2251,2017,5,3,theft,68
+2252,2017,5,3,vandalism,15
+2253,2017,5,3,weapon-related crime,2
+2254,2017,5,4,assault,12
+2255,2017,5,4,attempted murder,1
+2256,2017,5,4,battery,17
+2257,2017,5,4,burglary,48
+2258,2017,5,4,disorderly conduct,4
+2259,2017,5,4,driving under the influence,8
+2260,2017,5,4,drug possession,50
+2261,2017,5,4,drunk in public,18
+2262,2017,5,4,fraud,1
+2263,2017,5,4,illegal conceal or carry of weapon,4
+2264,2017,5,4,"illegal sales, manufacture, or transport",6
+2265,2017,5,4,motor vehicle theft,24
+2266,2017,5,4,other,29
+2267,2017,5,4,"sex crimes, not child-related",1
+2268,2017,5,4,theft,60
+2269,2017,5,4,vandalism,18
+2270,2017,5,4,weapon-related crime,1
+2271,2017,5,5,assault,6
+2272,2017,5,5,attempted murder,1
+2273,2017,5,5,battery,12
+2274,2017,5,5,burglary,53
+2275,2017,5,5,child-related crimes,3
+2276,2017,5,5,disorderly conduct,5
+2277,2017,5,5,driving under the influence,9
+2278,2017,5,5,drug possession,42
+2279,2017,5,5,drunk in public,13
+2280,2017,5,5,fraud,7
+2281,2017,5,5,illegal conceal or carry of weapon,6
+2282,2017,5,5,"illegal sales, manufacture, or transport",2
+2283,2017,5,5,motor vehicle theft,33
+2284,2017,5,5,other,29
+2285,2017,5,5,"sex crimes, not child-related",1
+2286,2017,5,5,theft,78
+2287,2017,5,5,vandalism,19
+2288,2017,5,5,weapon-related crime,5
+2289,2017,5,6,arson,1
+2290,2017,5,6,assault,6
+2291,2017,5,6,battery,34
+2292,2017,5,6,burglary,36
+2293,2017,5,6,child-related crimes,1
+2294,2017,5,6,disorderly conduct,3
+2295,2017,5,6,driving under the influence,18
+2296,2017,5,6,drug possession,28
+2297,2017,5,6,drunk in public,10
+2298,2017,5,6,fraud,2
+2299,2017,5,6,illegal conceal or carry of weapon,5
+2300,2017,5,6,motor vehicle theft,22
+2301,2017,5,6,other,16
+2302,2017,5,6,"sex crimes, not child-related",6
+2303,2017,5,6,theft,64
+2304,2017,5,6,vandalism,17
+2305,2017,5,7,arson,1
+2306,2017,5,7,assault,3
+2307,2017,5,7,battery,15
+2308,2017,5,7,burglary,37
+2309,2017,5,7,child-related crimes,1
+2310,2017,5,7,disorderly conduct,3
+2311,2017,5,7,driving under the influence,18
+2312,2017,5,7,drug possession,16
+2313,2017,5,7,drunk in public,16
+2314,2017,5,7,fraud,2
+2315,2017,5,7,illegal conceal or carry of weapon,3
+2316,2017,5,7,"illegal sales, manufacture, or transport",2
+2317,2017,5,7,motor vehicle theft,19
+2318,2017,5,7,other,16
+2319,2017,5,7,"sex crimes, not child-related",1
+2320,2017,5,7,theft,51
+2321,2017,5,7,vandalism,20
+2322,2017,5,7,weapon-related crime,2
+2323,2017,5,8,arson,1
+2324,2017,5,8,assault,10
+2325,2017,5,8,battery,14
+2326,2017,5,8,burglary,30
+2327,2017,5,8,child-related crimes,2
+2328,2017,5,8,disorderly conduct,6
+2329,2017,5,8,driving under the influence,8
+2330,2017,5,8,drug possession,27
+2331,2017,5,8,drunk in public,4
+2332,2017,5,8,fraud,2
+2333,2017,5,8,illegal conceal or carry of weapon,1
+2334,2017,5,8,motor vehicle theft,22
+2335,2017,5,8,other,22
+2336,2017,5,8,"sex crimes, not child-related",4
+2337,2017,5,8,theft,57
+2338,2017,5,8,vandalism,13
+2339,2017,5,8,weapon-related crime,1
+2340,2017,5,9,assault,8
+2341,2017,5,9,attempted murder,1
+2342,2017,5,9,battery,14
+2343,2017,5,9,burglary,27
+2344,2017,5,9,child-related crimes,1
+2345,2017,5,9,disorderly conduct,4
+2346,2017,5,9,driving under the influence,6
+2347,2017,5,9,drug possession,22
+2348,2017,5,9,drunk in public,9
+2349,2017,5,9,fraud,4
+2350,2017,5,9,illegal conceal or carry of weapon,2
+2351,2017,5,9,"illegal sales, manufacture, or transport",4
+2352,2017,5,9,motor vehicle theft,40
+2353,2017,5,9,other,16
+2354,2017,5,9,"sex crimes, not child-related",1
+2355,2017,5,9,theft,56
+2356,2017,5,9,vandalism,17
+2357,2017,5,9,weapon-related crime,4
