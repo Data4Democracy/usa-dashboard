@@ -4,7 +4,9 @@ We're building a dashboard of key metrics for the USA because: *If you can't mea
 
 **Sound good? Get involved** Check out information about [Data for Democracy](https://medium.com/data-for-democracy) and [email Jonathon Morgan](mailto:jonathon@datafordemocracy.org) for an invitation.
 
-**Maintainers:** @devinaconley
+**Maintainers:** 
+ - @devinaconley
+ - @sraithel
 
 Contents:
 ---
