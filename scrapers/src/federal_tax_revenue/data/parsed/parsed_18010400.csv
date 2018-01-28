@@ -1,0 +1,199 @@
+year,month,day,metric,count
+2018,1,4,Operating Cash Balance::Type of account::Federal Reserve Account::Closing balance,204358
+2018,1,4,Operating Cash Balance::Type of account::Supplementary Financing Program Account::Closing balance,0
+2018,1,4,Operating Cash Balance::Type of account::Short-Term Cash Investments (Table V)::Closing balance,0
+2018,1,4,Operating Cash Balance::Type of account::Total Operating Balance::Closing balance,204358
+2018,1,4,Operating Cash Balance::Type of account::Federal Reserve Account::Opening balance,169957
+2018,1,4,Operating Cash Balance::Type of account::Supplementary Financing Program Account::Opening balance,0
+2018,1,4,Operating Cash Balance::Type of account::Short-Term Cash Investments (Table V)::Opening balance,0
+2018,1,4,Operating Cash Balance::Type of account::Total Operating Balance::Opening balance,169957
+2018,1,4,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Agriculture Loan Repayments (misc),18
+2018,1,4,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Air Transport Security Fees,1
+2018,1,4,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Cash FTD's Received (Table IV),11217
+2018,1,4,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Commodity Credit Corporation programs,24
+2018,1,4,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Customs and Certain Excise Taxes,65
+2018,1,4,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Deposits by States::Supplemental Security Income,2
+2018,1,4,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Deposits by States::Unemployment,14
+2018,1,4,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Education Department programs,300
+2018,1,4,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Energy Department programs,8
+2018,1,4,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Estate and Gift Taxes,127
+2018,1,4,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Federal Reserve Earnings,0
+2018,1,4,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Foreign Military Sales Program,77
+2018,1,4,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Housing and Urban Development programs,2
+2018,1,4,"Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Individual Income and Employment Taxes, Not Withheld",5171
+2018,1,4,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Interest recd from cash investments,0
+2018,1,4,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Justice Department programs,8
+2018,1,4,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Postal Service,372
+2018,1,4,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Public Debt Cash Issues (Table III-B),160529
+2018,1,4,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Other Deposits::Total Other Deposits,0
+2018,1,4,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Change in Balance of Uncollected Funds,0
+2018,1,4,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Transfers from Depositaries,0
+2018,1,4,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Total Federal Reserve Account,177934
+2018,1,4,Deposits and Withdrawals of Operating Cash::Deposits::Short-Term Cash Investments::Transfers from Federal Reserve Account (Table V),0
+2018,1,4,Deposits and Withdrawals of Operating Cash::Deposits::Total Deposits (excluding transfers),177934
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Commodity Credit Corporation programs,125
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Defense Vendor Payments (EFT),913
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Education Department programs,2099
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Energy Department programs,134
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Federal Employees Insurance Payments,261
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Fed. Highway Administration programs,125
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Federal Salaries (EFT),773
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Food and Nutrition Service (misc),135
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::GSA programs,29
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Health and Human Services Grants (misc),440
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Housing and Urban Development programs,163
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Interest on Treasury Securities,0
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::IRS Tax Refunds Business (EFT),4
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::IRS Tax Refunds Individual (EFT),1
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Justice Department programs,59
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Labor Dept. prgms (excl. unemployment),68
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Medicaid,2761
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Medicare and Other CMS Payments,1740
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Medicare Advantage - Part C&D Payments,0
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Marketplace Payments,0
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::NASA programs,70
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Postal Service Money Orders and Other,162
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Public Debt Cash Redemp. (Table III-B),131513
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Social Security Benefits (EFT),12
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Supple. Nutrition Assist. Program (SNAP),195
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Temporary Assistance for Needy Families (HHS),36
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Transportation Security Admin. (DHS),2
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Unemployment Insurance Benefits,138
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Veterans Affairs programs,96
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Other Withdrawals::Emergency Prep & Response (DHS),169
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Other Withdrawals::Federal Crop Ins. Corp.,88
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Other Withdrawals::Federal Transit Admin.,101
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Other Withdrawals::Thrift Savings Plan Transfer,350
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Other Withdrawals::Unclassified,771
+2018,1,4,"Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Other Withdrawals::Total, Other Withdrawals",1479
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Transfers to Depositaries,0
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Total Federal Reserve Account,143533
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Short-Term Cash Investments::Transfers to Federal Reserve Account (Table V),0
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Total Withdrawals (excluding transfers),143533
+2018,1,4,Deposits and Withdrawals of Operating Cash::Withdrawals::Net Change in Operating Cash Balance,34401
+2018,1,4,Public Debt Transactions::Issues::Marketable::Bills::Regular Series,160001
+2018,1,4,Public Debt Transactions::Issues::Marketable::Bills::Cash Management Series,0
+2018,1,4,Public Debt Transactions::Issues::Marketable::Notes,-5
+2018,1,4,Public Debt Transactions::Issues::Marketable::Bonds,0
+2018,1,4,Public Debt Transactions::Issues::Marketable::Inflation-Protected Securities Increment,1
+2018,1,4,Public Debt Transactions::Issues::Marketable::Federal Financing Bank,0
+2018,1,4,Public Debt Transactions::Issues::Nonmarketable::United States Savings Securities::Cash Issue Price,6
+2018,1,4,Public Debt Transactions::Issues::Nonmarketable::United States Savings Securities::Interest Increment,2
+2018,1,4,Public Debt Transactions::Issues::Nonmarketable::Government Account Series,222848
+2018,1,4,Public Debt Transactions::Issues::Nonmarketable::Hope Bonds,0
+2018,1,4,Public Debt Transactions::Issues::Nonmarketable::Domestic Series,0
+2018,1,4,Public Debt Transactions::Issues::Nonmarketable::Foreign Series,0
+2018,1,4,Public Debt Transactions::Issues::Nonmarketable::State and Local Series,10
+2018,1,4,Public Debt Transactions::Issues::Nonmarketable::Other,1435
+2018,1,4,Public Debt Transactions::Issues::Total Issues,384298
+2018,1,4,Public Debt Transactions::Redemptions::Marketable::Bills,129991
+2018,1,4,Public Debt Transactions::Redemptions::Marketable::Notes,0
+2018,1,4,Public Debt Transactions::Redemptions::Marketable::Bonds,0
+2018,1,4,Public Debt Transactions::Redemptions::Marketable::Federal Financing Bank,0
+2018,1,4,Public Debt Transactions::Redemptions::Nonmarketable::United States Savings Securities,84
+2018,1,4,Public Debt Transactions::Redemptions::Nonmarketable::Government Account Series,251940
+2018,1,4,Public Debt Transactions::Redemptions::Nonmarketable::Hope Bonds,0
+2018,1,4,Public Debt Transactions::Redemptions::Nonmarketable::Domestic Series,0
+2018,1,4,Public Debt Transactions::Redemptions::Nonmarketable::Foreign Series,0
+2018,1,4,Public Debt Transactions::Redemptions::Nonmarketable::State and Local Series,9
+2018,1,4,Public Debt Transactions::Redemptions::Nonmarketable::Other,1429
+2018,1,4,Public Debt Transactions::Redemptions::Total Redemptions,383452
+2018,1,4,Public Debt Transactions::Redemptions::Net Change in Public Debt Outstanding,845
+2018,1,4,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Issues::Public Debt Issues (Table III-A),384298
+2018,1,4,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Issues::Premium on New Issues,0
+2018,1,4,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Issues::Discount on New Issues::Bills (-),918
+2018,1,4,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Issues::Discount on New Issues::Bonds and Notes (-),0
+2018,1,4,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Issues::Federal Financing Bank (-),0
+2018,1,4,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Issues::Government Account Transactions (-),222848
+2018,1,4,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Issues::Hope Bonds (-),0
+2018,1,4,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Issues::Interest Increment on United States Savings Securities (-),2
+2018,1,4,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Issues::Inflation-Protected Securities Increment,1
+2018,1,4,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Issues::Total Public Debt Cash Issues Deposited in Federal Reserve Account,160529
+2018,1,4,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Redemptions::Public Debt Redemptions (Table III-A),383452
+2018,1,4,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Redemptions::Premium on Debt Buyback Operation,0
+2018,1,4,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Redemptions::Discount on Debt Buyback Operation (-),0
+2018,1,4,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Redemptions::Federal Financing Bank (-),0
+2018,1,4,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Redemptions::Government Account Transactions (-),251940
+2018,1,4,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Redemptions::Hope Bonds (-),0
+2018,1,4,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Redemptions::Total Public Debt Cash Redemptions Withdrawn from Federal Reserve Acct.,131513
+2018,1,4,Debt Subject to Limit::Balance Transactions::Debt Held by the Public::Closing balance,14829337
+2018,1,4,Debt Subject to Limit::Balance Transactions::Intragovernmental Holdings::Closing balance,5664034
+2018,1,4,Debt Subject to Limit::Balance Transactions::Total Public Debt Outstanding::Closing balance,20493371
+2018,1,4,Debt Subject to Limit::Balance Transactions::Less: Debt Not Subject to Limit::Other Debt::Closing balance,481
+2018,1,4,Debt Subject to Limit::Balance Transactions::Less: Debt Not Subject to Limit::Unamortized Discount::Closing balance,25458
+2018,1,4,Debt Subject to Limit::Balance Transactions::Less: Debt Not Subject to Limit::Federal Financing Bank::Closing balance,11457
+2018,1,4,Debt Subject to Limit::Balance Transactions::Less: Debt Not Subject to Limit::Hope Bonds::Closing balance,0
+2018,1,4,Debt Subject to Limit::Balance Transactions::Plus: Other Debt Subject to Limit Guaranteed Debt of Government Agencies::Closing balance,0
+2018,1,4,Debt Subject to Limit::Balance Transactions::Total Public Debt Subject to Limit::Closing balance,20455975
+2018,1,4,Debt Subject to Limit::Balance Transactions::Statutory Debt Limit::Closing balance,20456000
+2018,1,4,Debt Subject to Limit::Balance Transactions::Debt Held by the Public::Opening balance,14830822
+2018,1,4,Debt Subject to Limit::Balance Transactions::Intragovernmental Holdings::Opening balance,5661704
+2018,1,4,Debt Subject to Limit::Balance Transactions::Total Public Debt Outstanding::Opening balance,20492526
+2018,1,4,Debt Subject to Limit::Balance Transactions::Less: Debt Not Subject to Limit::Other Debt::Opening balance,481
+2018,1,4,Debt Subject to Limit::Balance Transactions::Less: Debt Not Subject to Limit::Unamortized Discount::Opening balance,24613
+2018,1,4,Debt Subject to Limit::Balance Transactions::Less: Debt Not Subject to Limit::Federal Financing Bank::Opening balance,11457
+2018,1,4,Debt Subject to Limit::Balance Transactions::Less: Debt Not Subject to Limit::Hope Bonds::Opening balance,0
+2018,1,4,Debt Subject to Limit::Balance Transactions::Plus: Other Debt Subject to Limit Guaranteed Debt of Government Agencies::Opening balance,0
+2018,1,4,Debt Subject to Limit::Balance Transactions::Total Public Debt Subject to Limit::Opening balance,20455975
+2018,1,4,Debt Subject to Limit::Balance Transactions::Statutory Debt Limit::Opening balance,20456000
+2018,1,4,Federal Tax Deposits::Classification::Withheld Income and Employment Taxes,11473
+2018,1,4,Federal Tax Deposits::Classification::Individual Income Taxes,190
+2018,1,4,Federal Tax Deposits::Classification::Railroad Retirement Taxes,1
+2018,1,4,Federal Tax Deposits::Classification::Excise Taxes,9
+2018,1,4,Federal Tax Deposits::Classification::Corporation Income Taxes,65
+2018,1,4,Federal Tax Deposits::Classification::Federal Unemployment Taxes,13
+2018,1,4,Federal Tax Deposits::Classification::Estate and Gift Taxes & Misc IRS Rcpts.,5
+2018,1,4,Federal Tax Deposits::Classification::Total,11756
+2018,1,4,Federal Tax Deposits::Classification::Cash Federal Tax Deposits::Direct,53
+2018,1,4,Federal Tax Deposits::Classification::Cash Federal Tax Deposits::Through Depositaries,11164
+2018,1,4,Federal Tax Deposits::Classification::Cash Federal Tax Deposits::Total Cash FTD's,11217
+2018,1,4,Federal Tax Deposits::Classification::Inter-agency Transfers,539
+2018,1,4,Federal Tax Deposits::Classification::Total,11756
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Opening Balance Today::Type of Depositary A,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Deposits::Transfers to Depositaries::Type of Depositary A,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Deposits::Special Direct Investment::Type of Depositary A,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Deposits::Term Investment::Type of Depositary A,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Deposits::Repo Investment::Type of Depositary A,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Withdrawals::Treasury Initiated::Type of Depositary A,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Withdrawals::Depositary Initiated::Type of Depositary A,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Withdrawals::Special Direct Investment::Type of Depositary A,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Withdrawals::Term Investment::Type of Depositary A,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Withdrawals::Repo Investment::Type of Depositary A,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Closing Balance Today::Type of Depositary A,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Opening Balance Today::Type of Depositary B,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Deposits::Transfers to Depositaries::Type of Depositary B,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Deposits::Special Direct Investment::Type of Depositary B,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Deposits::Term Investment::Type of Depositary B,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Deposits::Repo Investment::Type of Depositary B,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Withdrawals::Treasury Initiated::Type of Depositary B,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Withdrawals::Depositary Initiated::Type of Depositary B,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Withdrawals::Special Direct Investment::Type of Depositary B,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Withdrawals::Term Investment::Type of Depositary B,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Withdrawals::Repo Investment::Type of Depositary B,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Closing Balance Today::Type of Depositary B,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Opening Balance Today::Type of Depositary C,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Deposits::Transfers to Depositaries::Type of Depositary C,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Deposits::Special Direct Investment::Type of Depositary C,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Deposits::Term Investment::Type of Depositary C,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Deposits::Repo Investment::Type of Depositary C,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Withdrawals::Treasury Initiated::Type of Depositary C,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Withdrawals::Depositary Initiated::Type of Depositary C,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Withdrawals::Special Direct Investment::Type of Depositary C,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Withdrawals::Term Investment::Type of Depositary C,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Withdrawals::Repo Investment::Type of Depositary C,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Closing Balance Today::Type of Depositary C,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Opening Balance Today::Total,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Deposits::Transfers to Depositaries::Total,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Deposits::Special Direct Investment::Total,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Deposits::Term Investment::Total,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Deposits::Repo Investment::Total,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Withdrawals::Treasury Initiated::Total,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Withdrawals::Depositary Initiated::Total,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Withdrawals::Special Direct Investment::Total,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Withdrawals::Term Investment::Total,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Withdrawals::Repo Investment::Total,0
+2018,1,4,Short-Term Cash Investments::Balance Transactions::Closing Balance Today::Total,0
+2018,1,4,Income Tax Refunds Issued::Classification::IRS Tax Refunds Business (Checks),3
+2018,1,4,Income Tax Refunds Issued::Classification::IRS Tax Refunds Business (EFT),4
+2018,1,4,Income Tax Refunds Issued::Classification::IRS Tax Refunds Individual (Checks),98
+2018,1,4,Income Tax Refunds Issued::Classification::IRS Tax Refunds Individual (EFT),1

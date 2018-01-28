@@ -1,0 +1,201 @@
+year,month,day,metric,count
+2017,12,11,Operating Cash Balance::Type of account::Federal Reserve Account::Closing balance,79049
+2017,12,11,Operating Cash Balance::Type of account::Supplementary Financing Program Account::Closing balance,0
+2017,12,11,Operating Cash Balance::Type of account::Short-Term Cash Investments (Table V)::Closing balance,0
+2017,12,11,Operating Cash Balance::Type of account::Total Operating Balance::Closing balance,79049
+2017,12,11,Operating Cash Balance::Type of account::Federal Reserve Account::Opening balance,69098
+2017,12,11,Operating Cash Balance::Type of account::Supplementary Financing Program Account::Opening balance,0
+2017,12,11,Operating Cash Balance::Type of account::Short-Term Cash Investments (Table V)::Opening balance,0
+2017,12,11,Operating Cash Balance::Type of account::Total Operating Balance::Opening balance,69098
+2017,12,11,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Agriculture Loan Repayments (misc),29
+2017,12,11,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Air Transport Security Fees,1
+2017,12,11,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Cash FTD's Received (Table IV),16885
+2017,12,11,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Commodity Credit Corporation programs,10
+2017,12,11,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Customs and Certain Excise Taxes,79
+2017,12,11,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Deposits by States::Supplemental Security Income,2
+2017,12,11,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Deposits by States::Unemployment,13
+2017,12,11,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Education Department programs,292
+2017,12,11,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Energy Department programs,11
+2017,12,11,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Estate and Gift Taxes,25
+2017,12,11,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Federal Reserve Earnings,0
+2017,12,11,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Foreign Military Sales Program,166
+2017,12,11,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Housing and Urban Development programs,2
+2017,12,11,"Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Individual Income and Employment Taxes, Not Withheld",354
+2017,12,11,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Interest recd from cash investments,0
+2017,12,11,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Justice Department programs,66
+2017,12,11,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Postal Service,430
+2017,12,11,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Public Debt Cash Issues (Table III-B),761
+2017,12,11,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Other Deposits::Emergency Prep & Response (DHS),58
+2017,12,11,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Other Deposits::Thrift Savings Plan Transfer,104
+2017,12,11,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Other Deposits::Total Other Deposits,161
+2017,12,11,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Change in Balance of Uncollected Funds,0
+2017,12,11,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Transfers from Depositaries,0
+2017,12,11,Deposits and Withdrawals of Operating Cash::Deposits::Federal Reserve Account::Total Federal Reserve Account,19286
+2017,12,11,Deposits and Withdrawals of Operating Cash::Deposits::Short-Term Cash Investments::Transfers from Federal Reserve Account (Table V),0
+2017,12,11,Deposits and Withdrawals of Operating Cash::Deposits::Total Deposits (excluding transfers),19286
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Commodity Credit Corporation programs,149
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Defense Vendor Payments (EFT),1593
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Education Department programs,314
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Energy Department programs,93
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Federal Employees Insurance Payments,260
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Fed. Highway Administration programs,100
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Federal Salaries (EFT),90
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Food and Nutrition Service (misc),153
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::GSA programs,38
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Health and Human Services Grants (misc),346
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Housing and Urban Development programs,170
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Interest on Treasury Securities,0
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::IRS Tax Refunds Business (EFT),37
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::IRS Tax Refunds Individual (EFT),4
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Justice Department programs,74
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Labor Dept. prgms (excl. unemployment),47
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Medicaid,705
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Medicare and Other CMS Payments,881
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Medicare Advantage - Part C&D Payments,0
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Marketplace Payments,0
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::NASA programs,162
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Postal Service Money Orders and Other,153
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Public Debt Cash Redemp. (Table III-B),867
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Social Security Benefits (EFT),57
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Supple. Nutrition Assist. Program (SNAP),767
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Temporary Assistance for Needy Families (HHS),36
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Transportation Security Admin. (DHS),6
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Unemployment Insurance Benefits,126
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Veterans Affairs programs,178
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Other Withdrawals::Agency for Internat'l Development,505
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Other Withdrawals::Agriculture,55
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Other Withdrawals::Emergency Prep & Response (DHS),137
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Other Withdrawals::Veterans Benefits (EFT),57
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Other Withdrawals::Unclassified,1175
+2017,12,11,"Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Other Withdrawals::Total, Other Withdrawals",1930
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Transfers to Depositaries,0
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Total Federal Reserve Account,9335
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Short-Term Cash Investments::Transfers to Federal Reserve Account (Table V),0
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Total Withdrawals (excluding transfers),9335
+2017,12,11,Deposits and Withdrawals of Operating Cash::Withdrawals::Net Change in Operating Cash Balance,9951
+2017,12,11,Public Debt Transactions::Issues::Marketable::Bills::Regular Series,-6
+2017,12,11,Public Debt Transactions::Issues::Marketable::Bills::Cash Management Series,0
+2017,12,11,Public Debt Transactions::Issues::Marketable::Notes,0
+2017,12,11,Public Debt Transactions::Issues::Marketable::Bonds,0
+2017,12,11,Public Debt Transactions::Issues::Marketable::Inflation-Protected Securities Increment,-81
+2017,12,11,Public Debt Transactions::Issues::Marketable::Federal Financing Bank,0
+2017,12,11,Public Debt Transactions::Issues::Nonmarketable::United States Savings Securities::Cash Issue Price,5
+2017,12,11,Public Debt Transactions::Issues::Nonmarketable::United States Savings Securities::Interest Increment,2
+2017,12,11,Public Debt Transactions::Issues::Nonmarketable::Government Account Series,357156
+2017,12,11,Public Debt Transactions::Issues::Nonmarketable::Hope Bonds,0
+2017,12,11,Public Debt Transactions::Issues::Nonmarketable::Domestic Series,0
+2017,12,11,Public Debt Transactions::Issues::Nonmarketable::Foreign Series,0
+2017,12,11,Public Debt Transactions::Issues::Nonmarketable::State and Local Series,16
+2017,12,11,Public Debt Transactions::Issues::Nonmarketable::Other,746
+2017,12,11,Public Debt Transactions::Issues::Total Issues,357839
+2017,12,11,Public Debt Transactions::Redemptions::Marketable::Bills,0
+2017,12,11,Public Debt Transactions::Redemptions::Marketable::Notes,0
+2017,12,11,Public Debt Transactions::Redemptions::Marketable::Bonds,0
+2017,12,11,Public Debt Transactions::Redemptions::Marketable::Federal Financing Bank,0
+2017,12,11,Public Debt Transactions::Redemptions::Nonmarketable::United States Savings Securities,48
+2017,12,11,Public Debt Transactions::Redemptions::Nonmarketable::Government Account Series,357182
+2017,12,11,Public Debt Transactions::Redemptions::Nonmarketable::Hope Bonds,0
+2017,12,11,Public Debt Transactions::Redemptions::Nonmarketable::Domestic Series,0
+2017,12,11,Public Debt Transactions::Redemptions::Nonmarketable::Foreign Series,0
+2017,12,11,Public Debt Transactions::Redemptions::Nonmarketable::State and Local Series,70
+2017,12,11,Public Debt Transactions::Redemptions::Nonmarketable::Other,748
+2017,12,11,Public Debt Transactions::Redemptions::Total Redemptions,358048
+2017,12,11,Public Debt Transactions::Redemptions::Net Change in Public Debt Outstanding,-209
+2017,12,11,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Issues::Public Debt Issues (Table III-A),357839
+2017,12,11,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Issues::Premium on New Issues,0
+2017,12,11,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Issues::Discount on New Issues::Bills (-),0
+2017,12,11,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Issues::Discount on New Issues::Bonds and Notes (-),0
+2017,12,11,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Issues::Federal Financing Bank (-),0
+2017,12,11,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Issues::Government Account Transactions (-),357156
+2017,12,11,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Issues::Hope Bonds (-),0
+2017,12,11,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Issues::Interest Increment on United States Savings Securities (-),2
+2017,12,11,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Issues::Inflation-Protected Securities Increment,-81
+2017,12,11,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Issues::Total Public Debt Cash Issues Deposited in Federal Reserve Account,761
+2017,12,11,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Redemptions::Public Debt Redemptions (Table III-A),358048
+2017,12,11,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Redemptions::Premium on Debt Buyback Operation,0
+2017,12,11,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Redemptions::Discount on Debt Buyback Operation (-),0
+2017,12,11,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Redemptions::Federal Financing Bank (-),0
+2017,12,11,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Redemptions::Government Account Transactions (-),357182
+2017,12,11,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Redemptions::Hope Bonds (-),0
+2017,12,11,Adjustment of Public Debt Transactions to Cash Basis::Transactions::Public Debt Cash Redemptions::Total Public Debt Cash Redemptions Withdrawn from Federal Reserve Acct.,867
+2017,12,11,Debt Subject to Limit::Balance Transactions::Debt Held by the Public::Closing balance,14864792
+2017,12,11,Debt Subject to Limit::Balance Transactions::Intragovernmental Holdings::Closing balance,5627886
+2017,12,11,Debt Subject to Limit::Balance Transactions::Total Public Debt Outstanding::Closing balance,20492678
+2017,12,11,Debt Subject to Limit::Balance Transactions::Less: Debt Not Subject to Limit::Other Debt::Closing balance,481
+2017,12,11,Debt Subject to Limit::Balance Transactions::Less: Debt Not Subject to Limit::Unamortized Discount::Closing balance,24765
+2017,12,11,Debt Subject to Limit::Balance Transactions::Less: Debt Not Subject to Limit::Federal Financing Bank::Closing balance,11457
+2017,12,11,Debt Subject to Limit::Balance Transactions::Less: Debt Not Subject to Limit::Hope Bonds::Closing balance,0
+2017,12,11,Debt Subject to Limit::Balance Transactions::Plus: Other Debt Subject to Limit Guaranteed Debt of Government Agencies::Closing balance,0
+2017,12,11,Debt Subject to Limit::Balance Transactions::Total Public Debt Subject to Limit::Closing balance,20455975
+2017,12,11,Debt Subject to Limit::Balance Transactions::Statutory Debt Limit::Closing balance,20456000
+2017,12,11,Debt Subject to Limit::Balance Transactions::Debt Held by the Public::Opening balance,14864901
+2017,12,11,Debt Subject to Limit::Balance Transactions::Intragovernmental Holdings::Opening balance,5627986
+2017,12,11,Debt Subject to Limit::Balance Transactions::Total Public Debt Outstanding::Opening balance,20492887
+2017,12,11,Debt Subject to Limit::Balance Transactions::Less: Debt Not Subject to Limit::Other Debt::Opening balance,481
+2017,12,11,Debt Subject to Limit::Balance Transactions::Less: Debt Not Subject to Limit::Unamortized Discount::Opening balance,24974
+2017,12,11,Debt Subject to Limit::Balance Transactions::Less: Debt Not Subject to Limit::Federal Financing Bank::Opening balance,11457
+2017,12,11,Debt Subject to Limit::Balance Transactions::Less: Debt Not Subject to Limit::Hope Bonds::Opening balance,0
+2017,12,11,Debt Subject to Limit::Balance Transactions::Plus: Other Debt Subject to Limit Guaranteed Debt of Government Agencies::Opening balance,0
+2017,12,11,Debt Subject to Limit::Balance Transactions::Total Public Debt Subject to Limit::Opening balance,20455975
+2017,12,11,Debt Subject to Limit::Balance Transactions::Statutory Debt Limit::Opening balance,20456000
+2017,12,11,Federal Tax Deposits::Classification::Withheld Income and Employment Taxes,16063
+2017,12,11,Federal Tax Deposits::Classification::Individual Income Taxes,197
+2017,12,11,Federal Tax Deposits::Classification::Railroad Retirement Taxes,42
+2017,12,11,Federal Tax Deposits::Classification::Excise Taxes,92
+2017,12,11,Federal Tax Deposits::Classification::Corporation Income Taxes,540
+2017,12,11,Federal Tax Deposits::Classification::Federal Unemployment Taxes,2
+2017,12,11,Federal Tax Deposits::Classification::Estate and Gift Taxes & Misc IRS Rcpts.,2
+2017,12,11,Federal Tax Deposits::Classification::Total,16937
+2017,12,11,Federal Tax Deposits::Classification::Cash Federal Tax Deposits::Direct,27
+2017,12,11,Federal Tax Deposits::Classification::Cash Federal Tax Deposits::Through Depositaries,16858
+2017,12,11,Federal Tax Deposits::Classification::Cash Federal Tax Deposits::Total Cash FTD's,16885
+2017,12,11,Federal Tax Deposits::Classification::Inter-agency Transfers,53
+2017,12,11,Federal Tax Deposits::Classification::Total,16937
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Opening Balance Today::Type of Depositary A,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Deposits::Transfers to Depositaries::Type of Depositary A,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Deposits::Special Direct Investment::Type of Depositary A,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Deposits::Term Investment::Type of Depositary A,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Deposits::Repo Investment::Type of Depositary A,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Withdrawals::Treasury Initiated::Type of Depositary A,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Withdrawals::Depositary Initiated::Type of Depositary A,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Withdrawals::Special Direct Investment::Type of Depositary A,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Withdrawals::Term Investment::Type of Depositary A,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Withdrawals::Repo Investment::Type of Depositary A,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Closing Balance Today::Type of Depositary A,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Opening Balance Today::Type of Depositary B,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Deposits::Transfers to Depositaries::Type of Depositary B,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Deposits::Special Direct Investment::Type of Depositary B,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Deposits::Term Investment::Type of Depositary B,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Deposits::Repo Investment::Type of Depositary B,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Withdrawals::Treasury Initiated::Type of Depositary B,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Withdrawals::Depositary Initiated::Type of Depositary B,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Withdrawals::Special Direct Investment::Type of Depositary B,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Withdrawals::Term Investment::Type of Depositary B,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Withdrawals::Repo Investment::Type of Depositary B,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Closing Balance Today::Type of Depositary B,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Opening Balance Today::Type of Depositary C,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Deposits::Transfers to Depositaries::Type of Depositary C,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Deposits::Special Direct Investment::Type of Depositary C,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Deposits::Term Investment::Type of Depositary C,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Deposits::Repo Investment::Type of Depositary C,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Withdrawals::Treasury Initiated::Type of Depositary C,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Withdrawals::Depositary Initiated::Type of Depositary C,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Withdrawals::Special Direct Investment::Type of Depositary C,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Withdrawals::Term Investment::Type of Depositary C,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Withdrawals::Repo Investment::Type of Depositary C,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Closing Balance Today::Type of Depositary C,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Opening Balance Today::Total,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Deposits::Transfers to Depositaries::Total,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Deposits::Special Direct Investment::Total,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Deposits::Term Investment::Total,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Deposits::Repo Investment::Total,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Withdrawals::Treasury Initiated::Total,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Withdrawals::Depositary Initiated::Total,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Withdrawals::Special Direct Investment::Total,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Withdrawals::Term Investment::Total,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Withdrawals::Repo Investment::Total,0
+2017,12,11,Short-Term Cash Investments::Balance Transactions::Closing Balance Today::Total,0
+2017,12,11,Income Tax Refunds Issued::Classification::IRS Tax Refunds Business (Checks),32
+2017,12,11,Income Tax Refunds Issued::Classification::IRS Tax Refunds Business (EFT),37
+2017,12,11,Income Tax Refunds Issued::Classification::IRS Tax Refunds Individual (Checks),21
+2017,12,11,Income Tax Refunds Issued::Classification::IRS Tax Refunds Individual (EFT),4
