@@ -24,7 +24,7 @@ def main():
     index_response = requests.get(SITE_ROOT + DATA_INDEX_SUBPATH)
     soup = BeautifulSoup(index_response.content, 'html5lib')
 
-    links = [obj['href'] for obj in soup.findAll('a', href=True, text=re.compile('.*Text File'))]
+    links = [obj['href'] for obj in soup.findAll('a', href=True, text=re.compile(r'.*Text File'))]
     available_files = [{'url': link, 'file_name': get_file_name_from_url(link)} for link in links]
 
     downloaded_files = os.listdir(RAW_DIR)
@@ -37,7 +37,7 @@ def main():
             with open(os.path.join(RAW_DIR, file['file_name']), 'wb') as f:
                 f.write(response.content)
 
-            print(f"Download of  [{file['file_name']}] complete.")
+            print(f"Download of [{file['file_name']}] complete.")
 
         else:
             print(f"File [{file['file_name']}] already downloaded; skipping.")
