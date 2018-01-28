@@ -288,7 +288,8 @@ class TreasuryStatementDataSet:
                 qualifiers.append(LabelQualifier(indent, multirow_prefix + qualifier, i))
                 label_segment = ''
             elif data_row_match:
-                delimited_line = re.sub(r'([a-zA-Z0-9()&.])(?: |\$){2,}', r'\1|', line.lstrip())
+                footnote_stripped_line = re.sub(r' \d/', ' ', line.lstrip())
+                delimited_line = re.sub(r'([a-zA-Z0-9()&.])(?: |\$){2,}', r'\1|', footnote_stripped_line)
 
                 # Add in the accumulated qualifiers and descriptor portions and append to data list.
                 concatenated_qualifiers = ''.join([qualifier.value + '::' for qualifier in qualifiers])

@@ -63,7 +63,7 @@ year,month,day,metric,count
 2017,12,27,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Veterans Affairs programs,245
 2017,12,27,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Other Withdrawals::Agriculture,53
 2017,12,27,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Other Withdrawals::Centers for Disease Control,52
-2017,12,27,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Other Withdrawals::Emergency Prep & Response (DHS),1/ -83
+2017,12,27,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Other Withdrawals::Emergency Prep & Response (DHS),-83
 2017,12,27,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Other Withdrawals::Small Business Administration,55
 2017,12,27,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Other Withdrawals::TARP,154
 2017,12,27,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Other Withdrawals::Thrift Savings Plan Transfer,267

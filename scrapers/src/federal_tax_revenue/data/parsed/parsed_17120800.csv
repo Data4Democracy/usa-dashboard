@@ -46,8 +46,8 @@ year,month,day,metric,count
 2017,12,8,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Health and Human Services Grants (misc),437
 2017,12,8,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Housing and Urban Development programs,138
 2017,12,8,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Interest on Treasury Securities,0
-2017,12,8,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::IRS Tax Refunds Business (EFT),1/ -13
-2017,12,8,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::IRS Tax Refunds Individual (EFT),2/ -1
+2017,12,8,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::IRS Tax Refunds Business (EFT),-13
+2017,12,8,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::IRS Tax Refunds Individual (EFT),-1
 2017,12,8,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Justice Department programs,55
 2017,12,8,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Labor Dept. prgms (excl. unemployment),145
 2017,12,8,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Medicaid,1505
@@ -199,6 +199,6 @@ year,month,day,metric,count
 2017,12,8,Short-Term Cash Investments::Balance Transactions::Withdrawals::Repo Investment::Total,0
 2017,12,8,Short-Term Cash Investments::Balance Transactions::Closing Balance Today::Total,0
 2017,12,8,Income Tax Refunds Issued::Classification::IRS Tax Refunds Business (Checks),103
-2017,12,8,Income Tax Refunds Issued::Classification::IRS Tax Refunds Business (EFT),1/ -13
+2017,12,8,Income Tax Refunds Issued::Classification::IRS Tax Refunds Business (EFT),-13
 2017,12,8,Income Tax Refunds Issued::Classification::IRS Tax Refunds Individual (Checks),695
-2017,12,8,Income Tax Refunds Issued::Classification::IRS Tax Refunds Individual (EFT),2/ -1
+2017,12,8,Income Tax Refunds Issued::Classification::IRS Tax Refunds Individual (EFT),-1
