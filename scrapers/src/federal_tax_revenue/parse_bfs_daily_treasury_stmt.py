@@ -149,12 +149,12 @@ class TreasuryStatementParser:
             for mapping_override in self.config["mapping_overrides"]:
                 file_target = self.config["file_targets"][mapping_override["file_id"]]
 
-                self.df.loc[re.match(mapping_override["attribute_pattern"], self.df["metric"]) is not None, "file_name"] = \
-                    file_target["file_pattern"]
+                self.df.loc[self.df["metric"].str.match(mapping_override["attribute_pattern"]), "file_name"] = \
+                        file_target["file_pattern"]
 
-            unassigned_rows = self.df[[z is None for z in self.df["file_name"]]]
-            if unassigned_rows.shape[0] > 0:
-                print(unassigned_rows)
+            unassigned_metrics = self.df[[z is None for z in self.df["file_name"]]]["metric"]
+            if unassigned_metrics.size > 0:
+                print(list(unassigned_metrics))
                 raise Exception("Some rows were not assigned to a file.")
 
 
