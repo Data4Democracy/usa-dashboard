@@ -1,0 +1,45 @@
+year,month,day,metric,count
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Opening Balance Today::Type of Depositary A,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Deposits::Transfers to Depositaries::Type of Depositary A,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Deposits::Special Direct Investment::Type of Depositary A,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Deposits::Term Investment::Type of Depositary A,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Deposits::Repo Investment::Type of Depositary A,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Withdrawals::Treasury Initiated::Type of Depositary A,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Withdrawals::Depositary Initiated::Type of Depositary A,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Withdrawals::Special Direct Investment::Type of Depositary A,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Withdrawals::Term Investment::Type of Depositary A,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Withdrawals::Repo Investment::Type of Depositary A,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Closing Balance Today::Type of Depositary A,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Opening Balance Today::Type of Depositary B,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Deposits::Transfers to Depositaries::Type of Depositary B,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Deposits::Special Direct Investment::Type of Depositary B,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Deposits::Term Investment::Type of Depositary B,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Deposits::Repo Investment::Type of Depositary B,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Withdrawals::Treasury Initiated::Type of Depositary B,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Withdrawals::Depositary Initiated::Type of Depositary B,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Withdrawals::Special Direct Investment::Type of Depositary B,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Withdrawals::Term Investment::Type of Depositary B,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Withdrawals::Repo Investment::Type of Depositary B,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Closing Balance Today::Type of Depositary B,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Opening Balance Today::Type of Depositary C,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Deposits::Transfers to Depositaries::Type of Depositary C,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Deposits::Special Direct Investment::Type of Depositary C,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Deposits::Term Investment::Type of Depositary C,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Deposits::Repo Investment::Type of Depositary C,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Withdrawals::Treasury Initiated::Type of Depositary C,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Withdrawals::Depositary Initiated::Type of Depositary C,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Withdrawals::Special Direct Investment::Type of Depositary C,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Withdrawals::Term Investment::Type of Depositary C,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Withdrawals::Repo Investment::Type of Depositary C,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Closing Balance Today::Type of Depositary C,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Opening Balance Today::Total,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Deposits::Transfers to Depositaries::Total,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Deposits::Special Direct Investment::Total,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Deposits::Term Investment::Total,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Deposits::Repo Investment::Total,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Withdrawals::Treasury Initiated::Total,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Withdrawals::Depositary Initiated::Total,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Withdrawals::Special Direct Investment::Total,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Withdrawals::Term Investment::Total,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Withdrawals::Repo Investment::Total,0
+2017,12,26,Short-Term Cash Investments::Balance Transactions::Closing Balance Today::Total,0

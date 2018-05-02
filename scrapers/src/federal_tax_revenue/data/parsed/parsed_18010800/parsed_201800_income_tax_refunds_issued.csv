@@ -1,0 +1,5 @@
+year,month,day,metric,count
+2018,1,8,Income Tax Refunds Issued::Classification::IRS Tax Refunds Business (Checks),5
+2018,1,8,Income Tax Refunds Issued::Classification::IRS Tax Refunds Business (EFT),2
+2018,1,8,Income Tax Refunds Issued::Classification::IRS Tax Refunds Individual (Checks),7
+2018,1,8,Income Tax Refunds Issued::Classification::IRS Tax Refunds Individual (EFT),0

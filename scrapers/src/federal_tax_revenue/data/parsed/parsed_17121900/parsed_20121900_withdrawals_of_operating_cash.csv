@@ -1,0 +1,42 @@
+year,month,day,metric,count
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Commodity Credit Corporation programs,123
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Defense Vendor Payments (EFT),2691
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Education Department programs,462
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Energy Department programs,102
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Federal Employees Insurance Payments,212
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Fed. Highway Administration programs,178
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Federal Salaries (EFT),393
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Food and Nutrition Service (misc),125
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::GSA programs,85
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Health and Human Services Grants (misc),348
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Housing and Urban Development programs,144
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Interest on Treasury Securities,0
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::IRS Tax Refunds Business (EFT),246
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::IRS Tax Refunds Individual (EFT),5
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Justice Department programs,56
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Labor Dept. prgms (excl. unemployment),46
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Medicaid,593
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Medicare and Other CMS Payments,1741
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Medicare Advantage - Part C&D Payments,0
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Marketplace Payments,0
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::NASA programs,147
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Postal Service Money Orders and Other,129
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Public Debt Cash Redemp. (Table III-B),796
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Social Security Benefits (EFT),49
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Supple. Nutrition Assist. Program (SNAP),189
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Temporary Assistance for Needy Families (HHS),85
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Transportation Security Admin. (DHS),12
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Unemployment Insurance Benefits,210
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Veterans Affairs programs,152
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Other Withdrawals::Agency for Internat'l Development,55
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Other Withdrawals::Agriculture,189
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Other Withdrawals::Emergency Prep & Response (DHS),333
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Other Withdrawals::Federal Transit Admin.,109
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Other Withdrawals::Thrift Savings Plan Transfer,356
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Other Withdrawals::Unclassified,977
+2017,12,19,"Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Other Withdrawals::Total, Other Withdrawals",2018
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Transfers to Depositaries,0
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Federal Reserve Account::Total Federal Reserve Account,11338
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Short-Term Cash Investments::Transfers to Federal Reserve Account (Table V),0
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Total Withdrawals (excluding transfers),11338
+2017,12,19,Deposits and Withdrawals of Operating Cash::Withdrawals::Net Change in Operating Cash Balance,-2711

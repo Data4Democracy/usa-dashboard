@@ -1,0 +1,16 @@
+year,month,day,metric,count
+2018,1,11,Public Debt Transactions::Issues::Marketable::Bills::Regular Series,139999
+2018,1,11,Public Debt Transactions::Issues::Marketable::Bills::Cash Management Series,0
+2018,1,11,Public Debt Transactions::Issues::Marketable::Notes,0
+2018,1,11,Public Debt Transactions::Issues::Marketable::Bonds,0
+2018,1,11,Public Debt Transactions::Issues::Marketable::Inflation-Protected Securities Increment,1
+2018,1,11,Public Debt Transactions::Issues::Marketable::Federal Financing Bank,0
+2018,1,11,Public Debt Transactions::Issues::Nonmarketable::United States Savings Securities::Cash Issue Price,4
+2018,1,11,Public Debt Transactions::Issues::Nonmarketable::United States Savings Securities::Interest Increment,3
+2018,1,11,Public Debt Transactions::Issues::Nonmarketable::Government Account Series,201884
+2018,1,11,Public Debt Transactions::Issues::Nonmarketable::Hope Bonds,0
+2018,1,11,Public Debt Transactions::Issues::Nonmarketable::Domestic Series,0
+2018,1,11,Public Debt Transactions::Issues::Nonmarketable::Foreign Series,0
+2018,1,11,Public Debt Transactions::Issues::Nonmarketable::State and Local Series,16
+2018,1,11,Public Debt Transactions::Issues::Nonmarketable::Other,1414
+2018,1,11,Public Debt Transactions::Issues::Total Issues,343322
