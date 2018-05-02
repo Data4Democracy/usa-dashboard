@@ -3,9 +3,6 @@ File patterns do not allow dynamic components except for for {date}, which will 
 source file.  Attribute patterns are regex patterns."""
 
 
-from collections import OrderedDict
-
-
 config = {
     # Collection of files to which the parsed data is written.
     "file_targets": {
@@ -55,15 +52,15 @@ config = {
 
     # Define custom mapping overrides here. An example entry:
     # {
-    #   "file_pattern": "Public Debt Transactions::Redemptions::Marketable::*",
+    #   "attribute_pattern": "Public Debt Transactions::Redemptions::Marketable::*",
     #   "file_id": 11,
     # }
     # This will divert any entries matching the specified tag to the file corresponding to ID 11.
     # These rows will no longer be written to their default location in file 5.
     # Order matters; in the case of multiple overrides that apply to the same row, the latest entry will be applied.
-    "mapping_overrides": OrderedDict([
+    "mapping_overrides": [
         # insert custom mappings below
 
-    ])
+    ]
 
 }
