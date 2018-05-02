@@ -150,7 +150,7 @@ class TreasuryStatementParser:
                 file_target = self.config["file_targets"][mapping_override["file_id"]]
 
                 self.df.loc[self.df["metric"].str.match(mapping_override["attribute_pattern"]), "file_name"] = \
-                        file_target["file_pattern"]
+                    file_target["file_pattern"]
 
             unassigned_metrics = self.df[[z is None for z in self.df["file_name"]]]["metric"]
             if unassigned_metrics.size > 0:
