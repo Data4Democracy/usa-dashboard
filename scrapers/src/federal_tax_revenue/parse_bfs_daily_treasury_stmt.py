@@ -8,8 +8,11 @@ class TreasuryStatementParser:
     """Read the raw string data from a treasury statement file.  Get the file date,
     clean irrelevant data out of the file, and break the remainder into individual tables."""
 
-    def __init__(self, file_str):
+    def __init__(self, file_str, config=None):
         self._raw_str = file_str
+        self.config = config
+        self.df = None
+
         self.file_date = self.get_file_date()
         self.tables = self.get_tables()
 
@@ -77,7 +80,7 @@ class TreasuryStatementParser:
 
         return [TreasuryStatementTable(item.group(1)) for item in matches]
 
-    def write_today_data_to_file(self, file_name, sep=','):
+    def write_today_data_to_file(self, parent_dir, sep=','):
         """Write the entire file contents to a delimited file of the following format:
             year, month, day, metric, count
         """
@@ -115,8 +118,44 @@ class TreasuryStatementParser:
                             ]
                         ])
 
-        df = pd.DataFrame(today_data, columns=['year', 'month', 'day', 'metric', 'count'])
-        df.to_csv(file_name, sep=sep, index=False)
+        self.df = pd.DataFrame(today_data, columns=['year', 'month', 'day', 'metric', 'count'])
+        self.assign_file_targets_to_df_rows()
+
+        ymd_date = f"{str(self.file_date.year)[:-2]}{self.file_date.month}{self.file_date.day}{self.file_date.minute}{self.file_date.second}"
+        self.df["file_name"] = self.df["file_name"].str.replace("{date}", ymd_date)
+
+        # Create the parent directory if it doesn't exist.
+        if not os.path.exists(parent_dir):
+            os.makedirs(parent_dir)
+
+        for file_name in self.df["file_name"].unique():
+            file_path = os.path.join(parent_dir, file_name)
+            self.df[self.df["file_name"] == file_name].drop("file_name", axis=1).to_csv(file_path, sep=sep, index=False)
+
+    def assign_file_targets_to_df_rows(self):
+        """Based on the supplied config, assign each row of the parsed data to a target file."""
+
+        self.df["file_name"] = None
+
+        if self.config is None:
+            self.df["file_name"] = "parsed_{date}.csv"
+        else:
+            # Start with the default patterns for each file target.
+            for file_id, file_config in self.config["file_targets"].items():
+                self.df.loc[self.df["metric"].str.match(file_config["attribute_pattern"]), "file_name"] = \
+                    file_config["file_pattern"]
+
+            # Do the same for additional mapping overrides.
+            for mapping_override in self.config["mapping_overrides"]:
+                file_target = self.config["file_targets"][mapping_override["file_id"]]
+
+                self.df.loc[re.match(mapping_override["attribute_pattern"], self.df["metric"]) is not None, "file_name"] = \
+                    file_target["file_pattern"]
+
+            unassigned_rows = self.df[[z is None for z in self.df["file_name"]]]
+            if unassigned_rows.shape[0] > 0:
+                print(unassigned_rows)
+                raise Exception("Some rows were not assigned to a file.")
 
 
 class TreasuryStatementTable:
@@ -314,6 +353,8 @@ class LabelQualifier:
 
 
 if __name__ == '__main__':
+    import parser_config
+
     RAW_DIR = os.path.join('data', 'raw')
     PARSED_DIR = os.path.join('data', 'parsed')
 
@@ -324,10 +365,10 @@ if __name__ == '__main__':
     for raw_filename in os.listdir(RAW_DIR):
         raw_file_path = os.path.join(RAW_DIR, raw_filename)
 
-        parsed_filename = 'parsed_' + raw_filename.replace('.txt', '.csv')
-        parsed_file_path = os.path.join(PARSED_DIR, parsed_filename)
+        parsed_parent_name = 'parsed_' + raw_filename.replace('.txt', '') + '/'
+        parsed_file_dir = os.path.join(PARSED_DIR, parsed_parent_name)
 
-        if os.path.exists(parsed_file_path):
+        if os.path.exists(parsed_file_dir):
             print(f"File [{raw_filename}] has already been parsed. Skipping.")
             continue
         else:
@@ -336,7 +377,7 @@ if __name__ == '__main__':
         with open(raw_file_path, 'r') as f:
             raw_content = f.read()
 
-        parser = TreasuryStatementParser(raw_content)
-        parser.write_today_data_to_file(parsed_file_path)
+        parser = TreasuryStatementParser(raw_content, parser_config.config)
+        parser.write_today_data_to_file(parsed_file_dir)
 
-        print(f"Finished parsing [{raw_filename}] to [{parsed_filename}].")
+        print(f"Finished parsing [{raw_filename}] to [{parsed_file_dir}].")
