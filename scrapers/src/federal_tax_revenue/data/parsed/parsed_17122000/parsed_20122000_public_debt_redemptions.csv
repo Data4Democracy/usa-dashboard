@@ -1,0 +1,14 @@
+year,month,day,metric,count
+2017,12,20,Public Debt Transactions::Redemptions::Marketable::Bills,0
+2017,12,20,Public Debt Transactions::Redemptions::Marketable::Notes,0
+2017,12,20,Public Debt Transactions::Redemptions::Marketable::Bonds,0
+2017,12,20,Public Debt Transactions::Redemptions::Marketable::Federal Financing Bank,0
+2017,12,20,Public Debt Transactions::Redemptions::Nonmarketable::United States Savings Securities,44
+2017,12,20,Public Debt Transactions::Redemptions::Nonmarketable::Government Account Series,323832
+2017,12,20,Public Debt Transactions::Redemptions::Nonmarketable::Hope Bonds,0
+2017,12,20,Public Debt Transactions::Redemptions::Nonmarketable::Domestic Series,0
+2017,12,20,Public Debt Transactions::Redemptions::Nonmarketable::Foreign Series,0
+2017,12,20,Public Debt Transactions::Redemptions::Nonmarketable::State and Local Series,14
+2017,12,20,Public Debt Transactions::Redemptions::Nonmarketable::Other,730
+2017,12,20,Public Debt Transactions::Redemptions::Total Redemptions,324620
+2017,12,20,Public Debt Transactions::Redemptions::Net Change in Public Debt Outstanding,-71

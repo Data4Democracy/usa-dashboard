@@ -1,0 +1,5 @@
+year,month,day,metric,count
+2017,12,26,Income Tax Refunds Issued::Classification::IRS Tax Refunds Business (Checks),286
+2017,12,26,Income Tax Refunds Issued::Classification::IRS Tax Refunds Business (EFT),18
+2017,12,26,Income Tax Refunds Issued::Classification::IRS Tax Refunds Individual (Checks),6
+2017,12,26,Income Tax Refunds Issued::Classification::IRS Tax Refunds Individual (EFT),5

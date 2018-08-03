@@ -1,0 +1,14 @@
+year,month,day,metric,count
+2018,1,3,Federal Tax Deposits::Classification::Withheld Income and Employment Taxes,8097
+2018,1,3,Federal Tax Deposits::Classification::Individual Income Taxes,301
+2018,1,3,Federal Tax Deposits::Classification::Railroad Retirement Taxes,13
+2018,1,3,Federal Tax Deposits::Classification::Excise Taxes,16
+2018,1,3,Federal Tax Deposits::Classification::Corporation Income Taxes,233
+2018,1,3,Federal Tax Deposits::Classification::Federal Unemployment Taxes,10
+2018,1,3,Federal Tax Deposits::Classification::Estate and Gift Taxes & Misc IRS Rcpts.,9
+2018,1,3,Federal Tax Deposits::Classification::Total,8677
+2018,1,3,Federal Tax Deposits::Classification::Cash Federal Tax Deposits::Direct,34
+2018,1,3,Federal Tax Deposits::Classification::Cash Federal Tax Deposits::Through Depositaries,7311
+2018,1,3,Federal Tax Deposits::Classification::Cash Federal Tax Deposits::Total Cash FTD's,7346
+2018,1,3,Federal Tax Deposits::Classification::Inter-agency Transfers,1332
+2018,1,3,Federal Tax Deposits::Classification::Total,8677
